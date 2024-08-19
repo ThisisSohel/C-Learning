@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\DummyArray\bin\Debug\net8.0\DummyArray.exe
+D:\C#_BasicLearning\ArrayProblem\DummyArray\bin\Debug\net8.0\DummyArray.deps.json
+D:\C#_BasicLearning\ArrayProblem\DummyArray\bin\Debug\net8.0\DummyArray.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\DummyArray\bin\Debug\net8.0\DummyArray.dll
+D:\C#_BasicLearning\ArrayProblem\DummyArray\bin\Debug\net8.0\DummyArray.pdb
+D:\C#_BasicLearning\ArrayProblem\DummyArray\obj\Debug\net8.0\DummyArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\DummyArray\obj\Debug\net8.0\DummyArray.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\DummyArray\obj\Debug\net8.0\DummyArray.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\DummyArray\obj\Debug\net8.0\DummyArray.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\DummyArray\obj\Debug\net8.0\DummyArray.dll
+D:\C#_BasicLearning\ArrayProblem\DummyArray\obj\Debug\net8.0\refint\DummyArray.dll
+D:\C#_BasicLearning\ArrayProblem\DummyArray\obj\Debug\net8.0\DummyArray.pdb
+D:\C#_BasicLearning\ArrayProblem\DummyArray\obj\Debug\net8.0\DummyArray.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\DummyArray\obj\Debug\net8.0\ref\DummyArray.dll

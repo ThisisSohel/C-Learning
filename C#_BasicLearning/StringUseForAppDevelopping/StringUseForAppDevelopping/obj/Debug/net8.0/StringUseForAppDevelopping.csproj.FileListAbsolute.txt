@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\bin\Debug\net8.0\StringUseForAppDevelopping.exe
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\bin\Debug\net8.0\StringUseForAppDevelopping.deps.json
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\bin\Debug\net8.0\StringUseForAppDevelopping.runtimeconfig.json
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\bin\Debug\net8.0\StringUseForAppDevelopping.dll
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\bin\Debug\net8.0\StringUseForAppDevelopping.pdb
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\obj\Debug\net8.0\StringUseForAppDevelopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\obj\Debug\net8.0\StringUseForAppDevelopping.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\obj\Debug\net8.0\StringUseForAppDevelopping.AssemblyInfo.cs
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\obj\Debug\net8.0\StringUseForAppDevelopping.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\obj\Debug\net8.0\StringUseForAppDevelopping.dll
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\obj\Debug\net8.0\refint\StringUseForAppDevelopping.dll
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\obj\Debug\net8.0\StringUseForAppDevelopping.pdb
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\obj\Debug\net8.0\StringUseForAppDevelopping.genruntimeconfig.cache
+D:\C#_BasicLearning\StringUseForAppDevelopping\StringUseForAppDevelopping\obj\Debug\net8.0\ref\StringUseForAppDevelopping.dll

@@ -1,0 +1,14 @@
+I:\.Net Framework\ProjectMaking\CRUDlist\bin\Debug\net8.0\CRUDlist.exe
+I:\.Net Framework\ProjectMaking\CRUDlist\bin\Debug\net8.0\CRUDlist.deps.json
+I:\.Net Framework\ProjectMaking\CRUDlist\bin\Debug\net8.0\CRUDlist.runtimeconfig.json
+I:\.Net Framework\ProjectMaking\CRUDlist\bin\Debug\net8.0\CRUDlist.dll
+I:\.Net Framework\ProjectMaking\CRUDlist\bin\Debug\net8.0\CRUDlist.pdb
+I:\.Net Framework\ProjectMaking\CRUDlist\obj\Debug\net8.0\CRUDlist.GeneratedMSBuildEditorConfig.editorconfig
+I:\.Net Framework\ProjectMaking\CRUDlist\obj\Debug\net8.0\CRUDlist.AssemblyInfoInputs.cache
+I:\.Net Framework\ProjectMaking\CRUDlist\obj\Debug\net8.0\CRUDlist.AssemblyInfo.cs
+I:\.Net Framework\ProjectMaking\CRUDlist\obj\Debug\net8.0\CRUDlist.csproj.CoreCompileInputs.cache
+I:\.Net Framework\ProjectMaking\CRUDlist\obj\Debug\net8.0\CRUDlist.dll
+I:\.Net Framework\ProjectMaking\CRUDlist\obj\Debug\net8.0\refint\CRUDlist.dll
+I:\.Net Framework\ProjectMaking\CRUDlist\obj\Debug\net8.0\CRUDlist.pdb
+I:\.Net Framework\ProjectMaking\CRUDlist\obj\Debug\net8.0\CRUDlist.genruntimeconfig.cache
+I:\.Net Framework\ProjectMaking\CRUDlist\obj\Debug\net8.0\ref\CRUDlist.dll

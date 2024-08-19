@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\bin\Debug\net8.0\ExceptionHandlingWithFile.exe
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\bin\Debug\net8.0\ExceptionHandlingWithFile.deps.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\bin\Debug\net8.0\ExceptionHandlingWithFile.runtimeconfig.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\bin\Debug\net8.0\ExceptionHandlingWithFile.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\bin\Debug\net8.0\ExceptionHandlingWithFile.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\obj\Debug\net8.0\ExceptionHandlingWithFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\obj\Debug\net8.0\ExceptionHandlingWithFile.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\obj\Debug\net8.0\ExceptionHandlingWithFile.AssemblyInfo.cs
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\obj\Debug\net8.0\ExceptionHandlingWithFile.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\obj\Debug\net8.0\ExceptionHandlingWithFile.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\obj\Debug\net8.0\refint\ExceptionHandlingWithFile.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\obj\Debug\net8.0\ExceptionHandlingWithFile.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\obj\Debug\net8.0\ExceptionHandlingWithFile.genruntimeconfig.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionHandlingWithFile\obj\Debug\net8.0\ref\ExceptionHandlingWithFile.dll

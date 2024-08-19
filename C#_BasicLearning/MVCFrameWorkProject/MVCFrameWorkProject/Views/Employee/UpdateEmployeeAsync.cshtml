@@ -1,0 +1,25 @@
+﻿@model MVCFrameWorkProject.Models.EmployeeViewModel
+@{
+    ViewBag.Title = "UpdateEmployeeAsync";
+}
+
+<h2>Update Employee Information</h2>
+
+@using (Html.BeginForm())
+{
+
+    <div class="form-group">
+        @Html.HiddenFor(model => model.EmployeeId)
+
+        @Html.LabelFor(model => model.EmployeeName)
+        @Html.TextBoxFor(model => model.EmployeeName, new { @class = "form-control" })
+
+        @Html.LabelFor(model => model.EmployeeAge)
+        @Html.TextBoxFor(model => model.EmployeeAge, new { @class = "form-control" })
+    </div>
+
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+}

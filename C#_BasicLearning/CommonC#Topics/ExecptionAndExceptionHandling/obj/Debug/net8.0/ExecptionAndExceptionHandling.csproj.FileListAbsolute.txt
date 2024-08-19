@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\bin\Debug\net8.0\ExecptionAndExceptionHandling.exe
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\bin\Debug\net8.0\ExecptionAndExceptionHandling.deps.json
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\bin\Debug\net8.0\ExecptionAndExceptionHandling.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\bin\Debug\net8.0\ExecptionAndExceptionHandling.dll
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\bin\Debug\net8.0\ExecptionAndExceptionHandling.pdb
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\obj\Debug\net8.0\ExecptionAndExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\obj\Debug\net8.0\ExecptionAndExceptionHandling.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\obj\Debug\net8.0\ExecptionAndExceptionHandling.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\obj\Debug\net8.0\ExecptionAndExceptionHandling.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\obj\Debug\net8.0\ExecptionAndExceptionHandling.dll
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\obj\Debug\net8.0\refint\ExecptionAndExceptionHandling.dll
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\obj\Debug\net8.0\ExecptionAndExceptionHandling.pdb
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\obj\Debug\net8.0\ExecptionAndExceptionHandling.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\ExecptionAndExceptionHandling\obj\Debug\net8.0\ref\ExecptionAndExceptionHandling.dll

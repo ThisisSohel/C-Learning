@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\bin\Debug\net8.0\GenericsCollection.exe
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\bin\Debug\net8.0\GenericsCollection.deps.json
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\bin\Debug\net8.0\GenericsCollection.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\bin\Debug\net8.0\GenericsCollection.dll
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\bin\Debug\net8.0\GenericsCollection.pdb
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\obj\Debug\net8.0\GenericsCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\obj\Debug\net8.0\GenericsCollection.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\obj\Debug\net8.0\GenericsCollection.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\obj\Debug\net8.0\GenericsCollection.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\obj\Debug\net8.0\GenericsCollection.dll
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\obj\Debug\net8.0\refint\GenericsCollection.dll
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\obj\Debug\net8.0\GenericsCollection.pdb
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\obj\Debug\net8.0\GenericsCollection.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\GenericsCollection\obj\Debug\net8.0\ref\GenericsCollection.dll

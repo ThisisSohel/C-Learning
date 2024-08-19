@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\OOP\Static.cs\bin\Debug\net8.0\Static.cs.exe
+D:\C#_BasicLearning\OOP\Static.cs\bin\Debug\net8.0\Static.cs.deps.json
+D:\C#_BasicLearning\OOP\Static.cs\bin\Debug\net8.0\Static.cs.runtimeconfig.json
+D:\C#_BasicLearning\OOP\Static.cs\bin\Debug\net8.0\Static.cs.dll
+D:\C#_BasicLearning\OOP\Static.cs\bin\Debug\net8.0\Static.cs.pdb
+D:\C#_BasicLearning\OOP\Static.cs\obj\Debug\net8.0\Static.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\OOP\Static.cs\obj\Debug\net8.0\Static.cs.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\OOP\Static.cs\obj\Debug\net8.0\Static.cs.AssemblyInfo.cs
+D:\C#_BasicLearning\OOP\Static.cs\obj\Debug\net8.0\Static.cs.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\OOP\Static.cs\obj\Debug\net8.0\Static.cs.dll
+D:\C#_BasicLearning\OOP\Static.cs\obj\Debug\net8.0\refint\Static.cs.dll
+D:\C#_BasicLearning\OOP\Static.cs\obj\Debug\net8.0\Static.cs.pdb
+D:\C#_BasicLearning\OOP\Static.cs\obj\Debug\net8.0\Static.cs.genruntimeconfig.cache
+D:\C#_BasicLearning\OOP\Static.cs\obj\Debug\net8.0\ref\Static.cs.dll

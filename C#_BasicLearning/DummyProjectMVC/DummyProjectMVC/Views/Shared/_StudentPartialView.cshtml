@@ -1,0 +1,15 @@
+﻿@model DummyProjectMVC.Models.Student
+
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => Model.StudentName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => Model.Age)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.StudentId }) |
+        @Html.ActionLink("Details", "Details", new { id = Model.StudentId }) |
+        @Html.ActionLink("Delete", "Delete", new { id = Model.StudentId })
+    </td>
+</tr>

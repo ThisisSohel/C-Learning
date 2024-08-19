@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\C#Basic\Session09\bin\Debug\net8.0\Session09.exe
+D:\C#_BasicLearning\C#Basic\Session09\bin\Debug\net8.0\Session09.deps.json
+D:\C#_BasicLearning\C#Basic\Session09\bin\Debug\net8.0\Session09.runtimeconfig.json
+D:\C#_BasicLearning\C#Basic\Session09\bin\Debug\net8.0\Session09.dll
+D:\C#_BasicLearning\C#Basic\Session09\bin\Debug\net8.0\Session09.pdb
+D:\C#_BasicLearning\C#Basic\Session09\obj\Debug\net8.0\Session09.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\C#Basic\Session09\obj\Debug\net8.0\Session09.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\C#Basic\Session09\obj\Debug\net8.0\Session09.AssemblyInfo.cs
+D:\C#_BasicLearning\C#Basic\Session09\obj\Debug\net8.0\Session09.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\C#Basic\Session09\obj\Debug\net8.0\Session09.dll
+D:\C#_BasicLearning\C#Basic\Session09\obj\Debug\net8.0\refint\Session09.dll
+D:\C#_BasicLearning\C#Basic\Session09\obj\Debug\net8.0\Session09.pdb
+D:\C#_BasicLearning\C#Basic\Session09\obj\Debug\net8.0\Session09.genruntimeconfig.cache
+D:\C#_BasicLearning\C#Basic\Session09\obj\Debug\net8.0\ref\Session09.dll

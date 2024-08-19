@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\bin\Debug\net8.0\Peaksmallerthanitsneighbours.exe
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\bin\Debug\net8.0\Peaksmallerthanitsneighbours.deps.json
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\bin\Debug\net8.0\Peaksmallerthanitsneighbours.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\bin\Debug\net8.0\Peaksmallerthanitsneighbours.dll
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\bin\Debug\net8.0\Peaksmallerthanitsneighbours.pdb
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\obj\Debug\net8.0\Peaksmallerthanitsneighbours.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\obj\Debug\net8.0\Peaksmallerthanitsneighbours.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\obj\Debug\net8.0\Peaksmallerthanitsneighbours.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\obj\Debug\net8.0\Peaksmallerthanitsneighbours.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\obj\Debug\net8.0\Peaksmallerthanitsneighbours.dll
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\obj\Debug\net8.0\refint\Peaksmallerthanitsneighbours.dll
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\obj\Debug\net8.0\Peaksmallerthanitsneighbours.pdb
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\obj\Debug\net8.0\Peaksmallerthanitsneighbours.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\Peaksmallerthanitsneighbours\obj\Debug\net8.0\ref\Peaksmallerthanitsneighbours.dll

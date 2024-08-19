@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\Singleton\bin\Debug\net8.0\Singleton.exe
+D:\C#_BasicLearning\CommonC#Topics\Singleton\bin\Debug\net8.0\Singleton.deps.json
+D:\C#_BasicLearning\CommonC#Topics\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\Singleton\bin\Debug\net8.0\Singleton.dll
+D:\C#_BasicLearning\CommonC#Topics\Singleton\bin\Debug\net8.0\Singleton.pdb
+D:\C#_BasicLearning\CommonC#Topics\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\Singleton\obj\Debug\net8.0\Singleton.dll
+D:\C#_BasicLearning\CommonC#Topics\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+D:\C#_BasicLearning\CommonC#Topics\Singleton\obj\Debug\net8.0\Singleton.pdb
+D:\C#_BasicLearning\CommonC#Topics\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\Singleton\obj\Debug\net8.0\ref\Singleton.dll

@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\bin\Debug\net8.0\StringAscendingOrder.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\bin\Debug\net8.0\StringAscendingOrder.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\bin\Debug\net8.0\StringAscendingOrder.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\bin\Debug\net8.0\StringAscendingOrder.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\bin\Debug\net8.0\StringAscendingOrder.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\obj\Debug\net8.0\StringAscendingOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\obj\Debug\net8.0\StringAscendingOrder.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\obj\Debug\net8.0\StringAscendingOrder.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\obj\Debug\net8.0\StringAscendingOrder.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\obj\Debug\net8.0\StringAscendingOrder.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\obj\Debug\net8.0\refint\StringAscendingOrder.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\obj\Debug\net8.0\StringAscendingOrder.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\obj\Debug\net8.0\StringAscendingOrder.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringAscendingOrder\obj\Debug\net8.0\ref\StringAscendingOrder.dll

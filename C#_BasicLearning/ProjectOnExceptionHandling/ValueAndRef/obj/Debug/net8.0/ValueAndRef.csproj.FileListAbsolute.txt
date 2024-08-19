@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\bin\Debug\net8.0\ValueAndRef.exe
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\bin\Debug\net8.0\ValueAndRef.deps.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\bin\Debug\net8.0\ValueAndRef.runtimeconfig.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\bin\Debug\net8.0\ValueAndRef.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\bin\Debug\net8.0\ValueAndRef.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\obj\Debug\net8.0\ValueAndRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\obj\Debug\net8.0\ValueAndRef.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\obj\Debug\net8.0\ValueAndRef.AssemblyInfo.cs
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\obj\Debug\net8.0\ValueAndRef.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\obj\Debug\net8.0\ValueAndRef.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\obj\Debug\net8.0\refint\ValueAndRef.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\obj\Debug\net8.0\ValueAndRef.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\obj\Debug\net8.0\ValueAndRef.genruntimeconfig.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ValueAndRef\obj\Debug\net8.0\ref\ValueAndRef.dll

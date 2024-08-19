@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InterfaceOOP/1.0.0": {
+        "runtime": {
+          "InterfaceOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

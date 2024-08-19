@@ -1,0 +1,1398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\CommonC#Topics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D90875-04B5-4039-9096-4D69D41CE15B}|List\\List.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D90875-04B5-4039-9096-4D69D41CE15B}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EF5C7C-84CF-4460-985D-BC9477A07119}|OperatorOverloading\\OperatorOverloading.csproj|d:\\c#_basiclearning\\commonc#topics\\operatoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EF5C7C-84CF-4460-985D-BC9477A07119}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF641D4A-3B7A-45B6-A6C9-52B2D4A24D38}|StringType\\StringMethod.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\stringtype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF641D4A-3B7A-45B6-A6C9-52B2D4A24D38}|StringType\\StringMethod.csproj|solutionrelative:stringtype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46A9061-31E4-4C30-9263-E8933FD471B0}|Encaptulation\\Encaptulation.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\encaptulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46A9061-31E4-4C30-9263-E8933FD471B0}|Encaptulation\\Encaptulation.csproj|solutionrelative:encaptulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EF5C7C-84CF-4460-985D-BC9477A07119}|OperatorOverloading\\OperatorOverloading.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\operatoroverloading\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EF5C7C-84CF-4460-985D-BC9477A07119}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B5607-56F3-4F43-B089-376D1227D648}|SynchoronousAndAsynchronousMethods\\SynchoronousAndAsynchronousMethods.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\synchoronousandasynchronousmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345B5607-56F3-4F43-B089-376D1227D648}|SynchoronousAndAsynchronousMethods\\SynchoronousAndAsynchronousMethods.csproj|solutionrelative:synchoronousandasynchronousmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D80A27-4A3B-4C39-983E-C3DC21A77B3A}|HashTable\\HashTable.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D80A27-4A3B-4C39-983E-C3DC21A77B3A}|HashTable\\HashTable.csproj|solutionrelative:hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC44F246-1835-4533-8D16-957519FA5D3E}|ExecptionAndExceptionHandling\\ExecptionAndExceptionHandling.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\execptionandexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC44F246-1835-4533-8D16-957519FA5D3E}|ExecptionAndExceptionHandling\\ExecptionAndExceptionHandling.csproj|solutionrelative:execptionandexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF5412-10E4-45CC-9730-82B3F6ECCEAD}|FilesProject\\FilesProject.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\filesproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AF5412-10E4-45CC-9730-82B3F6ECCEAD}|FilesProject\\FilesProject.csproj|solutionrelative:filesproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E4D4ED-704D-4D0D-8DB1-37D1314BC0B7}|HashSet\\HashSet.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E4D4ED-704D-4D0D-8DB1-37D1314BC0B7}|HashSet\\HashSet.csproj|solutionrelative:hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE99F48-261F-4D9C-ADD5-D776C63E369B}|Enum\\Enum.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE99F48-261F-4D9C-ADD5-D776C63E369B}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EF5C7C-84CF-4460-985D-BC9477A07119}|OperatorOverloading\\OperatorOverloading.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\operatoroverloading\\operatoroverloading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7EF5C7C-84CF-4460-985D-BC9477A07119}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\operatoroverloading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericlist\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericlist\\butterlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\butterlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericlist\\evaluateimportance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\evaluateimportance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericlist\\iimportance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\iimportance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericlist\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F725A10-C29B-4800-99EF-059663A2DC5D}|GenericsPractice\\GenericsPractice.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericspractice\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F725A10-C29B-4800-99EF-059663A2DC5D}|GenericsPractice\\GenericsPractice.csproj|solutionrelative:genericspractice\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F725A10-C29B-4800-99EF-059663A2DC5D}|GenericsPractice\\GenericsPractice.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericspractice\\genericconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F725A10-C29B-4800-99EF-059663A2DC5D}|GenericsPractice\\GenericsPractice.csproj|solutionrelative:genericspractice\\genericconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DAD9B7-94DD-410D-A4E3-9A0551165751}|GenericsCollection\\GenericsCollection.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericscollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DAD9B7-94DD-410D-A4E3-9A0551165751}|GenericsCollection\\GenericsCollection.csproj|solutionrelative:genericscollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DAD9B7-94DD-410D-A4E3-9A0551165751}|GenericsCollection\\GenericsCollection.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericscollection\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DAD9B7-94DD-410D-A4E3-9A0551165751}|GenericsCollection\\GenericsCollection.csproj|solutionrelative:genericscollection\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EC7FA-891B-4559-B3A9-4F8F6E1D077A}|Generics\\Generics.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\generics\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EC7FA-891B-4559-B3A9-4F8F6E1D077A}|Generics\\Generics.csproj|solutionrelative:generics\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A92E326-DA4C-4E41-8195-8764A7F0E698}|Dictionary\\Dictionary.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A92E326-DA4C-4E41-8195-8764A7F0E698}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEE9D8C-2C97-410F-89ED-3E817C81B6EF}|DemoProgramPractice\\DemoProgramPractice.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\demoprogrampractice\\demoprogrampractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CEE9D8C-2C97-410F-89ED-3E817C81B6EF}|DemoProgramPractice\\DemoProgramPractice.csproj|solutionrelative:demoprogrampractice\\demoprogrampractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416B9695-AE27-4929-9E54-D1DF6DCB61F1}|DataType\\DataType.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\datatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416B9695-AE27-4929-9E54-D1DF6DCB61F1}|DataType\\DataType.csproj|solutionrelative:datatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88DFDB5-09CD-45E8-9EEB-7834AF5DD18E}|ConstructorOverloading\\ConstructorOverloading.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\constructoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88DFDB5-09CD-45E8-9EEB-7834AF5DD18E}|ConstructorOverloading\\ConstructorOverloading.csproj|solutionrelative:constructoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E8A1F7-C348-4957-B6EC-7B54746C5E60}|Constructor.cs\\Constructor.cs.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\constructor.cs\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E8A1F7-C348-4957-B6EC-7B54746C5E60}|Constructor.cs\\Constructor.cs.csproj|solutionrelative:constructor.cs\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E8A1F7-C348-4957-B6EC-7B54746C5E60}|Constructor.cs\\Constructor.cs.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\constructor.cs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E8A1F7-C348-4957-B6EC-7B54746C5E60}|Constructor.cs\\Constructor.cs.csproj|solutionrelative:constructor.cs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E8A1F7-C348-4957-B6EC-7B54746C5E60}|Constructor.cs\\Constructor.cs.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\constructor.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E8A1F7-C348-4957-B6EC-7B54746C5E60}|Constructor.cs\\Constructor.cs.csproj|solutionrelative:constructor.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699D8B48-C525-4C69-9641-C57B70DD3D9C}|CommandLineArgs\\CommandLineArgs.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\commandlineargs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699D8B48-C525-4C69-9641-C57B70DD3D9C}|CommandLineArgs\\CommandLineArgs.csproj|solutionrelative:commandlineargs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88882FFC-A67E-445E-9444-B05E9F67C1D0}|BoxingUnboxing\\BoxingUnboxing.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\boxingunboxing\\bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88882FFC-A67E-445E-9444-B05E9F67C1D0}|BoxingUnboxing\\BoxingUnboxing.csproj|solutionrelative:boxingunboxing\\bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88882FFC-A67E-445E-9444-B05E9F67C1D0}|BoxingUnboxing\\BoxingUnboxing.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88882FFC-A67E-445E-9444-B05E9F67C1D0}|BoxingUnboxing\\BoxingUnboxing.csproj|solutionrelative:boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497515EB-5E44-438C-A257-502974B9BF53}|Array\\Array.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497515EB-5E44-438C-A257-502974B9BF53}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBE9A50-6B0D-4013-883B-8AB0B37ABD19}|2DArray\\2DArray.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\2darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBE9A50-6B0D-4013-883B-8AB0B37ABD19}|2DArray\\2DArray.csproj|solutionrelative:2darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEE9D8C-2C97-410F-89ED-3E817C81B6EF}|DemoProgramPractice\\DemoProgramPractice.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\demoprogrampractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEE9D8C-2C97-410F-89ED-3E817C81B6EF}|DemoProgramPractice\\DemoProgramPractice.csproj|solutionrelative:demoprogrampractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8FDABA-D876-4E5F-B00A-F184F62CBC88}|DemoXML\\DemoXML.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\demoxml\\demoxml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A8FDABA-D876-4E5F-B00A-F184F62CBC88}|DemoXML\\DemoXML.csproj|solutionrelative:demoxml\\demoxml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEE9D8C-2C97-410F-89ED-3E817C81B6EF}|DemoProgramPractice\\DemoProgramPractice.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\demoprogrampractice\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEE9D8C-2C97-410F-89ED-3E817C81B6EF}|DemoProgramPractice\\DemoProgramPractice.csproj|solutionrelative:demoprogrampractice\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericlist\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805B1DE1-9945-4985-886D-375D1411873D}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B5607-56F3-4F43-B089-376D1227D648}|SynchoronousAndAsynchronousMethods\\SynchoronousAndAsynchronousMethods.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\synchoronousandasynchronousmethods\\synchoronousandasynchronousmethods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{345B5607-56F3-4F43-B089-376D1227D648}|SynchoronousAndAsynchronousMethods\\SynchoronousAndAsynchronousMethods.csproj|solutionrelative:synchoronousandasynchronousmethods\\synchoronousandasynchronousmethods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46239381-B961-4125-9373-6E3FC9780594}|HashsetProblemSolving\\HashsetProblemSolving.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\hashsetproblemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46239381-B961-4125-9373-6E3FC9780594}|HashsetProblemSolving\\HashsetProblemSolving.csproj|solutionrelative:hashsetproblemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F725A10-C29B-4800-99EF-059663A2DC5D}|GenericsPractice\\GenericsPractice.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\genericspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F725A10-C29B-4800-99EF-059663A2DC5D}|GenericsPractice\\GenericsPractice.csproj|solutionrelative:genericspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EC7FA-891B-4559-B3A9-4F8F6E1D077A}|Generics\\Generics.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\generics\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EC7FA-891B-4559-B3A9-4F8F6E1D077A}|Generics\\Generics.csproj|solutionrelative:generics\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EC7FA-891B-4559-B3A9-4F8F6E1D077A}|Generics\\Generics.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EC7FA-891B-4559-B3A9-4F8F6E1D077A}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D90875-04B5-4039-9096-4D69D41CE15B}|List\\List.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\list\\list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7D90875-04B5-4039-9096-4D69D41CE15B}|List\\List.csproj|solutionrelative:list\\list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EC7FA-891B-4559-B3A9-4F8F6E1D077A}|Generics\\Generics.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\generics\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EC7FA-891B-4559-B3A9-4F8F6E1D077A}|Generics\\Generics.csproj|solutionrelative:generics\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88568742-2E66-407F-86CE-EA8261FBE66D}|ManageUnmanagedCode\\ManageUnmanagedCode.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\manageunmanagedcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88568742-2E66-407F-86CE-EA8261FBE66D}|ManageUnmanagedCode\\ManageUnmanagedCode.csproj|solutionrelative:manageunmanagedcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8FDABA-D876-4E5F-B00A-F184F62CBC88}|DemoXML\\DemoXML.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\demoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8FDABA-D876-4E5F-B00A-F184F62CBC88}|DemoXML\\DemoXML.csproj|solutionrelative:demoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49613ABE-E219-4867-A9E0-2D01CBDD5DEA}|PartialClassAndMethod\\PartialClassAndMethod.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\partialclassandmethod\\employeemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49613ABE-E219-4867-A9E0-2D01CBDD5DEA}|PartialClassAndMethod\\PartialClassAndMethod.csproj|solutionrelative:partialclassandmethod\\employeemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49613ABE-E219-4867-A9E0-2D01CBDD5DEA}|PartialClassAndMethod\\PartialClassAndMethod.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\partialclassandmethod\\employeeprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49613ABE-E219-4867-A9E0-2D01CBDD5DEA}|PartialClassAndMethod\\PartialClassAndMethod.csproj|solutionrelative:partialclassandmethod\\employeeprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49613ABE-E219-4867-A9E0-2D01CBDD5DEA}|PartialClassAndMethod\\PartialClassAndMethod.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\partialclassandmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49613ABE-E219-4867-A9E0-2D01CBDD5DEA}|PartialClassAndMethod\\PartialClassAndMethod.csproj|solutionrelative:partialclassandmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19AC0BF-904F-42A4-972E-C8E6778B126D}|InterfaceOOP\\InterfaceOOP.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\interfaceoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19AC0BF-904F-42A4-972E-C8E6778B126D}|InterfaceOOP\\InterfaceOOP.csproj|solutionrelative:interfaceoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B599A8-7155-4184-8C3E-A06415390BC2}|ArrayList\\ArrayList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B599A8-7155-4184-8C3E-A06415390BC2}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E0C36-7DCA-425A-BCB4-FFADF02092F9}|CommonC#Topics\\InputOutput.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\commonc#topics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E0C36-7DCA-425A-BCB4-FFADF02092F9}|CommonC#Topics\\InputOutput.csproj|solutionrelative:commonc#topics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_BasicLearning\\CommonC#Topics\\InputOutput\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InputOutput\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13957E22-9EF0-46EC-8DD1-11AA49B5844F}|ForLoop\\ForLoop.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13957E22-9EF0-46EC-8DD1-11AA49B5844F}|ForLoop\\ForLoop.csproj|solutionrelative:forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC7F84-EF61-48C4-9B40-4DC0D4DEE795}|SealedClass\\SealedClass.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\sealedclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC7F84-EF61-48C4-9B40-4DC0D4DEE795}|SealedClass\\SealedClass.csproj|solutionrelative:sealedclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC7F84-EF61-48C4-9B40-4DC0D4DEE795}|SealedClass\\SealedClass.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\sealedclass\\personsealed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC7F84-EF61-48C4-9B40-4DC0D4DEE795}|SealedClass\\SealedClass.csproj|solutionrelative:sealedclass\\personsealed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B9452B-E691-4FED-9227-3AEF05ED980B}|Method\\Method.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B9452B-E691-4FED-9227-3AEF05ED980B}|Method\\Method.csproj|solutionrelative:method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E87768-F7E8-4637-A22D-F5DB661A267C}|Static\\Static.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E87768-F7E8-4637-A22D-F5DB661A267C}|Static\\Static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C73117B-B7AE-4EB6-BE3D-EC2192A661E1}|ObjectMethod\\ObjectMethod.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\objectmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C73117B-B7AE-4EB6-BE3D-EC2192A661E1}|ObjectMethod\\ObjectMethod.csproj|solutionrelative:objectmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C73117B-B7AE-4EB6-BE3D-EC2192A661E1}|ObjectMethod\\ObjectMethod.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\objectmethod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C73117B-B7AE-4EB6-BE3D-EC2192A661E1}|ObjectMethod\\ObjectMethod.csproj|solutionrelative:objectmethod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C73117B-B7AE-4EB6-BE3D-EC2192A661E1}|ObjectMethod\\ObjectMethod.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\objectmethod\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C73117B-B7AE-4EB6-BE3D-EC2192A661E1}|ObjectMethod\\ObjectMethod.csproj|solutionrelative:objectmethod\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DE07CE-33D1-4B63-BE87-226B985672C1}|SortedList\\SortedList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DE07CE-33D1-4B63-BE87-226B985672C1}|SortedList\\SortedList.csproj|solutionrelative:sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69138CF4-7F2B-483B-BDE3-76F50926D242}|OutSideClass\\OutSideClass.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\outsideclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69138CF4-7F2B-483B-BDE3-76F50926D242}|OutSideClass\\OutSideClass.csproj|solutionrelative:outsideclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DE07CE-33D1-4B63-BE87-226B985672C1}|SortedList\\SortedList.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\sortedlist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DE07CE-33D1-4B63-BE87-226B985672C1}|SortedList\\SortedList.csproj|solutionrelative:sortedlist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69138CF4-7F2B-483B-BDE3-76F50926D242}|OutSideClass\\OutSideClass.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\outsideclass\\experson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69138CF4-7F2B-483B-BDE3-76F50926D242}|OutSideClass\\OutSideClass.csproj|solutionrelative:outsideclass\\experson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF641D4A-3B7A-45B6-A6C9-52B2D4A24D38}|StringType\\StringType.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\stringtype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF641D4A-3B7A-45B6-A6C9-52B2D4A24D38}|StringType\\StringType.csproj|solutionrelative:stringtype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07A3301-2789-426F-85B9-54DA30416053}|Delegate\\Delegate.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\delegate\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07A3301-2789-426F-85B9-54DA30416053}|Delegate\\Delegate.csproj|solutionrelative:delegate\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07A3301-2789-426F-85B9-54DA30416053}|Delegate\\Delegate.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07A3301-2789-426F-85B9-54DA30416053}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4127247C-F270-46E2-B780-D8BF50FF1378}|Struct\\Struct.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4127247C-F270-46E2-B780-D8BF50FF1378}|Struct\\Struct.csproj|solutionrelative:struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AAD053-C77F-454F-971B-65360948AABD}|Operator\\Operator.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AAD053-C77F-454F-971B-65360948AABD}|Operator\\Operator.csproj|solutionrelative:operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853B498D-9D0E-4F17-96CD-A75D64D7FCB9}|ValueTypeRef!\\ValueTypeRef!.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\valuetyperef!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853B498D-9D0E-4F17-96CD-A75D64D7FCB9}|ValueTypeRef!\\ValueTypeRef!.csproj|solutionrelative:valuetyperef!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED52C354-571E-4F7A-9C28-7E2838B50DD7}|ValueTypeRefType\\ValueTypeRefType.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\valuetypereftype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED52C354-571E-4F7A-9C28-7E2838B50DD7}|ValueTypeRefType\\ValueTypeRefType.csproj|solutionrelative:valuetypereftype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C97073-A3A3-447A-A197-E4181F9B22C2}|ProjectEntryPoint\\ProjectEntryPoint.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\projectentrypoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C97073-A3A3-447A-A197-E4181F9B22C2}|ProjectEntryPoint\\ProjectEntryPoint.csproj|solutionrelative:projectentrypoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4080C6-980B-41CA-B5BD-1D397BB7D4D6}|Singleton\\Singleton.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4080C6-980B-41CA-B5BD-1D397BB7D4D6}|Singleton\\Singleton.csproj|solutionrelative:singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4080C6-980B-41CA-B5BD-1D397BB7D4D6}|Singleton\\Singleton.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4080C6-980B-41CA-B5BD-1D397BB7D4D6}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C29E49-2857-463E-94C1-6BF22945907C}|Anonymous\\Anonymous.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\anonymous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C29E49-2857-463E-94C1-6BF22945907C}|Anonymous\\Anonymous.csproj|solutionrelative:anonymous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259F99-2ABF-4035-BD07-4EE91F74A17C}|Methods\\Methods.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259F99-2ABF-4035-BD07-4EE91F74A17C}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CD9B60-DCA6-413E-8C01-A962910B1A66}|StringBuilder\\StringBuilder.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CD9B60-DCA6-413E-8C01-A962910B1A66}|StringBuilder\\StringBuilder.csproj|solutionrelative:stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\inheritance\\exstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\exstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\inheritance\\militaryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\militaryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\inheritance\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\inheritance\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|D:\\C#_BasicLearning\\CommonC#Topics\\inheritance\\stuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F976308-653A-4FAB-9D0C-835F71EF9028}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\stuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\SynchoronousAndAsynchronousMethods\\Program.cs",
+              "RelativeDocumentMoniker": "SynchoronousAndAsynchronousMethods\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\SynchoronousAndAsynchronousMethods\\Program.cs",
+              "RelativeToolTip": "SynchoronousAndAsynchronousMethods\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T04:14:17.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IImportance.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\IImportance.cs",
+              "RelativeDocumentMoniker": "GenericList\\IImportance.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\IImportance.cs",
+              "RelativeToolTip": "GenericList\\IImportance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:24:26.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\MathOperations.cs",
+              "RelativeDocumentMoniker": "GenericList\\MathOperations.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\MathOperations.cs",
+              "RelativeToolTip": "GenericList\\MathOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:40:58.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\List\\Program.cs",
+              "RelativeDocumentMoniker": "List\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\List\\Program.cs",
+              "RelativeToolTip": "List\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:42:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\OperatorOverloading\\Ticket.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Ticket.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\OperatorOverloading\\Ticket.cs",
+              "RelativeToolTip": "OperatorOverloading\\Ticket.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:45:01.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Encaptulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encaptulation\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Encaptulation\\Program.cs",
+              "RelativeToolTip": "Encaptulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:59:14.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\HashSet\\Program.cs",
+              "RelativeDocumentMoniker": "HashSet\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\HashSet\\Program.cs",
+              "RelativeToolTip": "HashSet\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:04:27.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\OperatorOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\OperatorOverloading\\Program.cs",
+              "RelativeToolTip": "OperatorOverloading\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:57:03.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Enum\\Program.cs",
+              "RelativeToolTip": "Enum\\Program.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:59:29.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\FilesProject\\Program.cs",
+              "RelativeDocumentMoniker": "FilesProject\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\FilesProject\\Program.cs",
+              "RelativeToolTip": "FilesProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:19:01.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ExecptionAndExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ExecptionAndExceptionHandling\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ExecptionAndExceptionHandling\\Program.cs",
+              "RelativeToolTip": "ExecptionAndExceptionHandling\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:29:20.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\HashTable\\Program.cs",
+              "RelativeDocumentMoniker": "HashTable\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\HashTable\\Program.cs",
+              "RelativeToolTip": "HashTable\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:10:38.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\StringType\\Program.cs",
+              "RelativeDocumentMoniker": "StringType\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\StringType\\Program.cs",
+              "RelativeToolTip": "StringType\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:30:03.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EvaluateImportance.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\EvaluateImportance.cs",
+              "RelativeDocumentMoniker": "GenericList\\EvaluateImportance.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\EvaluateImportance.cs",
+              "RelativeToolTip": "GenericList\\EvaluateImportance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:25:58.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ButterList.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\ButterList.cs",
+              "RelativeDocumentMoniker": "GenericList\\ButterList.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\ButterList.cs",
+              "RelativeToolTip": "GenericList\\ButterList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:20:25.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Dictionary\\Program.cs",
+              "RelativeToolTip": "Dictionary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:49:42.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SampleClass.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\SampleClass.cs",
+              "RelativeDocumentMoniker": "GenericList\\SampleClass.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\SampleClass.cs",
+              "RelativeToolTip": "GenericList\\SampleClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:29:23.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsPractice\\DataStore.cs",
+              "RelativeDocumentMoniker": "GenericsPractice\\DataStore.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsPractice\\DataStore.cs",
+              "RelativeToolTip": "GenericsPractice\\DataStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:34:34.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OperatorOverloading",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\OperatorOverloading\\OperatorOverloading.csproj",
+              "RelativeDocumentMoniker": "OperatorOverloading\\OperatorOverloading.csproj",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\OperatorOverloading\\OperatorOverloading.csproj",
+              "RelativeToolTip": "OperatorOverloading\\OperatorOverloading.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T02:59:33.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericConstraint.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsPractice\\GenericConstraint.cs",
+              "RelativeDocumentMoniker": "GenericsPractice\\GenericConstraint.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsPractice\\GenericConstraint.cs",
+              "RelativeToolTip": "GenericsPractice\\GenericConstraint.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:34:54.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsCollection\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsCollection\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsCollection\\Program.cs",
+              "RelativeToolTip": "GenericsCollection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:21:03.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListItem.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsCollection\\ListItem.cs",
+              "RelativeDocumentMoniker": "GenericsCollection\\ListItem.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsCollection\\ListItem.cs",
+              "RelativeToolTip": "GenericsCollection\\ListItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:23:00.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Generics\\IStudent.cs",
+              "RelativeDocumentMoniker": "Generics\\IStudent.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Generics\\IStudent.cs",
+              "RelativeToolTip": "Generics\\IStudent.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:39:07.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DemoProgramPractice.csproj",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoProgramPractice\\DemoProgramPractice.csproj",
+              "RelativeDocumentMoniker": "DemoProgramPractice\\DemoProgramPractice.csproj",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoProgramPractice\\DemoProgramPractice.csproj",
+              "RelativeToolTip": "DemoProgramPractice\\DemoProgramPractice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T08:02:52.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\DataType\\Program.cs",
+              "RelativeDocumentMoniker": "DataType\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\DataType\\Program.cs",
+              "RelativeToolTip": "DataType\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:37:19.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ConstructorOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorOverloading\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ConstructorOverloading\\Program.cs",
+              "RelativeToolTip": "ConstructorOverloading\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:52:41.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "University.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Constructor.cs\\University.cs",
+              "RelativeDocumentMoniker": "Constructor.cs\\University.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Constructor.cs\\University.cs",
+              "RelativeToolTip": "Constructor.cs\\University.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:39:40.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Constructor.cs\\Student.cs",
+              "RelativeDocumentMoniker": "Constructor.cs\\Student.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Constructor.cs\\Student.cs",
+              "RelativeToolTip": "Constructor.cs\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:39:39.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Constructor.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Constructor.cs\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Constructor.cs\\Program.cs",
+              "RelativeToolTip": "Constructor.cs\\Program.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAcwNgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:39:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\CommandLineArgs\\Program.cs",
+              "RelativeDocumentMoniker": "CommandLineArgs\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\CommandLineArgs\\Program.cs",
+              "RelativeToolTip": "CommandLineArgs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:41:13.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Bonus.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\BoxingUnboxing\\Bonus.cs",
+              "RelativeDocumentMoniker": "BoxingUnboxing\\Bonus.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\BoxingUnboxing\\Bonus.cs",
+              "RelativeToolTip": "BoxingUnboxing\\Bonus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:05:57.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\BoxingUnboxing\\Program.cs",
+              "RelativeDocumentMoniker": "BoxingUnboxing\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\BoxingUnboxing\\Program.cs",
+              "RelativeToolTip": "BoxingUnboxing\\Program.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAowHMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:02:02.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\2DArray\\Program.cs",
+              "RelativeDocumentMoniker": "2DArray\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\2DArray\\Program.cs",
+              "RelativeToolTip": "2DArray\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:14:54.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Array\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Array\\Program.cs",
+              "RelativeToolTip": "Array\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:56:36.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SynchoronousAndAsynchronousMethods.csproj",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\SynchoronousAndAsynchronousMethods\\SynchoronousAndAsynchronousMethods.csproj",
+              "RelativeDocumentMoniker": "SynchoronousAndAsynchronousMethods\\SynchoronousAndAsynchronousMethods.csproj",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\SynchoronousAndAsynchronousMethods\\SynchoronousAndAsynchronousMethods.csproj",
+              "RelativeToolTip": "SynchoronousAndAsynchronousMethods\\SynchoronousAndAsynchronousMethods.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T09:11:36.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoProgramPractice\\Demo.cs",
+              "RelativeDocumentMoniker": "DemoProgramPractice\\Demo.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoProgramPractice\\Demo.cs",
+              "RelativeToolTip": "DemoProgramPractice\\Demo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:02:55.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DemoXML.csproj",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoXML\\DemoXML.csproj",
+              "RelativeDocumentMoniker": "DemoXML\\DemoXML.csproj",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoXML\\DemoXML.csproj",
+              "RelativeToolTip": "DemoXML\\DemoXML.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T08:02:57.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoProgramPractice\\Program.cs",
+              "RelativeDocumentMoniker": "DemoProgramPractice\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoProgramPractice\\Program.cs",
+              "RelativeToolTip": "DemoProgramPractice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:02:59.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GenericList.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\GenericList.cs",
+              "RelativeDocumentMoniker": "GenericList\\GenericList.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\GenericList.cs",
+              "RelativeToolTip": "GenericList\\GenericList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:34:56.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\Program.cs",
+              "RelativeDocumentMoniker": "GenericList\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericList\\Program.cs",
+              "RelativeToolTip": "GenericList\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:34:02.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\HashsetProblemSolving\\Program.cs",
+              "RelativeDocumentMoniker": "HashsetProblemSolving\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\HashsetProblemSolving\\Program.cs",
+              "RelativeToolTip": "HashsetProblemSolving\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:16:10.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "List.csproj",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\List\\List.csproj",
+              "RelativeDocumentMoniker": "List\\List.csproj",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\List\\List.csproj",
+              "RelativeToolTip": "List\\List.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T07:12:13.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsPractice\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsPractice\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\GenericsPractice\\Program.cs",
+              "RelativeToolTip": "GenericsPractice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:33:44.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Generics\\Person.cs",
+              "RelativeDocumentMoniker": "Generics\\Person.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Generics\\Person.cs",
+              "RelativeToolTip": "Generics\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:29:01.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ManageUnmanagedCode\\Program.cs",
+              "RelativeDocumentMoniker": "ManageUnmanagedCode\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ManageUnmanagedCode\\Program.cs",
+              "RelativeToolTip": "ManageUnmanagedCode\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAywBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:58:34.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EmployeeMethods.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\PartialClassAndMethod\\EmployeeMethods.cs",
+              "RelativeDocumentMoniker": "PartialClassAndMethod\\EmployeeMethods.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\PartialClassAndMethod\\EmployeeMethods.cs",
+              "RelativeToolTip": "PartialClassAndMethod\\EmployeeMethods.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:07:47.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EmployeeProps.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\PartialClassAndMethod\\EmployeeProps.cs",
+              "RelativeDocumentMoniker": "PartialClassAndMethod\\EmployeeProps.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\PartialClassAndMethod\\EmployeeProps.cs",
+              "RelativeToolTip": "PartialClassAndMethod\\EmployeeProps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:06:32.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\PartialClassAndMethod\\Program.cs",
+              "RelativeDocumentMoniker": "PartialClassAndMethod\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\PartialClassAndMethod\\Program.cs",
+              "RelativeToolTip": "PartialClassAndMethod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:03:28.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\InterfaceOOP\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceOOP\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\InterfaceOOP\\Program.cs",
+              "RelativeToolTip": "InterfaceOOP\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:52:00.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\CommonC#Topics\\Program.cs",
+              "RelativeDocumentMoniker": "CommonC#Topics\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\CommonC#Topics\\Program.cs",
+              "RelativeToolTip": "CommonC#Topics\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAvwF0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:06:01.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\InputOutput\\Program.cs",
+              "RelativeDocumentMoniker": "InputOutput\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\InputOutput\\Program.cs",
+              "RelativeToolTip": "InputOutput\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:05:17.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ObjectMethod\\Student.cs",
+              "RelativeDocumentMoniker": "ObjectMethod\\Student.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ObjectMethod\\Student.cs",
+              "RelativeToolTip": "ObjectMethod\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:35:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ObjectMethod\\Triangle.cs",
+              "RelativeDocumentMoniker": "ObjectMethod\\Triangle.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ObjectMethod\\Triangle.cs",
+              "RelativeToolTip": "ObjectMethod\\Triangle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:56:07.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ObjectMethod\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectMethod\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ObjectMethod\\Program.cs",
+              "RelativeToolTip": "ObjectMethod\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:38:32.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\SortedList\\Program.cs",
+              "RelativeDocumentMoniker": "SortedList\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\SortedList\\Program.cs",
+              "RelativeToolTip": "SortedList\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:43:37.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ExPerson.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\OutSideClass\\ExPerson.cs",
+              "RelativeDocumentMoniker": "OutSideClass\\ExPerson.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\OutSideClass\\ExPerson.cs",
+              "RelativeToolTip": "OutSideClass\\ExPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:55:22.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\OutSideClass\\Program.cs",
+              "RelativeDocumentMoniker": "OutSideClass\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\OutSideClass\\Program.cs",
+              "RelativeToolTip": "OutSideClass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:47:43.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\SortedList\\Employee.cs",
+              "RelativeDocumentMoniker": "SortedList\\Employee.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\SortedList\\Employee.cs",
+              "RelativeToolTip": "SortedList\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:03:35.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Delegate\\Employee.cs",
+              "RelativeDocumentMoniker": "Delegate\\Employee.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Delegate\\Employee.cs",
+              "RelativeToolTip": "Delegate\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:52:38.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:10:51.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Generics\\Student.cs",
+              "RelativeDocumentMoniker": "Generics\\Student.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Generics\\Student.cs",
+              "RelativeToolTip": "Generics\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:23:09.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:37:24.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ForLoop\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoop\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ForLoop\\Program.cs",
+              "RelativeToolTip": "ForLoop\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:41:17.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\StringType\\Program.cs",
+              "RelativeDocumentMoniker": "StringType\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\StringType\\Program.cs",
+              "RelativeToolTip": "StringType\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:59:04.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Method\\Program.cs",
+              "RelativeDocumentMoniker": "Method\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Method\\Program.cs",
+              "RelativeToolTip": "Method\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:54:54.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PersonSealed.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\SealedClass\\PersonSealed.cs",
+              "RelativeDocumentMoniker": "SealedClass\\PersonSealed.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\SealedClass\\PersonSealed.cs",
+              "RelativeToolTip": "SealedClass\\PersonSealed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:38:41.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\SealedClass\\Program.cs",
+              "RelativeDocumentMoniker": "SealedClass\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\SealedClass\\Program.cs",
+              "RelativeToolTip": "SealedClass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:37:56.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Struct\\Program.cs",
+              "RelativeDocumentMoniker": "Struct\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Struct\\Program.cs",
+              "RelativeToolTip": "Struct\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:25:31.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ValueTypeRef!\\Program.cs",
+              "RelativeDocumentMoniker": "ValueTypeRef!\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ValueTypeRef!\\Program.cs",
+              "RelativeToolTip": "ValueTypeRef!\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:34:25.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ProjectEntryPoint\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectEntryPoint\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ProjectEntryPoint\\Program.cs",
+              "RelativeToolTip": "ProjectEntryPoint\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:03:49.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ArrayList\\Program.cs",
+              "RelativeToolTip": "ArrayList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:18:33.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SingleTon.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Singleton\\SingleTon.cs",
+              "RelativeDocumentMoniker": "Singleton\\SingleTon.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Singleton\\SingleTon.cs",
+              "RelativeToolTip": "Singleton\\SingleTon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:32:07.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:27:15.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Anonymous\\Program.cs",
+              "RelativeDocumentMoniker": "Anonymous\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Anonymous\\Program.cs",
+              "RelativeToolTip": "Anonymous\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:54:32.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "Static\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Static\\Program.cs",
+              "RelativeToolTip": "Static\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:38:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilder\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\StringBuilder\\Program.cs",
+              "RelativeToolTip": "StringBuilder\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:38:52.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\ValueTypeRefType\\Program.cs",
+              "RelativeDocumentMoniker": "ValueTypeRefType\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\ValueTypeRefType\\Program.cs",
+              "RelativeToolTip": "ValueTypeRefType\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwBMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:38:38.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoXML\\Program.cs",
+              "RelativeDocumentMoniker": "DemoXML\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\DemoXML\\Program.cs",
+              "RelativeToolTip": "DemoXML\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:30:04.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Operator\\Program.cs",
+              "RelativeDocumentMoniker": "Operator\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Operator\\Program.cs",
+              "RelativeToolTip": "Operator\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAswGsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:41:20.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Methods\\Program.cs",
+              "RelativeToolTip": "Methods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:41:13.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ExStudent.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\ExStudent.cs",
+              "RelativeDocumentMoniker": "Inheritance\\ExStudent.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\ExStudent.cs",
+              "RelativeToolTip": "Inheritance\\ExStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:35:53.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\Factory.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Factory.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\Factory.cs",
+              "RelativeToolTip": "Inheritance\\Factory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:35:24.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Stuff.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\Stuff.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Stuff.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\Stuff.cs",
+              "RelativeToolTip": "Inheritance\\Stuff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:35:14.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\Person.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Person.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\Person.cs",
+              "RelativeToolTip": "Inheritance\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:35:07.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\News.cs",
+              "RelativeDocumentMoniker": "Inheritance\\News.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\News.cs",
+              "RelativeToolTip": "Inheritance\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:35:04.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "MilitaryFactory.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\MilitaryFactory.cs",
+              "RelativeDocumentMoniker": "Inheritance\\MilitaryFactory.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\CommonC#Topics\\Inheritance\\MilitaryFactory.cs",
+              "RelativeToolTip": "Inheritance\\MilitaryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:34:57.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

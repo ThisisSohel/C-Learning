@@ -1,0 +1,28 @@
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.exe
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.deps.json
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.runtimeconfig.json
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.dll
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.pdb
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.AssemblyInfoInputs.cache
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.AssemblyInfo.cs
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.csproj.CoreCompileInputs.cache
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.dll
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\refint\BasicProblemSolving.dll
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.pdb
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.genruntimeconfig.cache
+I:\.Net Framework\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\ref\BasicProblemSolving.dll
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.exe
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.deps.json
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.runtimeconfig.json
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.dll
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\bin\Debug\net8.0\BasicProblemSolving.pdb
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.AssemblyInfo.cs
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.dll
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\refint\BasicProblemSolving.dll
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.pdb
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\BasicProblemSolving.genruntimeconfig.cache
+D:\C#_BasicLearning\BasicProblemSolving\BasicProblemSolving\obj\Debug\net8.0\ref\BasicProblemSolving.dll

@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\bin\Debug\net8.0\BasicException.exe
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\bin\Debug\net8.0\BasicException.deps.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\bin\Debug\net8.0\BasicException.runtimeconfig.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\bin\Debug\net8.0\BasicException.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\bin\Debug\net8.0\BasicException.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\obj\Debug\net8.0\BasicException.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\obj\Debug\net8.0\BasicException.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\obj\Debug\net8.0\BasicException.AssemblyInfo.cs
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\obj\Debug\net8.0\BasicException.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\obj\Debug\net8.0\BasicException.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\obj\Debug\net8.0\refint\BasicException.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\obj\Debug\net8.0\BasicException.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\obj\Debug\net8.0\BasicException.genruntimeconfig.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\BasicException\obj\Debug\net8.0\ref\BasicException.dll

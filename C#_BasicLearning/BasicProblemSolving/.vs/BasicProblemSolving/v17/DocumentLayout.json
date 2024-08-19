@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\BasicProblemSolving\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A6EB1-75FE-4A6C-9213-495F083B1A71}|AbstractionAndEncaptulationPrinciple\\AbstractionAndEncaptulationPrinciple.csproj|D:\\C#_BasicLearning\\BasicProblemSolving\\abstractionandencaptulationprinciple\\userinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2A6EB1-75FE-4A6C-9213-495F083B1A71}|AbstractionAndEncaptulationPrinciple\\AbstractionAndEncaptulationPrinciple.csproj|solutionrelative:abstractionandencaptulationprinciple\\userinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A6EB1-75FE-4A6C-9213-495F083B1A71}|AbstractionAndEncaptulationPrinciple\\AbstractionAndEncaptulationPrinciple.csproj|D:\\C#_BasicLearning\\BasicProblemSolving\\abstractionandencaptulationprinciple\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2A6EB1-75FE-4A6C-9213-495F083B1A71}|AbstractionAndEncaptulationPrinciple\\AbstractionAndEncaptulationPrinciple.csproj|solutionrelative:abstractionandencaptulationprinciple\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028996E8-703E-4581-B03F-8BEE2985A88B}|TypeConversionProject\\TypeConversionProject.csproj|d:\\c#_basiclearning\\basicproblemsolving\\typeconversionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{028996E8-703E-4581-B03F-8BEE2985A88B}|TypeConversionProject\\TypeConversionProject.csproj|solutionrelative:typeconversionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2A6EB1-75FE-4A6C-9213-495F083B1A71}|AbstractionAndEncaptulationPrinciple\\AbstractionAndEncaptulationPrinciple.csproj|D:\\C#_BasicLearning\\BasicProblemSolving\\abstractionandencaptulationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2A6EB1-75FE-4A6C-9213-495F083B1A71}|AbstractionAndEncaptulationPrinciple\\AbstractionAndEncaptulationPrinciple.csproj|solutionrelative:abstractionandencaptulationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C56D34F-A78F-4AE0-A3BE-9F90182526B8}|OperatorOverloading\\OperatorOverloading.csproj|D:\\C#_BasicLearning\\BasicProblemSolving\\operatoroverloading\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C56D34F-A78F-4AE0-A3BE-9F90182526B8}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C56D34F-A78F-4AE0-A3BE-9F90182526B8}|OperatorOverloading\\OperatorOverloading.csproj|D:\\C#_BasicLearning\\BasicProblemSolving\\operatoroverloading\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C56D34F-A78F-4AE0-A3BE-9F90182526B8}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B48D2E-9CC6-481A-A5E9-977515C6F017}|BasicProblemSolving\\BasicProblemSolving.csproj|D:\\C#_BasicLearning\\BasicProblemSolving\\basicproblemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B48D2E-9CC6-481A-A5E9-977515C6F017}|BasicProblemSolving\\BasicProblemSolving.csproj|solutionrelative:basicproblemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2EDF12-089B-456D-A6F9-C8B7A7D26101}|OperatorOverloadingOne\\OperatorOverloadingOne.csproj|D:\\C#_BasicLearning\\BasicProblemSolving\\operatoroverloadingone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2EDF12-089B-456D-A6F9-C8B7A7D26101}|OperatorOverloadingOne\\OperatorOverloadingOne.csproj|solutionrelative:operatoroverloadingone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C56D34F-A78F-4AE0-A3BE-9F90182526B8}|OperatorOverloading\\OperatorOverloading.csproj|D:\\C#_BasicLearning\\BasicProblemSolving\\operatoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C56D34F-A78F-4AE0-A3BE-9F90182526B8}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\BasicProblemSolving\\OperatorOverloading\\Fraction.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Fraction.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\BasicProblemSolving\\OperatorOverloading\\Fraction.cs",
+              "RelativeToolTip": "OperatorOverloading\\Fraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:24:10.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\BasicProblemSolving\\BasicProblemSolving\\Program.cs",
+              "RelativeDocumentMoniker": "BasicProblemSolving\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\BasicProblemSolving\\BasicProblemSolving\\Program.cs",
+              "RelativeToolTip": "BasicProblemSolving\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:24:02.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\BasicProblemSolving\\OperatorOverloadingOne\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorOverloadingOne\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\BasicProblemSolving\\OperatorOverloadingOne\\Program.cs",
+              "RelativeToolTip": "OperatorOverloadingOne\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:07:17.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\BasicProblemSolving\\OperatorOverloading\\Ticket.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Ticket.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\BasicProblemSolving\\OperatorOverloading\\Ticket.cs",
+              "RelativeToolTip": "OperatorOverloading\\Ticket.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:06:09.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\BasicProblemSolving\\OperatorOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\BasicProblemSolving\\OperatorOverloading\\Program.cs",
+              "RelativeToolTip": "OperatorOverloading\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:19:15.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\BasicProblemSolving\\TypeConversionProject\\Program.cs",
+              "RelativeDocumentMoniker": "TypeConversionProject\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\BasicProblemSolving\\TypeConversionProject\\Program.cs",
+              "RelativeToolTip": "TypeConversionProject\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:27:50.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInputValidator.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\BasicProblemSolving\\AbstractionAndEncaptulationPrinciple\\UserInputValidator.cs",
+              "RelativeDocumentMoniker": "AbstractionAndEncaptulationPrinciple\\UserInputValidator.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\BasicProblemSolving\\AbstractionAndEncaptulationPrinciple\\UserInputValidator.cs",
+              "RelativeToolTip": "AbstractionAndEncaptulationPrinciple\\UserInputValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:18:54.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\BasicProblemSolving\\AbstractionAndEncaptulationPrinciple\\InputValidator.cs",
+              "RelativeDocumentMoniker": "AbstractionAndEncaptulationPrinciple\\InputValidator.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\BasicProblemSolving\\AbstractionAndEncaptulationPrinciple\\InputValidator.cs",
+              "RelativeToolTip": "AbstractionAndEncaptulationPrinciple\\InputValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:18:54.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\BasicProblemSolving\\AbstractionAndEncaptulationPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionAndEncaptulationPrinciple\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\BasicProblemSolving\\AbstractionAndEncaptulationPrinciple\\Program.cs",
+              "RelativeToolTip": "AbstractionAndEncaptulationPrinciple\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:18:54.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

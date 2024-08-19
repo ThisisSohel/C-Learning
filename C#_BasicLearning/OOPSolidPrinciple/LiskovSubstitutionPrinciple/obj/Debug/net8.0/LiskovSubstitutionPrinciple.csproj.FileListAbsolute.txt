@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.exe
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.deps.json
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.dll
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.pdb
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.dll
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\refint\LiskovSubstitutionPrinciple.dll
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.pdb
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+D:\C#_BasicLearning\OOPSolidPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\ref\LiskovSubstitutionPrinciple.dll

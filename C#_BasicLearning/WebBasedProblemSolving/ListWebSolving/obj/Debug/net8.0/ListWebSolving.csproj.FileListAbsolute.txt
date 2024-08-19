@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\bin\Debug\net8.0\ListWebSolving.exe
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\bin\Debug\net8.0\ListWebSolving.deps.json
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\bin\Debug\net8.0\ListWebSolving.runtimeconfig.json
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\bin\Debug\net8.0\ListWebSolving.dll
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\bin\Debug\net8.0\ListWebSolving.pdb
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\obj\Debug\net8.0\ListWebSolving.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\obj\Debug\net8.0\ListWebSolving.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\obj\Debug\net8.0\ListWebSolving.AssemblyInfo.cs
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\obj\Debug\net8.0\ListWebSolving.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\obj\Debug\net8.0\ListWebSolving.dll
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\obj\Debug\net8.0\refint\ListWebSolving.dll
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\obj\Debug\net8.0\ListWebSolving.pdb
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\obj\Debug\net8.0\ListWebSolving.genruntimeconfig.cache
+D:\C#_BasicLearning\WebBasedProblemSolving\ListWebSolving\obj\Debug\net8.0\ref\ListWebSolving.dll

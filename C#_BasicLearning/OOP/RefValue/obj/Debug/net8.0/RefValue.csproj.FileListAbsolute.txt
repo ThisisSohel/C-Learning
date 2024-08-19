@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\OOP\RefValue\bin\Debug\net8.0\RefValue.exe
+D:\C#_BasicLearning\OOP\RefValue\bin\Debug\net8.0\RefValue.deps.json
+D:\C#_BasicLearning\OOP\RefValue\bin\Debug\net8.0\RefValue.runtimeconfig.json
+D:\C#_BasicLearning\OOP\RefValue\bin\Debug\net8.0\RefValue.dll
+D:\C#_BasicLearning\OOP\RefValue\bin\Debug\net8.0\RefValue.pdb
+D:\C#_BasicLearning\OOP\RefValue\obj\Debug\net8.0\RefValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\OOP\RefValue\obj\Debug\net8.0\RefValue.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\OOP\RefValue\obj\Debug\net8.0\RefValue.AssemblyInfo.cs
+D:\C#_BasicLearning\OOP\RefValue\obj\Debug\net8.0\RefValue.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\OOP\RefValue\obj\Debug\net8.0\RefValue.dll
+D:\C#_BasicLearning\OOP\RefValue\obj\Debug\net8.0\refint\RefValue.dll
+D:\C#_BasicLearning\OOP\RefValue\obj\Debug\net8.0\RefValue.pdb
+D:\C#_BasicLearning\OOP\RefValue\obj\Debug\net8.0\RefValue.genruntimeconfig.cache
+D:\C#_BasicLearning\OOP\RefValue\obj\Debug\net8.0\ref\RefValue.dll

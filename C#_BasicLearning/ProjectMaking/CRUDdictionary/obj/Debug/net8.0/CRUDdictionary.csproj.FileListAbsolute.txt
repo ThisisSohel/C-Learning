@@ -1,0 +1,14 @@
+I:\.Net Framework\ProjectMaking\CRUDdictionary\bin\Debug\net8.0\CRUDdictionary.exe
+I:\.Net Framework\ProjectMaking\CRUDdictionary\bin\Debug\net8.0\CRUDdictionary.deps.json
+I:\.Net Framework\ProjectMaking\CRUDdictionary\bin\Debug\net8.0\CRUDdictionary.runtimeconfig.json
+I:\.Net Framework\ProjectMaking\CRUDdictionary\bin\Debug\net8.0\CRUDdictionary.dll
+I:\.Net Framework\ProjectMaking\CRUDdictionary\bin\Debug\net8.0\CRUDdictionary.pdb
+I:\.Net Framework\ProjectMaking\CRUDdictionary\obj\Debug\net8.0\CRUDdictionary.GeneratedMSBuildEditorConfig.editorconfig
+I:\.Net Framework\ProjectMaking\CRUDdictionary\obj\Debug\net8.0\CRUDdictionary.AssemblyInfoInputs.cache
+I:\.Net Framework\ProjectMaking\CRUDdictionary\obj\Debug\net8.0\CRUDdictionary.AssemblyInfo.cs
+I:\.Net Framework\ProjectMaking\CRUDdictionary\obj\Debug\net8.0\CRUDdictionary.csproj.CoreCompileInputs.cache
+I:\.Net Framework\ProjectMaking\CRUDdictionary\obj\Debug\net8.0\CRUDdictionary.dll
+I:\.Net Framework\ProjectMaking\CRUDdictionary\obj\Debug\net8.0\refint\CRUDdictionary.dll
+I:\.Net Framework\ProjectMaking\CRUDdictionary\obj\Debug\net8.0\CRUDdictionary.pdb
+I:\.Net Framework\ProjectMaking\CRUDdictionary\obj\Debug\net8.0\CRUDdictionary.genruntimeconfig.cache
+I:\.Net Framework\ProjectMaking\CRUDdictionary\obj\Debug\net8.0\ref\CRUDdictionary.dll

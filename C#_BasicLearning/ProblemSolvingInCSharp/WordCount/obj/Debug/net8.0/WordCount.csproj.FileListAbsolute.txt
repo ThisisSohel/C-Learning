@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\bin\Debug\net8.0\WordCount.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\bin\Debug\net8.0\WordCount.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\bin\Debug\net8.0\WordCount.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\bin\Debug\net8.0\WordCount.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\bin\Debug\net8.0\WordCount.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\obj\Debug\net8.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\obj\Debug\net8.0\WordCount.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\obj\Debug\net8.0\WordCount.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\obj\Debug\net8.0\WordCount.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\obj\Debug\net8.0\WordCount.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\obj\Debug\net8.0\refint\WordCount.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\obj\Debug\net8.0\WordCount.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\obj\Debug\net8.0\WordCount.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\WordCount\obj\Debug\net8.0\ref\WordCount.dll

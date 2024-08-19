@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\DataStructure\PersonList\bin\Debug\net8.0\PersonList.exe
+D:\C#_BasicLearning\DataStructure\PersonList\bin\Debug\net8.0\PersonList.deps.json
+D:\C#_BasicLearning\DataStructure\PersonList\bin\Debug\net8.0\PersonList.runtimeconfig.json
+D:\C#_BasicLearning\DataStructure\PersonList\bin\Debug\net8.0\PersonList.dll
+D:\C#_BasicLearning\DataStructure\PersonList\bin\Debug\net8.0\PersonList.pdb
+D:\C#_BasicLearning\DataStructure\PersonList\obj\Debug\net8.0\PersonList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\DataStructure\PersonList\obj\Debug\net8.0\PersonList.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\DataStructure\PersonList\obj\Debug\net8.0\PersonList.AssemblyInfo.cs
+D:\C#_BasicLearning\DataStructure\PersonList\obj\Debug\net8.0\PersonList.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\DataStructure\PersonList\obj\Debug\net8.0\PersonList.dll
+D:\C#_BasicLearning\DataStructure\PersonList\obj\Debug\net8.0\refint\PersonList.dll
+D:\C#_BasicLearning\DataStructure\PersonList\obj\Debug\net8.0\PersonList.pdb
+D:\C#_BasicLearning\DataStructure\PersonList\obj\Debug\net8.0\PersonList.genruntimeconfig.cache
+D:\C#_BasicLearning\DataStructure\PersonList\obj\Debug\net8.0\ref\PersonList.dll

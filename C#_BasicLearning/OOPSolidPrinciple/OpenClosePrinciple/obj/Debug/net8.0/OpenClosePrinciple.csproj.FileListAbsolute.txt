@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\bin\Debug\net8.0\OpenClosePrinciple.exe
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\bin\Debug\net8.0\OpenClosePrinciple.deps.json
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\bin\Debug\net8.0\OpenClosePrinciple.runtimeconfig.json
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\bin\Debug\net8.0\OpenClosePrinciple.dll
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\bin\Debug\net8.0\OpenClosePrinciple.pdb
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\obj\Debug\net8.0\OpenClosePrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\obj\Debug\net8.0\OpenClosePrinciple.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\obj\Debug\net8.0\OpenClosePrinciple.AssemblyInfo.cs
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\obj\Debug\net8.0\OpenClosePrinciple.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\obj\Debug\net8.0\OpenClosePrinciple.dll
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\obj\Debug\net8.0\refint\OpenClosePrinciple.dll
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\obj\Debug\net8.0\OpenClosePrinciple.pdb
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\obj\Debug\net8.0\OpenClosePrinciple.genruntimeconfig.cache
+D:\C#_BasicLearning\OOPSolidPrinciple\OpenClosePrinciple\obj\Debug\net8.0\ref\OpenClosePrinciple.dll

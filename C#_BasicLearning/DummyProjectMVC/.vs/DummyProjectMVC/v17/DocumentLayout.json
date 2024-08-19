@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\DummyProjectMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|d:\\c#_basiclearning\\dummyprojectmvc\\dummyprojectmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|solutionrelative:dummyprojectmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|D:\\C#_BasicLearning\\DummyProjectMVC\\dummyprojectmvc\\views\\student\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|solutionrelative:dummyprojectmvc\\views\\student\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|D:\\C#_BasicLearning\\DummyProjectMVC\\dummyprojectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|solutionrelative:dummyprojectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|D:\\C#_BasicLearning\\DummyProjectMVC\\dummyprojectmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|solutionrelative:dummyprojectmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|D:\\C#_BasicLearning\\DummyProjectMVC\\dummyprojectmvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|solutionrelative:dummyprojectmvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|D:\\C#_BasicLearning\\DummyProjectMVC\\dummyprojectmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D7E009-2D84-4FBA-84B4-63A71547F248}|DummyProjectMVC\\DummyProjectMVC.csproj|solutionrelative:dummyprojectmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "DummyProjectMVC\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "DummyProjectMVC\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T04:58:18.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DummyProjectMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DummyProjectMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:58:31.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentInfo.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Views\\Student\\StudentInfo.cshtml",
+              "RelativeDocumentMoniker": "DummyProjectMVC\\Views\\Student\\StudentInfo.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Views\\Student\\StudentInfo.cshtml",
+              "RelativeToolTip": "DummyProjectMVC\\Views\\Student\\StudentInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T10:55:23.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "DummyProjectMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "DummyProjectMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:47:19.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Global.asax.cs",
+              "RelativeDocumentMoniker": "DummyProjectMVC\\Global.asax.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Global.asax.cs",
+              "RelativeToolTip": "DummyProjectMVC\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:22:12.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DummyProjectMVC\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\DummyProjectMVC\\DummyProjectMVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DummyProjectMVC\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:21:09.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

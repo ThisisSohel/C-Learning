@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\OOP\Struct.cs\bin\Debug\net8.0\Struct.cs.exe
+D:\C#_BasicLearning\OOP\Struct.cs\bin\Debug\net8.0\Struct.cs.deps.json
+D:\C#_BasicLearning\OOP\Struct.cs\bin\Debug\net8.0\Struct.cs.runtimeconfig.json
+D:\C#_BasicLearning\OOP\Struct.cs\bin\Debug\net8.0\Struct.cs.dll
+D:\C#_BasicLearning\OOP\Struct.cs\bin\Debug\net8.0\Struct.cs.pdb
+D:\C#_BasicLearning\OOP\Struct.cs\obj\Debug\net8.0\Struct.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\OOP\Struct.cs\obj\Debug\net8.0\Struct.cs.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\OOP\Struct.cs\obj\Debug\net8.0\Struct.cs.AssemblyInfo.cs
+D:\C#_BasicLearning\OOP\Struct.cs\obj\Debug\net8.0\Struct.cs.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\OOP\Struct.cs\obj\Debug\net8.0\Struct.cs.dll
+D:\C#_BasicLearning\OOP\Struct.cs\obj\Debug\net8.0\refint\Struct.cs.dll
+D:\C#_BasicLearning\OOP\Struct.cs\obj\Debug\net8.0\Struct.cs.pdb
+D:\C#_BasicLearning\OOP\Struct.cs\obj\Debug\net8.0\Struct.cs.genruntimeconfig.cache
+D:\C#_BasicLearning\OOP\Struct.cs\obj\Debug\net8.0\ref\Struct.cs.dll

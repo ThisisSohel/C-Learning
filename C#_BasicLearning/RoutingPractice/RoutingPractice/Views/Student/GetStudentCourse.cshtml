@@ -1,0 +1,13 @@
+﻿@model RoutingPractice.Models.Student
+@{
+    ViewBag.Title = "GetStudentCourse";
+}
+
+<h2>GetStudentCourse</h2>
+
+@foreach (var course in ViewBag.courseList)
+            {
+                <li>
+                    @course
+                </li>
+            }

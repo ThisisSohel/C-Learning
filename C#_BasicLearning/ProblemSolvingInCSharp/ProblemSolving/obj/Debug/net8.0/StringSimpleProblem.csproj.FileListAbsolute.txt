@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\bin\Debug\net8.0\StringSimpleProblem.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\bin\Debug\net8.0\StringSimpleProblem.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\bin\Debug\net8.0\StringSimpleProblem.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\bin\Debug\net8.0\StringSimpleProblem.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\bin\Debug\net8.0\StringSimpleProblem.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\obj\Debug\net8.0\StringSimpleProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\obj\Debug\net8.0\StringSimpleProblem.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\obj\Debug\net8.0\StringSimpleProblem.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\obj\Debug\net8.0\StringSimpleProblem.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\obj\Debug\net8.0\StringSimpleProblem.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\obj\Debug\net8.0\refint\StringSimpleProblem.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\obj\Debug\net8.0\StringSimpleProblem.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\obj\Debug\net8.0\StringSimpleProblem.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ProblemSolving\obj\Debug\net8.0\ref\StringSimpleProblem.dll

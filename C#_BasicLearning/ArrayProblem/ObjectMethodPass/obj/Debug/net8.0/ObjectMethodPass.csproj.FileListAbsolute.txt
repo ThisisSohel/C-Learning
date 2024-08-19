@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\bin\Debug\net8.0\ObjectMethodPass.exe
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\bin\Debug\net8.0\ObjectMethodPass.deps.json
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\bin\Debug\net8.0\ObjectMethodPass.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\bin\Debug\net8.0\ObjectMethodPass.dll
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\bin\Debug\net8.0\ObjectMethodPass.pdb
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\obj\Debug\net8.0\ObjectMethodPass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\obj\Debug\net8.0\ObjectMethodPass.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\obj\Debug\net8.0\ObjectMethodPass.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\obj\Debug\net8.0\ObjectMethodPass.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\obj\Debug\net8.0\ObjectMethodPass.dll
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\obj\Debug\net8.0\refint\ObjectMethodPass.dll
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\obj\Debug\net8.0\ObjectMethodPass.pdb
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\obj\Debug\net8.0\ObjectMethodPass.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\ObjectMethodPass\obj\Debug\net8.0\ref\ObjectMethodPass.dll

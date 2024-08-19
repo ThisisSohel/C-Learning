@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{807BEDEB-E600-4FFA-A3E1-03E5CB6D44BF}|ValueAndRef\\ValueAndRef.csproj|d:\\c#_basiclearning\\projectonexceptionhandling\\valueandref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807BEDEB-E600-4FFA-A3E1-03E5CB6D44BF}|ValueAndRef\\ValueAndRef.csproj|solutionrelative:valueandref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A53F110-87F4-47AD-8F5A-C8F1F588B8C8}|BasicException\\BasicException.csproj|d:\\c#_basiclearning\\projectonexceptionhandling\\basicexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A53F110-87F4-47AD-8F5A-C8F1F588B8C8}|BasicException\\BasicException.csproj|solutionrelative:basicexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807BEDEB-E600-4FFA-A3E1-03E5CB6D44BF}|ValueAndRef\\ValueAndRef.csproj|d:\\c#_basiclearning\\projectonexceptionhandling\\valueandref\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807BEDEB-E600-4FFA-A3E1-03E5CB6D44BF}|ValueAndRef\\ValueAndRef.csproj|solutionrelative:valueandref\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819B6B68-3DF4-4414-B291-89710A89FCB6}|CustomException\\CustomException.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819B6B68-3DF4-4414-B291-89710A89FCB6}|CustomException\\CustomException.csproj|solutionrelative:customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819B6B68-3DF4-4414-B291-89710A89FCB6}|CustomException\\CustomException.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\customexception\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819B6B68-3DF4-4414-B291-89710A89FCB6}|CustomException\\CustomException.csproj|solutionrelative:customexception\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F5F45E-C81A-487D-BA66-70B14976926E}|StreamPractice1\\StreamPractice1.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\streampractice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F5F45E-C81A-487D-BA66-70B14976926E}|StreamPractice1\\StreamPractice1.csproj|solutionrelative:streampractice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7900A6-597C-408E-9CCD-468C9FD1D85B}|StreamBasicOperation\\StreamBasicOperation.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\streambasicoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7900A6-597C-408E-9CCD-468C9FD1D85B}|StreamBasicOperation\\StreamBasicOperation.csproj|solutionrelative:streambasicoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1799980F-24FD-4913-BFE6-7E5A0C95B074}|FilePathFromTheUserAndTriesToOpenTheFile\\FilePathFromTheUserAndTriesToOpenTheFile.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\filepathfromtheuserandtriestoopenthefile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1799980F-24FD-4913-BFE6-7E5A0C95B074}|FilePathFromTheUserAndTriesToOpenTheFile\\FilePathFromTheUserAndTriesToOpenTheFile.csproj|solutionrelative:filepathfromtheuserandtriestoopenthefile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C98E7D-B86B-460D-AEC9-B017540FC8B8}|ExceptionReThrow\\ExceptionReThrow.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\exceptionrethrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C98E7D-B86B-460D-AEC9-B017540FC8B8}|ExceptionReThrow\\ExceptionReThrow.csproj|solutionrelative:exceptionrethrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FD13D2-5685-41AF-85D7-A1EE9B04FDC8}|ExceptionHandlingWithFile\\ExceptionHandlingWithFile.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\exceptionhandlingwithfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FD13D2-5685-41AF-85D7-A1EE9B04FDC8}|ExceptionHandlingWithFile\\ExceptionHandlingWithFile.csproj|solutionrelative:exceptionhandlingwithfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4C19EA-F66A-405C-B28E-EDF2D14CCB88}|URIExceptionHandling\\URIExceptionHandling.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\uriexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4C19EA-F66A-405C-B28E-EDF2D14CCB88}|URIExceptionHandling\\URIExceptionHandling.csproj|solutionrelative:uriexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351AAB90-5EDF-4241-AEB2-2F8C84207D28}|ExceptionThrow\\ExceptionThrow.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\exceptionthrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351AAB90-5EDF-4241-AEB2-2F8C84207D28}|ExceptionThrow\\ExceptionThrow.csproj|solutionrelative:exceptionthrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2F1D8D-4D82-4FF9-B07A-89F901E7D237}|OverFlowException\\OverFlowException.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\overflowexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F1D8D-4D82-4FF9-B07A-89F901E7D237}|OverFlowException\\OverFlowException.csproj|solutionrelative:overflowexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDDD6ED-327B-46D2-A633-41AFFFDB2E96}|HandleTheExceptionIfTheArrayIsEmpty\\HandleTheExceptionIfTheArrayIsEmpty.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\handletheexceptionifthearrayisempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDDD6ED-327B-46D2-A633-41AFFFDB2E96}|HandleTheExceptionIfTheArrayIsEmpty\\HandleTheExceptionIfTheArrayIsEmpty.csproj|solutionrelative:handletheexceptionifthearrayisempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488793C9-784F-4E6F-9933-C78305E3E75A}|ThrowsAnExceptionIfTheNumberIsNegative\\ThrowsAnExceptionIfTheNumberIsNegative.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\throwsanexceptionifthenumberisnegative\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488793C9-784F-4E6F-9933-C78305E3E75A}|ThrowsAnExceptionIfTheNumberIsNegative\\ThrowsAnExceptionIfTheNumberIsNegative.csproj|solutionrelative:throwsanexceptionifthenumberisnegative\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351AAB90-5EDF-4241-AEB2-2F8C84207D28}|ExceptionThrow\\ExceptionThrow.csproj|D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\exceptionthrow\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351AAB90-5EDF-4241-AEB2-2F8C84207D28}|ExceptionThrow\\ExceptionThrow.csproj|solutionrelative:exceptionthrow\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ValueAndRef\\Person.cs",
+              "RelativeDocumentMoniker": "ValueAndRef\\Person.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ValueAndRef\\Person.cs",
+              "RelativeToolTip": "ValueAndRef\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:12:46.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ValueAndRef\\Program.cs",
+              "RelativeDocumentMoniker": "ValueAndRef\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ValueAndRef\\Program.cs",
+              "RelativeToolTip": "ValueAndRef\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:12:21.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ThrowsAnExceptionIfTheNumberIsNegative\\Program.cs",
+              "RelativeDocumentMoniker": "ThrowsAnExceptionIfTheNumberIsNegative\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ThrowsAnExceptionIfTheNumberIsNegative\\Program.cs",
+              "RelativeToolTip": "ThrowsAnExceptionIfTheNumberIsNegative\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:10:31.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\CustomException\\Student.cs",
+              "RelativeDocumentMoniker": "CustomException\\Student.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\CustomException\\Student.cs",
+              "RelativeToolTip": "CustomException\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:02:04.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\CustomException\\Program.cs",
+              "RelativeDocumentMoniker": "CustomException\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\CustomException\\Program.cs",
+              "RelativeToolTip": "CustomException\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:01:57.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ExceptionHandlingWithFile\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingWithFile\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ExceptionHandlingWithFile\\Program.cs",
+              "RelativeToolTip": "ExceptionHandlingWithFile\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:21:34.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ExceptionReThrow\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionReThrow\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ExceptionReThrow\\Program.cs",
+              "RelativeToolTip": "ExceptionReThrow\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:45:21.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ExceptionThrow\\Student.cs",
+              "RelativeDocumentMoniker": "ExceptionThrow\\Student.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ExceptionThrow\\Student.cs",
+              "RelativeToolTip": "ExceptionThrow\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:20:11.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ExceptionThrow\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionThrow\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\ExceptionThrow\\Program.cs",
+              "RelativeToolTip": "ExceptionThrow\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA5wDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:19:54.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\BasicException\\Program.cs",
+              "RelativeDocumentMoniker": "BasicException\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\BasicException\\Program.cs",
+              "RelativeToolTip": "BasicException\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwDIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:38:29.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\FilePathFromTheUserAndTriesToOpenTheFile\\Program.cs",
+              "RelativeDocumentMoniker": "FilePathFromTheUserAndTriesToOpenTheFile\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\FilePathFromTheUserAndTriesToOpenTheFile\\Program.cs",
+              "RelativeToolTip": "FilePathFromTheUserAndTriesToOpenTheFile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:28:46.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\HandleTheExceptionIfTheArrayIsEmpty\\Program.cs",
+              "RelativeDocumentMoniker": "HandleTheExceptionIfTheArrayIsEmpty\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\HandleTheExceptionIfTheArrayIsEmpty\\Program.cs",
+              "RelativeToolTip": "HandleTheExceptionIfTheArrayIsEmpty\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:53:57.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\StreamBasicOperation\\Program.cs",
+              "RelativeDocumentMoniker": "StreamBasicOperation\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\StreamBasicOperation\\Program.cs",
+              "RelativeToolTip": "StreamBasicOperation\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:55:26.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\StreamPractice1\\Program.cs",
+              "RelativeDocumentMoniker": "StreamPractice1\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\StreamPractice1\\Program.cs",
+              "RelativeToolTip": "StreamPractice1\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwDYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T03:42:52.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\URIExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "URIExceptionHandling\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\URIExceptionHandling\\Program.cs",
+              "RelativeToolTip": "URIExceptionHandling\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBYAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:50:07.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\OverFlowException\\Program.cs",
+              "RelativeDocumentMoniker": "OverFlowException\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProjectOnExceptionHandling\\OverFlowException\\Program.cs",
+              "RelativeToolTip": "OverFlowException\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:27:41.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

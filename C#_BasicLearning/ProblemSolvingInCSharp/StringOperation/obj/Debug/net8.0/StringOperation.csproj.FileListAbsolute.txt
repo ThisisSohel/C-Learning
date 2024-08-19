@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\bin\Debug\net8.0\StringOperation.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\bin\Debug\net8.0\StringOperation.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\bin\Debug\net8.0\StringOperation.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\bin\Debug\net8.0\StringOperation.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\bin\Debug\net8.0\StringOperation.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\obj\Debug\net8.0\StringOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\obj\Debug\net8.0\StringOperation.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\obj\Debug\net8.0\StringOperation.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\obj\Debug\net8.0\StringOperation.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\obj\Debug\net8.0\StringOperation.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\obj\Debug\net8.0\refint\StringOperation.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\obj\Debug\net8.0\StringOperation.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\obj\Debug\net8.0\StringOperation.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\StringOperation\obj\Debug\net8.0\ref\StringOperation.dll

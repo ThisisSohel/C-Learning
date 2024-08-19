@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\bin\Debug\net8.0\ArrayLinqQuery.exe
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\bin\Debug\net8.0\ArrayLinqQuery.deps.json
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\bin\Debug\net8.0\ArrayLinqQuery.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\bin\Debug\net8.0\ArrayLinqQuery.dll
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\bin\Debug\net8.0\ArrayLinqQuery.pdb
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\obj\Debug\net8.0\ArrayLinqQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\obj\Debug\net8.0\ArrayLinqQuery.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\obj\Debug\net8.0\ArrayLinqQuery.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\obj\Debug\net8.0\ArrayLinqQuery.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\obj\Debug\net8.0\ArrayLinqQuery.dll
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\obj\Debug\net8.0\refint\ArrayLinqQuery.dll
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\obj\Debug\net8.0\ArrayLinqQuery.pdb
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\obj\Debug\net8.0\ArrayLinqQuery.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\ArrayLinqQuery\obj\Debug\net8.0\ref\ArrayLinqQuery.dll

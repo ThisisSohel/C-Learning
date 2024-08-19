@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\bin\Debug\net8.0\SubArraySum.exe
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\bin\Debug\net8.0\SubArraySum.deps.json
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\bin\Debug\net8.0\SubArraySum.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\bin\Debug\net8.0\SubArraySum.dll
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\bin\Debug\net8.0\SubArraySum.pdb
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\obj\Debug\net8.0\SubArraySum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\obj\Debug\net8.0\SubArraySum.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\obj\Debug\net8.0\SubArraySum.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\obj\Debug\net8.0\SubArraySum.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\obj\Debug\net8.0\SubArraySum.dll
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\obj\Debug\net8.0\refint\SubArraySum.dll
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\obj\Debug\net8.0\SubArraySum.pdb
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\obj\Debug\net8.0\SubArraySum.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\SubArraySum\obj\Debug\net8.0\ref\SubArraySum.dll

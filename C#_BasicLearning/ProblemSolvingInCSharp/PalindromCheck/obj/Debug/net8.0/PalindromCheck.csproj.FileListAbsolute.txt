@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\bin\Debug\net8.0\PalindromCheck.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\bin\Debug\net8.0\PalindromCheck.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\bin\Debug\net8.0\PalindromCheck.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\bin\Debug\net8.0\PalindromCheck.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\bin\Debug\net8.0\PalindromCheck.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\obj\Debug\net8.0\PalindromCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\obj\Debug\net8.0\PalindromCheck.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\obj\Debug\net8.0\PalindromCheck.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\obj\Debug\net8.0\PalindromCheck.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\obj\Debug\net8.0\PalindromCheck.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\obj\Debug\net8.0\refint\PalindromCheck.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\obj\Debug\net8.0\PalindromCheck.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\obj\Debug\net8.0\PalindromCheck.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\PalindromCheck\obj\Debug\net8.0\ref\PalindromCheck.dll

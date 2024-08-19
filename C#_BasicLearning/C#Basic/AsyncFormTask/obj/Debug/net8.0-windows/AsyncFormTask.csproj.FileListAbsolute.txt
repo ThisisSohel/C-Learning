@@ -1,0 +1,16 @@
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\bin\Debug\net8.0-windows\AsyncFormTask.exe
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\bin\Debug\net8.0-windows\AsyncFormTask.deps.json
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\bin\Debug\net8.0-windows\AsyncFormTask.runtimeconfig.json
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\bin\Debug\net8.0-windows\AsyncFormTask.dll
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\bin\Debug\net8.0-windows\AsyncFormTask.pdb
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\AsyncFormTask.Form1.resources
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\AsyncFormTask.csproj.GenerateResource.cache
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\AsyncFormTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\AsyncFormTask.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\AsyncFormTask.AssemblyInfo.cs
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\AsyncFormTask.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\AsyncFormTask.dll
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\refint\AsyncFormTask.dll
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\AsyncFormTask.pdb
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\AsyncFormTask.genruntimeconfig.cache
+D:\C#_BasicLearning\C#Basic\AsyncFormTask\obj\Debug\net8.0-windows\ref\AsyncFormTask.dll

@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.exe
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.deps.json
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.dll
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\bin\Debug\net8.0\CommandLineArgs.pdb
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.dll
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\obj\Debug\net8.0\refint\CommandLineArgs.dll
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.pdb
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\obj\Debug\net8.0\CommandLineArgs.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\CommandLineArgs\obj\Debug\net8.0\ref\CommandLineArgs.dll

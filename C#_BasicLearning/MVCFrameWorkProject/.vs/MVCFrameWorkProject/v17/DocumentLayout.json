@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|d:\\c#_basiclearning\\mvcframeworkproject\\mvcframeworkproject\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\views\\employee\\updateemployeeasync.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\views\\employee\\updateemployeeasync.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\views\\employee\\loademployeeasync.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\views\\employee\\loademployeeasync.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\nhibernateconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\nhibernateconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\views\\employee\\createemployeeasync.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\views\\employee\\createemployeeasync.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|D:\\C#_BasicLearning\\MVCFrameWorkProject\\mvcframeworkproject\\models\\employeemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E2EF-3D1E-47CA-9C15-1BBB01FF26D6}|MVCFrameWorkProject\\MVCFrameWorkProject.csproj|solutionrelative:mvcframeworkproject\\models\\employeemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Models\\Country.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Models\\Country.cs",
+              "RelativeToolTip": "MVCFrameWorkProject\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:52:33.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Country\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Views\\Country\\Index.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Country\\Index.cshtml",
+              "RelativeToolTip": "MVCFrameWorkProject\\Views\\Country\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:52:12.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCFrameWorkProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:52:06.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoadEmployeeAsync.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Employee\\LoadEmployeeAsync.cshtml",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Views\\Employee\\LoadEmployeeAsync.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Employee\\LoadEmployeeAsync.cshtml",
+              "RelativeToolTip": "MVCFrameWorkProject\\Views\\Employee\\LoadEmployeeAsync.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAIkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T06:39:33.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCFrameWorkProject\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAMwLMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:35:51.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Controllers\\CountryController.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "MVCFrameWorkProject\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:52:38.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NHibernateConfig.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\NHibernateConfig.cs",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\NHibernateConfig.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\NHibernateConfig.cs",
+              "RelativeToolTip": "MVCFrameWorkProject\\NHibernateConfig.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA4wBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:12:06.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeMapping.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Models\\EmployeeMapping.cs",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Models\\EmployeeMapping.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Models\\EmployeeMapping.cs",
+              "RelativeToolTip": "MVCFrameWorkProject\\Models\\EmployeeMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:50:17.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateEmployeeAsync.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Employee\\CreateEmployeeAsync.cshtml",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Views\\Employee\\CreateEmployeeAsync.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Employee\\CreateEmployeeAsync.cshtml",
+              "RelativeToolTip": "MVCFrameWorkProject\\Views\\Employee\\CreateEmployeeAsync.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T05:37:04.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateEmployeeAsync.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Employee\\UpdateEmployeeAsync.cshtml",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Views\\Employee\\UpdateEmployeeAsync.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Views\\Employee\\UpdateEmployeeAsync.cshtml",
+              "RelativeToolTip": "MVCFrameWorkProject\\Views\\Employee\\UpdateEmployeeAsync.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T07:11:06.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Models\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "MVCFrameWorkProject\\Models\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:34:46.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCFrameWorkProject\\Models\\Employee.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\MVCFrameWorkProject\\MVCFrameWorkProject\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCFrameWorkProject\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:32:06.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

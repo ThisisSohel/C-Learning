@@ -1,0 +1,16 @@
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\bin\Debug\net8.0-windows\MultiTaskingApp.exe
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\bin\Debug\net8.0-windows\MultiTaskingApp.deps.json
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\bin\Debug\net8.0-windows\MultiTaskingApp.runtimeconfig.json
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\bin\Debug\net8.0-windows\MultiTaskingApp.dll
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\bin\Debug\net8.0-windows\MultiTaskingApp.pdb
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\MultiTaskingApp.Form1.resources
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\MultiTaskingApp.csproj.GenerateResource.cache
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\MultiTaskingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\MultiTaskingApp.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\MultiTaskingApp.AssemblyInfo.cs
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\MultiTaskingApp.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\MultiTaskingApp.dll
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\refint\MultiTaskingApp.dll
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\MultiTaskingApp.pdb
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\MultiTaskingApp.genruntimeconfig.cache
+D:\C#_BasicLearning\ThreadExample\MultiTaskingApp\obj\Debug\net8.0-windows\ref\MultiTaskingApp.dll

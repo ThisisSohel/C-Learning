@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA84C5F-920E-4E7C-9748-2D3BD1C434DF}|StringAscendingOrder\\StringAscendingOrder.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\stringascendingorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA84C5F-920E-4E7C-9748-2D3BD1C434DF}|StringAscendingOrder\\StringAscendingOrder.csproj|solutionrelative:stringascendingorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE90BB8-A0AE-4DB8-BF1E-D6356F6A1E3C}|CopyString\\CopyString.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\copystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE90BB8-A0AE-4DB8-BF1E-D6356F6A1E3C}|CopyString\\CopyString.csproj|solutionrelative:copystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8A5B89-4DB2-4850-926A-5680359DB15C}|CountAlphaDigitSpecialCharacter\\CountAlphaDigitSpecialCharacter.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\countalphadigitspecialcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8A5B89-4DB2-4850-926A-5680359DB15C}|CountAlphaDigitSpecialCharacter\\CountAlphaDigitSpecialCharacter.csproj|solutionrelative:countalphadigitspecialcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7281E7F2-C378-4755-AD10-CCB3CE3E2B6A}|StringOperation\\StringOperation.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\stringoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7281E7F2-C378-4755-AD10-CCB3CE3E2B6A}|StringOperation\\StringOperation.csproj|solutionrelative:stringoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62863F9-25AA-4E36-AA55-BBB323FE3E64}|CompareTwoString\\CompareTwoString.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\comparetwostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62863F9-25AA-4E36-AA55-BBB323FE3E64}|CompareTwoString\\CompareTwoString.csproj|solutionrelative:comparetwostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A148D05-142C-4F4D-8925-8D0EB9577A5F}|WordCount\\WordCount.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A148D05-142C-4F4D-8925-8D0EB9577A5F}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48D63A-FDCD-42C3-8C7F-92B652DA3138}|FindStringLengthWithoutLibraryFunction\\FindStringLengthWithoutLibraryFunction.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\findstringlengthwithoutlibraryfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A48D63A-FDCD-42C3-8C7F-92B652DA3138}|FindStringLengthWithoutLibraryFunction\\FindStringLengthWithoutLibraryFunction.csproj|solutionrelative:findstringlengthwithoutlibraryfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E23E02-D902-4E85-893B-884EA1F06F8B}|Ternary\\Ternary.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\ternary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E23E02-D902-4E85-893B-884EA1F06F8B}|Ternary\\Ternary.csproj|solutionrelative:ternary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081888EF-0BD5-4939-9687-8B22B05BCB9F}|ArraySumOfGivenTargetValue\\ArraySumOfGivenTargetValue.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\arraysumofgiventargetvalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081888EF-0BD5-4939-9687-8B22B05BCB9F}|ArraySumOfGivenTargetValue\\ArraySumOfGivenTargetValue.csproj|solutionrelative:arraysumofgiventargetvalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE3BFEE-5A0F-4894-80C5-21E8B5677D4A}|UniqueArray\\UniqueArray.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\uniquearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE3BFEE-5A0F-4894-80C5-21E8B5677D4A}|UniqueArray\\UniqueArray.csproj|solutionrelative:uniquearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855198B8-1B55-4A68-8D01-EEC604840A35}|OddNumberOccure\\OddNumberOccure.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\oddnumberoccure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855198B8-1B55-4A68-8D01-EEC604840A35}|OddNumberOccure\\OddNumberOccure.csproj|solutionrelative:oddnumberoccure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4A6739-DEEB-4CC6-B1E8-37AF7BCD6772}|FoundMejorityElement\\FoundMejorityElement.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\foundmejorityelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4A6739-DEEB-4CC6-B1E8-37AF7BCD6772}|FoundMejorityElement\\FoundMejorityElement.csproj|solutionrelative:foundmejorityelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E967B8-7726-40A2-AFAC-B9CCBF8CAB0D}|ArrayBasicOperationSolution\\ArrayBasicOperationSolution.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\arraybasicoperationsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E967B8-7726-40A2-AFAC-B9CCBF8CAB0D}|ArrayBasicOperationSolution\\ArrayBasicOperationSolution.csproj|solutionrelative:arraybasicoperationsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574A4F38-8558-4814-9FFE-68AD21FAB706}|ProblemSolving\\ProblemSolving.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\problemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574A4F38-8558-4814-9FFE-68AD21FAB706}|ProblemSolving\\ProblemSolving.csproj|solutionrelative:problemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB2F00-C1C3-46F0-91D5-13885389232F}|PalindromCheck\\PalindromCheck.csproj|d:\\c#_basiclearning\\problemsolvingincsharp\\palindromcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB2F00-C1C3-46F0-91D5-13885389232F}|PalindromCheck\\PalindromCheck.csproj|solutionrelative:palindromcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\StringAscendingOrder\\Program.cs",
+              "RelativeDocumentMoniker": "StringAscendingOrder\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\StringAscendingOrder\\Program.cs",
+              "RelativeToolTip": "StringAscendingOrder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:03:03.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\CopyString\\Program.cs",
+              "RelativeDocumentMoniker": "CopyString\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\CopyString\\Program.cs",
+              "RelativeToolTip": "CopyString\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:44:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\CountAlphaDigitSpecialCharacter\\Program.cs",
+              "RelativeDocumentMoniker": "CountAlphaDigitSpecialCharacter\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\CountAlphaDigitSpecialCharacter\\Program.cs",
+              "RelativeToolTip": "CountAlphaDigitSpecialCharacter\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA8wBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:38:52.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\StringOperation\\Program.cs",
+              "RelativeDocumentMoniker": "StringOperation\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\StringOperation\\Program.cs",
+              "RelativeToolTip": "StringOperation\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:13:42.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\CompareTwoString\\Program.cs",
+              "RelativeDocumentMoniker": "CompareTwoString\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\CompareTwoString\\Program.cs",
+              "RelativeToolTip": "CompareTwoString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:00:30.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\WordCount\\Program.cs",
+              "RelativeDocumentMoniker": "WordCount\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\WordCount\\Program.cs",
+              "RelativeToolTip": "WordCount\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:49:15.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\FindStringLengthWithoutLibraryFunction\\Program.cs",
+              "RelativeDocumentMoniker": "FindStringLengthWithoutLibraryFunction\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\FindStringLengthWithoutLibraryFunction\\Program.cs",
+              "RelativeToolTip": "FindStringLengthWithoutLibraryFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:42:22.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\FoundMejorityElement\\Program.cs",
+              "RelativeDocumentMoniker": "FoundMejorityElement\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\FoundMejorityElement\\Program.cs",
+              "RelativeToolTip": "FoundMejorityElement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:51:16.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\OddNumberOccure\\Program.cs",
+              "RelativeDocumentMoniker": "OddNumberOccure\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\OddNumberOccure\\Program.cs",
+              "RelativeToolTip": "OddNumberOccure\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:45:55.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\UniqueArray\\Program.cs",
+              "RelativeDocumentMoniker": "UniqueArray\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\UniqueArray\\Program.cs",
+              "RelativeToolTip": "UniqueArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:41:25.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\ArraySumOfGivenTargetValue\\Program.cs",
+              "RelativeDocumentMoniker": "ArraySumOfGivenTargetValue\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\ArraySumOfGivenTargetValue\\Program.cs",
+              "RelativeToolTip": "ArraySumOfGivenTargetValue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:06:12.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\Ternary\\Program.cs",
+              "RelativeDocumentMoniker": "Ternary\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\Ternary\\Program.cs",
+              "RelativeToolTip": "Ternary\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:01:33.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\ArrayBasicOperationSolution\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayBasicOperationSolution\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\ArrayBasicOperationSolution\\Program.cs",
+              "RelativeToolTip": "ArrayBasicOperationSolution\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwDQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T04:07:25.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\PalindromCheck\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromCheck\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\PalindromCheck\\Program.cs",
+              "RelativeToolTip": "PalindromCheck\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:47:16.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\ProblemSolving\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemSolving\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ProblemSolvingInCSharp\\ProblemSolving\\Program.cs",
+              "RelativeToolTip": "ProblemSolving\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA4wBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:09:15.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

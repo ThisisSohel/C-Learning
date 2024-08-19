@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\bin\Debug\net8.0\ArrayBasicOperationSolution.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\bin\Debug\net8.0\ArrayBasicOperationSolution.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\bin\Debug\net8.0\ArrayBasicOperationSolution.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\bin\Debug\net8.0\ArrayBasicOperationSolution.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\bin\Debug\net8.0\ArrayBasicOperationSolution.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\obj\Debug\net8.0\ArrayBasicOperationSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\obj\Debug\net8.0\ArrayBasicOperationSolution.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\obj\Debug\net8.0\ArrayBasicOperationSolution.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\obj\Debug\net8.0\ArrayBasicOperationSolution.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\obj\Debug\net8.0\ArrayBasicOperationSolution.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\obj\Debug\net8.0\refint\ArrayBasicOperationSolution.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\obj\Debug\net8.0\ArrayBasicOperationSolution.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\obj\Debug\net8.0\ArrayBasicOperationSolution.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\ArrayBasicOperationSolution\obj\Debug\net8.0\ref\ArrayBasicOperationSolution.dll

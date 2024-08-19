@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\bin\Debug\net8.0\DemoProgramPractice.exe
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\bin\Debug\net8.0\DemoProgramPractice.deps.json
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\bin\Debug\net8.0\DemoProgramPractice.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\bin\Debug\net8.0\DemoProgramPractice.dll
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\bin\Debug\net8.0\DemoProgramPractice.pdb
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\obj\Debug\net8.0\DemoProgramPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\obj\Debug\net8.0\DemoProgramPractice.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\obj\Debug\net8.0\DemoProgramPractice.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\obj\Debug\net8.0\DemoProgramPractice.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\obj\Debug\net8.0\DemoProgramPractice.dll
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\obj\Debug\net8.0\refint\DemoProgramPractice.dll
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\obj\Debug\net8.0\DemoProgramPractice.pdb
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\obj\Debug\net8.0\DemoProgramPractice.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\DemoProgramPractice\obj\Debug\net8.0\ref\DemoProgramPractice.dll

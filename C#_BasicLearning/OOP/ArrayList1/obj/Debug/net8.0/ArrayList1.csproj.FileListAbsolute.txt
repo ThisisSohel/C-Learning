@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\OOP\ArrayList1\bin\Debug\net8.0\ArrayList1.exe
+D:\C#_BasicLearning\OOP\ArrayList1\bin\Debug\net8.0\ArrayList1.deps.json
+D:\C#_BasicLearning\OOP\ArrayList1\bin\Debug\net8.0\ArrayList1.runtimeconfig.json
+D:\C#_BasicLearning\OOP\ArrayList1\bin\Debug\net8.0\ArrayList1.dll
+D:\C#_BasicLearning\OOP\ArrayList1\bin\Debug\net8.0\ArrayList1.pdb
+D:\C#_BasicLearning\OOP\ArrayList1\obj\Debug\net8.0\ArrayList1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\OOP\ArrayList1\obj\Debug\net8.0\ArrayList1.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\OOP\ArrayList1\obj\Debug\net8.0\ArrayList1.AssemblyInfo.cs
+D:\C#_BasicLearning\OOP\ArrayList1\obj\Debug\net8.0\ArrayList1.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\OOP\ArrayList1\obj\Debug\net8.0\ArrayList1.dll
+D:\C#_BasicLearning\OOP\ArrayList1\obj\Debug\net8.0\refint\ArrayList1.dll
+D:\C#_BasicLearning\OOP\ArrayList1\obj\Debug\net8.0\ArrayList1.pdb
+D:\C#_BasicLearning\OOP\ArrayList1\obj\Debug\net8.0\ArrayList1.genruntimeconfig.cache
+D:\C#_BasicLearning\OOP\ArrayList1\obj\Debug\net8.0\ref\ArrayList1.dll

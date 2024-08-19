@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\bin\Debug\net8.0\ListLinqQuery.exe
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\bin\Debug\net8.0\ListLinqQuery.deps.json
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\bin\Debug\net8.0\ListLinqQuery.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\bin\Debug\net8.0\ListLinqQuery.dll
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\bin\Debug\net8.0\ListLinqQuery.pdb
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\obj\Debug\net8.0\ListLinqQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\obj\Debug\net8.0\ListLinqQuery.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\obj\Debug\net8.0\ListLinqQuery.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\obj\Debug\net8.0\ListLinqQuery.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\obj\Debug\net8.0\ListLinqQuery.dll
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\obj\Debug\net8.0\refint\ListLinqQuery.dll
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\obj\Debug\net8.0\ListLinqQuery.pdb
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\obj\Debug\net8.0\ListLinqQuery.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\ListLinqQuery\obj\Debug\net8.0\ref\ListLinqQuery.dll

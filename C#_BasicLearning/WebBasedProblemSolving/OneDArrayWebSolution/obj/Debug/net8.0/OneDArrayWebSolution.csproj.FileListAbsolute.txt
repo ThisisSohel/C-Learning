@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\bin\Debug\net8.0\OneDArrayWebSolution.exe
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\bin\Debug\net8.0\OneDArrayWebSolution.deps.json
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\bin\Debug\net8.0\OneDArrayWebSolution.runtimeconfig.json
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\bin\Debug\net8.0\OneDArrayWebSolution.dll
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\bin\Debug\net8.0\OneDArrayWebSolution.pdb
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\obj\Debug\net8.0\OneDArrayWebSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\obj\Debug\net8.0\OneDArrayWebSolution.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\obj\Debug\net8.0\OneDArrayWebSolution.AssemblyInfo.cs
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\obj\Debug\net8.0\OneDArrayWebSolution.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\obj\Debug\net8.0\OneDArrayWebSolution.dll
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\obj\Debug\net8.0\refint\OneDArrayWebSolution.dll
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\obj\Debug\net8.0\OneDArrayWebSolution.pdb
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\obj\Debug\net8.0\OneDArrayWebSolution.genruntimeconfig.cache
+D:\C#_BasicLearning\WebBasedProblemSolving\OneDArrayWebSolution\obj\Debug\net8.0\ref\OneDArrayWebSolution.dll

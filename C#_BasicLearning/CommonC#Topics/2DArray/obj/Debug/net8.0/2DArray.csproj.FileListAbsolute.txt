@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\2DArray\bin\Debug\net8.0\2DArray.exe
+D:\C#_BasicLearning\CommonC#Topics\2DArray\bin\Debug\net8.0\2DArray.deps.json
+D:\C#_BasicLearning\CommonC#Topics\2DArray\bin\Debug\net8.0\2DArray.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\2DArray\bin\Debug\net8.0\2DArray.dll
+D:\C#_BasicLearning\CommonC#Topics\2DArray\bin\Debug\net8.0\2DArray.pdb
+D:\C#_BasicLearning\CommonC#Topics\2DArray\obj\Debug\net8.0\2DArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\2DArray\obj\Debug\net8.0\2DArray.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\2DArray\obj\Debug\net8.0\2DArray.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\2DArray\obj\Debug\net8.0\2DArray.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\2DArray\obj\Debug\net8.0\2DArray.dll
+D:\C#_BasicLearning\CommonC#Topics\2DArray\obj\Debug\net8.0\refint\2DArray.dll
+D:\C#_BasicLearning\CommonC#Topics\2DArray\obj\Debug\net8.0\2DArray.pdb
+D:\C#_BasicLearning\CommonC#Topics\2DArray\obj\Debug\net8.0\2DArray.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\2DArray\obj\Debug\net8.0\ref\2DArray.dll

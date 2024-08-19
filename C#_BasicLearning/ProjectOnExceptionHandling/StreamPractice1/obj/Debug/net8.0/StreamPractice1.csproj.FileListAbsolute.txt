@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\bin\Debug\net8.0\StreamPractice1.exe
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\bin\Debug\net8.0\StreamPractice1.deps.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\bin\Debug\net8.0\StreamPractice1.runtimeconfig.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\bin\Debug\net8.0\StreamPractice1.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\bin\Debug\net8.0\StreamPractice1.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\obj\Debug\net8.0\StreamPractice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\obj\Debug\net8.0\StreamPractice1.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\obj\Debug\net8.0\StreamPractice1.AssemblyInfo.cs
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\obj\Debug\net8.0\StreamPractice1.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\obj\Debug\net8.0\StreamPractice1.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\obj\Debug\net8.0\refint\StreamPractice1.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\obj\Debug\net8.0\StreamPractice1.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\obj\Debug\net8.0\StreamPractice1.genruntimeconfig.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamPractice1\obj\Debug\net8.0\ref\StreamPractice1.dll

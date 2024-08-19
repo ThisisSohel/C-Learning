@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\bin\Debug\net8.0\RandomNumberGeberator.exe
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\bin\Debug\net8.0\RandomNumberGeberator.deps.json
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\bin\Debug\net8.0\RandomNumberGeberator.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\bin\Debug\net8.0\RandomNumberGeberator.dll
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\bin\Debug\net8.0\RandomNumberGeberator.pdb
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\obj\Debug\net8.0\RandomNumberGeberator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\obj\Debug\net8.0\RandomNumberGeberator.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\obj\Debug\net8.0\RandomNumberGeberator.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\obj\Debug\net8.0\RandomNumberGeberator.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\obj\Debug\net8.0\RandomNumberGeberator.dll
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\obj\Debug\net8.0\refint\RandomNumberGeberator.dll
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\obj\Debug\net8.0\RandomNumberGeberator.pdb
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\obj\Debug\net8.0\RandomNumberGeberator.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\RandomNumberGeberator\obj\Debug\net8.0\ref\RandomNumberGeberator.dll

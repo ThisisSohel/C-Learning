@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\bin\Debug\net8.0\PositiveNumberLinq.exe
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\bin\Debug\net8.0\PositiveNumberLinq.deps.json
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\bin\Debug\net8.0\PositiveNumberLinq.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\bin\Debug\net8.0\PositiveNumberLinq.dll
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\bin\Debug\net8.0\PositiveNumberLinq.pdb
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\obj\Debug\net8.0\PositiveNumberLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\obj\Debug\net8.0\PositiveNumberLinq.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\obj\Debug\net8.0\PositiveNumberLinq.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\obj\Debug\net8.0\PositiveNumberLinq.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\obj\Debug\net8.0\PositiveNumberLinq.dll
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\obj\Debug\net8.0\refint\PositiveNumberLinq.dll
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\obj\Debug\net8.0\PositiveNumberLinq.pdb
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\obj\Debug\net8.0\PositiveNumberLinq.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\PositiveNumberLinq\obj\Debug\net8.0\ref\PositiveNumberLinq.dll

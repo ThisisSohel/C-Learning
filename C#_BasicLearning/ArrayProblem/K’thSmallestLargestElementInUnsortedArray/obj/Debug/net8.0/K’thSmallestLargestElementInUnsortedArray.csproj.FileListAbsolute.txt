@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\bin\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.exe
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\bin\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.deps.json
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\bin\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\bin\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.dll
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\bin\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.pdb
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\obj\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\obj\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\obj\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\obj\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\obj\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.dll
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\obj\Debug\net8.0\refint\K’thSmallestLargestElementInUnsortedArray.dll
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\obj\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.pdb
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\obj\Debug\net8.0\K’thSmallestLargestElementInUnsortedArray.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\K’thSmallestLargestElementInUnsortedArray\obj\Debug\net8.0\ref\K’thSmallestLargestElementInUnsortedArray.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "K’thSmallestLargestElementInUnsortedArray/1.0.0": {
+        "runtime": {
+          "K’thSmallestLargestElementInUnsortedArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "K’thSmallestLargestElementInUnsortedArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

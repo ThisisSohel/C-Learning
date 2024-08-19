@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\bin\Debug\net8.0\Encaptulation.exe
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\bin\Debug\net8.0\Encaptulation.deps.json
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\bin\Debug\net8.0\Encaptulation.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\bin\Debug\net8.0\Encaptulation.dll
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\bin\Debug\net8.0\Encaptulation.pdb
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\obj\Debug\net8.0\Encaptulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\obj\Debug\net8.0\Encaptulation.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\obj\Debug\net8.0\Encaptulation.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\obj\Debug\net8.0\Encaptulation.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\obj\Debug\net8.0\Encaptulation.dll
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\obj\Debug\net8.0\refint\Encaptulation.dll
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\obj\Debug\net8.0\Encaptulation.pdb
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\obj\Debug\net8.0\Encaptulation.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\Encaptulation\obj\Debug\net8.0\ref\Encaptulation.dll

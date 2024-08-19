@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\bin\Debug\net8.0\InputOutput.exe
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\bin\Debug\net8.0\InputOutput.deps.json
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\bin\Debug\net8.0\InputOutput.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\bin\Debug\net8.0\InputOutput.dll
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\bin\Debug\net8.0\InputOutput.pdb
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\obj\Debug\net8.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\obj\Debug\net8.0\InputOutput.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\obj\Debug\net8.0\InputOutput.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\obj\Debug\net8.0\InputOutput.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\obj\Debug\net8.0\InputOutput.dll
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\obj\Debug\net8.0\refint\InputOutput.dll
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\obj\Debug\net8.0\InputOutput.pdb
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\obj\Debug\net8.0\InputOutput.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\CommonC#Topics\obj\Debug\net8.0\ref\InputOutput.dll

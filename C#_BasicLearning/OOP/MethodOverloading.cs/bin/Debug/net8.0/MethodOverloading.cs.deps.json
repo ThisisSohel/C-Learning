@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MethodOverloading.cs/1.0.0": {
+        "runtime": {
+          "MethodOverloading.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodOverloading.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\GenericList\bin\Debug\net8.0\GenericList.exe
+D:\C#_BasicLearning\CommonC#Topics\GenericList\bin\Debug\net8.0\GenericList.deps.json
+D:\C#_BasicLearning\CommonC#Topics\GenericList\bin\Debug\net8.0\GenericList.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\GenericList\bin\Debug\net8.0\GenericList.dll
+D:\C#_BasicLearning\CommonC#Topics\GenericList\bin\Debug\net8.0\GenericList.pdb
+D:\C#_BasicLearning\CommonC#Topics\GenericList\obj\Debug\net8.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\GenericList\obj\Debug\net8.0\GenericList.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\GenericList\obj\Debug\net8.0\GenericList.dll
+D:\C#_BasicLearning\CommonC#Topics\GenericList\obj\Debug\net8.0\refint\GenericList.dll
+D:\C#_BasicLearning\CommonC#Topics\GenericList\obj\Debug\net8.0\GenericList.pdb
+D:\C#_BasicLearning\CommonC#Topics\GenericList\obj\Debug\net8.0\GenericList.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\GenericList\obj\Debug\net8.0\ref\GenericList.dll

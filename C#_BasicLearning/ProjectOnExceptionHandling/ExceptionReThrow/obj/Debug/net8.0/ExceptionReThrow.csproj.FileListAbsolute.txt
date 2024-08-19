@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\bin\Debug\net8.0\ExceptionReThrow.exe
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\bin\Debug\net8.0\ExceptionReThrow.deps.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\bin\Debug\net8.0\ExceptionReThrow.runtimeconfig.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\bin\Debug\net8.0\ExceptionReThrow.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\bin\Debug\net8.0\ExceptionReThrow.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\obj\Debug\net8.0\ExceptionReThrow.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\obj\Debug\net8.0\ExceptionReThrow.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\obj\Debug\net8.0\ExceptionReThrow.AssemblyInfo.cs
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\obj\Debug\net8.0\ExceptionReThrow.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\obj\Debug\net8.0\ExceptionReThrow.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\obj\Debug\net8.0\refint\ExceptionReThrow.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\obj\Debug\net8.0\ExceptionReThrow.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\obj\Debug\net8.0\ExceptionReThrow.genruntimeconfig.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionReThrow\obj\Debug\net8.0\ref\ExceptionReThrow.dll

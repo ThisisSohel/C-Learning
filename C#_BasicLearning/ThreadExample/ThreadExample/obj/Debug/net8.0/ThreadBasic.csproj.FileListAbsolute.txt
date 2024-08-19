@@ -1,0 +1,28 @@
+I:\.Net Framework\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.exe
+I:\.Net Framework\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.deps.json
+I:\.Net Framework\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.runtimeconfig.json
+I:\.Net Framework\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.dll
+I:\.Net Framework\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.pdb
+I:\.Net Framework\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.GeneratedMSBuildEditorConfig.editorconfig
+I:\.Net Framework\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.AssemblyInfoInputs.cache
+I:\.Net Framework\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.AssemblyInfo.cs
+I:\.Net Framework\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.csproj.CoreCompileInputs.cache
+I:\.Net Framework\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.dll
+I:\.Net Framework\ThreadExample\ThreadExample\obj\Debug\net8.0\refint\ThreadBasic.dll
+I:\.Net Framework\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.pdb
+I:\.Net Framework\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.genruntimeconfig.cache
+I:\.Net Framework\ThreadExample\ThreadExample\obj\Debug\net8.0\ref\ThreadBasic.dll
+D:\C#_BasicLearning\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.exe
+D:\C#_BasicLearning\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.deps.json
+D:\C#_BasicLearning\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.runtimeconfig.json
+D:\C#_BasicLearning\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.dll
+D:\C#_BasicLearning\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadBasic.pdb
+D:\C#_BasicLearning\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.AssemblyInfo.cs
+D:\C#_BasicLearning\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.dll
+D:\C#_BasicLearning\ThreadExample\ThreadExample\obj\Debug\net8.0\refint\ThreadBasic.dll
+D:\C#_BasicLearning\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.pdb
+D:\C#_BasicLearning\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadBasic.genruntimeconfig.cache
+D:\C#_BasicLearning\ThreadExample\ThreadExample\obj\Debug\net8.0\ref\ThreadBasic.dll

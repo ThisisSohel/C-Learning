@@ -1,0 +1,126 @@
+﻿@model IEnumerable<MVCFrameWorkProject.Models.Country>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>@ViewBag.Title</h1>
+<h2>Country List</h2>
+@TempData["tempData"]
+@ViewData["VD"]
+@foreach (string str in (List<string>)ViewData["CountriesList"])
+{
+    <li>@str</li>
+}
+
+@*@ViewBag.UnderLine*@
+
+@ViewBag.VB
+@foreach (string str in ViewBag.CountriesList)
+{
+    <li>@str</li>
+}
+
+<h1>
+    <p>This is ViewData</p>
+    @ViewData["data"]
+
+</h1>
+
+
+@*<ol>
+        @foreach(string cn in ViewBag.CountriesList)
+                {
+                    <li>@cn</li>
+                }
+    </ol>*@
+
+@foreach (var cn in Model)
+{
+    <td>
+        @Html.DisplayFor(m => cn.Id)
+    </td>
+}
+
+<h2>Dropdown List of Countries</h2>
+@Html.DropDownList("Name", ViewBag.DropDownListOfCountry as SelectList, "Select Country");
+
+<footer>
+    <h1>@DateTime.Now.ToString()</h1>
+</footer>
+
+@for (int i = 0; i < 5; i++)
+{
+    @i.ToString()
+    <br />
+}
+@if (DateTime.IsLeapYear(DateTime.Now.Year))
+{
+    @DateTime.Now.Year @:is a leap year.
+}
+else
+{
+    @DateTime.Now.Year @:is not a leap year.
+}
+<script src="https://www.tutorialspoint.com/jquery/jquery-3.6.0.js"></script>
+<body>
+    <h1>jQuery Basic Syntax</h1>
+
+    <p>This is p tag</p>
+    <span>This is span tag</span>
+    <div>This is div tag</div>
+    <input type="submit" value="Submit" onclick="confirm()" />
+    <p><a id="home" href="index.htm" title="Tutorials">Home</a></p>
+    <button>See Attribute</button>
+
+    <ul>
+        <li>UK</li>
+        <li>USA</li>
+        <li>BD</li>
+    </ul>
+</body>
+
+<script>
+
+    let arr = [1, 2, 3, 4, 5, 6]
+    console.log(arr)
+    arr.forEach((n) => {
+        console.log(n)
+    });
+
+    $(document).ready(function () {
+        const value = $("#id").val();
+        $("h1").css("color", "gray")  //Element Deletector
+        $("#nameError").css("color", "red")  //Id Deletector
+        $(".red").css("color", "red") //class selector
+
+        $("confirm").click(function (){
+            alert('Hi there!');
+        });
+
+        $("button").click(function () {
+            alert("Href = " + $("#home").attr("href"))
+        });
+
+        $("li").each(function (element) {
+            console.log($(element).text());
+        })
+    });
+
+    $(document).ready(function () {
+
+        $("#btnDelete").click(function () {
+            $ajax({
+                type: "POST",
+                url: "/Student/StudentDelete",
+                data: { id },
+                datatype: 'json',
+                success: function (response) {
+                    console.log(response);
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            })
+        });
+    });
+</script>

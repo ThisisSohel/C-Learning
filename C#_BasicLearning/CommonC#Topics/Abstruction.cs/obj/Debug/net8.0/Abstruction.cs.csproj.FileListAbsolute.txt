@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\bin\Debug\net8.0\Abstruction.cs.exe
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\bin\Debug\net8.0\Abstruction.cs.deps.json
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\bin\Debug\net8.0\Abstruction.cs.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\bin\Debug\net8.0\Abstruction.cs.dll
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\bin\Debug\net8.0\Abstruction.cs.pdb
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\obj\Debug\net8.0\Abstruction.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\obj\Debug\net8.0\Abstruction.cs.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\obj\Debug\net8.0\Abstruction.cs.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\obj\Debug\net8.0\Abstruction.cs.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\obj\Debug\net8.0\Abstruction.cs.dll
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\obj\Debug\net8.0\refint\Abstruction.cs.dll
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\obj\Debug\net8.0\Abstruction.cs.pdb
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\obj\Debug\net8.0\Abstruction.cs.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\Abstruction.cs\obj\Debug\net8.0\ref\Abstruction.cs.dll

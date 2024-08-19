@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\bin\Debug\net8.0\FilesProject.exe
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\bin\Debug\net8.0\FilesProject.deps.json
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\bin\Debug\net8.0\FilesProject.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\bin\Debug\net8.0\FilesProject.dll
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\bin\Debug\net8.0\FilesProject.pdb
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\obj\Debug\net8.0\FilesProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\obj\Debug\net8.0\FilesProject.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\obj\Debug\net8.0\FilesProject.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\obj\Debug\net8.0\FilesProject.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\obj\Debug\net8.0\FilesProject.dll
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\obj\Debug\net8.0\refint\FilesProject.dll
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\obj\Debug\net8.0\FilesProject.pdb
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\obj\Debug\net8.0\FilesProject.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\FilesProject\obj\Debug\net8.0\ref\FilesProject.dll

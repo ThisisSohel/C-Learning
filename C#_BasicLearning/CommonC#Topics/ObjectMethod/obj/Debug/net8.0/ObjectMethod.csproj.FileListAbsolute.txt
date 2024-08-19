@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\bin\Debug\net8.0\ObjectMethod.exe
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\bin\Debug\net8.0\ObjectMethod.deps.json
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\bin\Debug\net8.0\ObjectMethod.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\bin\Debug\net8.0\ObjectMethod.dll
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\bin\Debug\net8.0\ObjectMethod.pdb
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\obj\Debug\net8.0\ObjectMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\obj\Debug\net8.0\ObjectMethod.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\obj\Debug\net8.0\ObjectMethod.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\obj\Debug\net8.0\ObjectMethod.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\obj\Debug\net8.0\ObjectMethod.dll
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\obj\Debug\net8.0\refint\ObjectMethod.dll
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\obj\Debug\net8.0\ObjectMethod.pdb
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\obj\Debug\net8.0\ObjectMethod.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\ObjectMethod\obj\Debug\net8.0\ref\ObjectMethod.dll

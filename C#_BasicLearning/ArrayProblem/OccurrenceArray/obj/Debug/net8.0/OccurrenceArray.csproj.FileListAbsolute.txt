@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\bin\Debug\net8.0\OccurrenceArray.exe
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\bin\Debug\net8.0\OccurrenceArray.deps.json
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\bin\Debug\net8.0\OccurrenceArray.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\bin\Debug\net8.0\OccurrenceArray.dll
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\bin\Debug\net8.0\OccurrenceArray.pdb
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\obj\Debug\net8.0\OccurrenceArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\obj\Debug\net8.0\OccurrenceArray.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\obj\Debug\net8.0\OccurrenceArray.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\obj\Debug\net8.0\OccurrenceArray.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\obj\Debug\net8.0\OccurrenceArray.dll
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\obj\Debug\net8.0\refint\OccurrenceArray.dll
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\obj\Debug\net8.0\OccurrenceArray.pdb
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\obj\Debug\net8.0\OccurrenceArray.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\OccurrenceArray\obj\Debug\net8.0\ref\OccurrenceArray.dll

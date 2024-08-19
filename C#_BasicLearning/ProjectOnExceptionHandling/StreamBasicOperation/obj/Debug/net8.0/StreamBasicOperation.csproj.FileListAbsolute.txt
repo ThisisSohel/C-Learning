@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\bin\Debug\net8.0\StreamBasicOperation.exe
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\bin\Debug\net8.0\StreamBasicOperation.deps.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\bin\Debug\net8.0\StreamBasicOperation.runtimeconfig.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\bin\Debug\net8.0\StreamBasicOperation.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\bin\Debug\net8.0\StreamBasicOperation.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\obj\Debug\net8.0\StreamBasicOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\obj\Debug\net8.0\StreamBasicOperation.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\obj\Debug\net8.0\StreamBasicOperation.AssemblyInfo.cs
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\obj\Debug\net8.0\StreamBasicOperation.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\obj\Debug\net8.0\StreamBasicOperation.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\obj\Debug\net8.0\refint\StreamBasicOperation.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\obj\Debug\net8.0\StreamBasicOperation.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\obj\Debug\net8.0\StreamBasicOperation.genruntimeconfig.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\StreamBasicOperation\obj\Debug\net8.0\ref\StreamBasicOperation.dll

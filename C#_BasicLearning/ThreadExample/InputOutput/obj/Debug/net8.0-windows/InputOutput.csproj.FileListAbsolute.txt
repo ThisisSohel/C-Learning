@@ -1,0 +1,16 @@
+D:\C#_BasicLearning\ThreadExample\InputOutput\bin\Debug\net8.0-windows\InputOutput.exe
+D:\C#_BasicLearning\ThreadExample\InputOutput\bin\Debug\net8.0-windows\InputOutput.deps.json
+D:\C#_BasicLearning\ThreadExample\InputOutput\bin\Debug\net8.0-windows\InputOutput.runtimeconfig.json
+D:\C#_BasicLearning\ThreadExample\InputOutput\bin\Debug\net8.0-windows\InputOutput.dll
+D:\C#_BasicLearning\ThreadExample\InputOutput\bin\Debug\net8.0-windows\InputOutput.pdb
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\InputOutput.Form1.resources
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\InputOutput.csproj.GenerateResource.cache
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\InputOutput.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\InputOutput.AssemblyInfo.cs
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\InputOutput.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\InputOutput.dll
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\refint\InputOutput.dll
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\InputOutput.pdb
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\InputOutput.genruntimeconfig.cache
+D:\C#_BasicLearning\ThreadExample\InputOutput\obj\Debug\net8.0-windows\ref\InputOutput.dll

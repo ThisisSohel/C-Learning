@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\DataStructure\SortedList\bin\Debug\net8.0\SortedList.exe
+D:\C#_BasicLearning\DataStructure\SortedList\bin\Debug\net8.0\SortedList.deps.json
+D:\C#_BasicLearning\DataStructure\SortedList\bin\Debug\net8.0\SortedList.runtimeconfig.json
+D:\C#_BasicLearning\DataStructure\SortedList\bin\Debug\net8.0\SortedList.dll
+D:\C#_BasicLearning\DataStructure\SortedList\bin\Debug\net8.0\SortedList.pdb
+D:\C#_BasicLearning\DataStructure\SortedList\obj\Debug\net8.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\DataStructure\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\DataStructure\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfo.cs
+D:\C#_BasicLearning\DataStructure\SortedList\obj\Debug\net8.0\SortedList.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\DataStructure\SortedList\obj\Debug\net8.0\SortedList.dll
+D:\C#_BasicLearning\DataStructure\SortedList\obj\Debug\net8.0\refint\SortedList.dll
+D:\C#_BasicLearning\DataStructure\SortedList\obj\Debug\net8.0\SortedList.pdb
+D:\C#_BasicLearning\DataStructure\SortedList\obj\Debug\net8.0\SortedList.genruntimeconfig.cache
+D:\C#_BasicLearning\DataStructure\SortedList\obj\Debug\net8.0\ref\SortedList.dll

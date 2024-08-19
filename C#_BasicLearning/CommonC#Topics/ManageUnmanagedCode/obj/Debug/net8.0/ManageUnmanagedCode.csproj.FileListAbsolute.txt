@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\bin\Debug\net8.0\ManageUnmanagedCode.exe
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\bin\Debug\net8.0\ManageUnmanagedCode.deps.json
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\bin\Debug\net8.0\ManageUnmanagedCode.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\bin\Debug\net8.0\ManageUnmanagedCode.dll
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\bin\Debug\net8.0\ManageUnmanagedCode.pdb
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\obj\Debug\net8.0\ManageUnmanagedCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\obj\Debug\net8.0\ManageUnmanagedCode.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\obj\Debug\net8.0\ManageUnmanagedCode.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\obj\Debug\net8.0\ManageUnmanagedCode.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\obj\Debug\net8.0\ManageUnmanagedCode.dll
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\obj\Debug\net8.0\refint\ManageUnmanagedCode.dll
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\obj\Debug\net8.0\ManageUnmanagedCode.pdb
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\obj\Debug\net8.0\ManageUnmanagedCode.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\ManageUnmanagedCode\obj\Debug\net8.0\ref\ManageUnmanagedCode.dll

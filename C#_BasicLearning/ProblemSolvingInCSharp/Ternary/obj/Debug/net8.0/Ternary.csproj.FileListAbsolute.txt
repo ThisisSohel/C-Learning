@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\bin\Debug\net8.0\Ternary.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\bin\Debug\net8.0\Ternary.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\bin\Debug\net8.0\Ternary.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\bin\Debug\net8.0\Ternary.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\bin\Debug\net8.0\Ternary.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\obj\Debug\net8.0\Ternary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\obj\Debug\net8.0\Ternary.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\obj\Debug\net8.0\Ternary.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\obj\Debug\net8.0\Ternary.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\obj\Debug\net8.0\Ternary.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\obj\Debug\net8.0\refint\Ternary.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\obj\Debug\net8.0\Ternary.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\obj\Debug\net8.0\Ternary.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\Ternary\obj\Debug\net8.0\ref\Ternary.dll

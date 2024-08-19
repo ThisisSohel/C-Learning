@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\ListPractice\bin\Debug\net8.0\ListPractice.exe
+D:\C#_BasicLearning\ArrayProblem\ListPractice\bin\Debug\net8.0\ListPractice.deps.json
+D:\C#_BasicLearning\ArrayProblem\ListPractice\bin\Debug\net8.0\ListPractice.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\ListPractice\bin\Debug\net8.0\ListPractice.dll
+D:\C#_BasicLearning\ArrayProblem\ListPractice\bin\Debug\net8.0\ListPractice.pdb
+D:\C#_BasicLearning\ArrayProblem\ListPractice\obj\Debug\net8.0\ListPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\ListPractice\obj\Debug\net8.0\ListPractice.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ListPractice\obj\Debug\net8.0\ListPractice.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\ListPractice\obj\Debug\net8.0\ListPractice.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ListPractice\obj\Debug\net8.0\ListPractice.dll
+D:\C#_BasicLearning\ArrayProblem\ListPractice\obj\Debug\net8.0\refint\ListPractice.dll
+D:\C#_BasicLearning\ArrayProblem\ListPractice\obj\Debug\net8.0\ListPractice.pdb
+D:\C#_BasicLearning\ArrayProblem\ListPractice\obj\Debug\net8.0\ListPractice.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\ListPractice\obj\Debug\net8.0\ref\ListPractice.dll

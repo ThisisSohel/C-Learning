@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

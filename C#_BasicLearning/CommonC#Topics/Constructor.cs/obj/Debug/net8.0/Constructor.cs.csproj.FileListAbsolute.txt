@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\bin\Debug\net8.0\Constructor.cs.exe
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\bin\Debug\net8.0\Constructor.cs.deps.json
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\bin\Debug\net8.0\Constructor.cs.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\bin\Debug\net8.0\Constructor.cs.dll
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\bin\Debug\net8.0\Constructor.cs.pdb
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\obj\Debug\net8.0\Constructor.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\obj\Debug\net8.0\Constructor.cs.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\obj\Debug\net8.0\Constructor.cs.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\obj\Debug\net8.0\Constructor.cs.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\obj\Debug\net8.0\Constructor.cs.dll
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\obj\Debug\net8.0\refint\Constructor.cs.dll
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\obj\Debug\net8.0\Constructor.cs.pdb
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\obj\Debug\net8.0\Constructor.cs.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\Constructor.cs\obj\Debug\net8.0\ref\Constructor.cs.dll

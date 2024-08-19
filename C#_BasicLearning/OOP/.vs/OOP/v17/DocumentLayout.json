@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_BasicLearning\\OOP\\Encaptulation.cs\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Encaptulation.cs\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_BasicLearning\\OOP\\Encaptulation.cs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Encaptulation.cs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractInterface.cs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_BasicLearning\\OOP\\Polymorphism.cs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Polymorphism.cs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\PartTimeEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractInterface.cs\\PartTimeEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\FullTimeEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractInterface.cs\\FullTimeEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\BaseEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractInterface.cs\\BaseEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOP\\Encaptulation.cs\\Student.cs",
+              "RelativeDocumentMoniker": "Encaptulation.cs\\Student.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOP\\Encaptulation.cs\\Student.cs",
+              "RelativeToolTip": "Encaptulation.cs\\Student.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:51:31.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOP\\Encaptulation.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Encaptulation.cs\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOP\\Encaptulation.cs\\Program.cs",
+              "RelativeToolTip": "Encaptulation.cs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:51:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractInterface.cs\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\Program.cs",
+              "RelativeToolTip": "AbstractInterface.cs\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:08:03.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "AbstractInterface.cs\\PartTimeEmployee.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\PartTimeEmployee.cs",
+              "RelativeToolTip": "AbstractInterface.cs\\PartTimeEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:08:01.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "AbstractInterface.cs\\FullTimeEmployee.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\FullTimeEmployee.cs",
+              "RelativeToolTip": "AbstractInterface.cs\\FullTimeEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:07:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEmployee.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\BaseEmployee.cs",
+              "RelativeDocumentMoniker": "AbstractInterface.cs\\BaseEmployee.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOP\\AbstractInterface.cs\\BaseEmployee.cs",
+              "RelativeToolTip": "AbstractInterface.cs\\BaseEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:07:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOP\\Polymorphism.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism.cs\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOP\\Polymorphism.cs\\Program.cs",
+              "RelativeToolTip": "Polymorphism.cs\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:43:09.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\HashSet\bin\Debug\net8.0\HashSet.exe
+D:\C#_BasicLearning\CommonC#Topics\HashSet\bin\Debug\net8.0\HashSet.deps.json
+D:\C#_BasicLearning\CommonC#Topics\HashSet\bin\Debug\net8.0\HashSet.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\HashSet\bin\Debug\net8.0\HashSet.dll
+D:\C#_BasicLearning\CommonC#Topics\HashSet\bin\Debug\net8.0\HashSet.pdb
+D:\C#_BasicLearning\CommonC#Topics\HashSet\obj\Debug\net8.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\HashSet\obj\Debug\net8.0\HashSet.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\HashSet\obj\Debug\net8.0\HashSet.dll
+D:\C#_BasicLearning\CommonC#Topics\HashSet\obj\Debug\net8.0\refint\HashSet.dll
+D:\C#_BasicLearning\CommonC#Topics\HashSet\obj\Debug\net8.0\HashSet.pdb
+D:\C#_BasicLearning\CommonC#Topics\HashSet\obj\Debug\net8.0\HashSet.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\HashSet\obj\Debug\net8.0\ref\HashSet.dll

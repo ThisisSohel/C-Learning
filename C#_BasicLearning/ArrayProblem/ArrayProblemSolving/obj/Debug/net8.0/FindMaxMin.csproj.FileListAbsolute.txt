@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\bin\Debug\net8.0\FindMaxMin.exe
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\bin\Debug\net8.0\FindMaxMin.deps.json
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\bin\Debug\net8.0\FindMaxMin.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\bin\Debug\net8.0\FindMaxMin.dll
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\bin\Debug\net8.0\FindMaxMin.pdb
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\obj\Debug\net8.0\FindMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\obj\Debug\net8.0\FindMaxMin.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\obj\Debug\net8.0\FindMaxMin.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\obj\Debug\net8.0\FindMaxMin.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\obj\Debug\net8.0\FindMaxMin.dll
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\obj\Debug\net8.0\refint\FindMaxMin.dll
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\obj\Debug\net8.0\FindMaxMin.pdb
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\obj\Debug\net8.0\FindMaxMin.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\ArrayProblemSolving\obj\Debug\net8.0\ref\FindMaxMin.dll

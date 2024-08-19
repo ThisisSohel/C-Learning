@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\bin\Debug\net8.0\DictionaryLinkQuery.exe
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\bin\Debug\net8.0\DictionaryLinkQuery.deps.json
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\bin\Debug\net8.0\DictionaryLinkQuery.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\bin\Debug\net8.0\DictionaryLinkQuery.dll
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\bin\Debug\net8.0\DictionaryLinkQuery.pdb
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\obj\Debug\net8.0\DictionaryLinkQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\obj\Debug\net8.0\DictionaryLinkQuery.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\obj\Debug\net8.0\DictionaryLinkQuery.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\obj\Debug\net8.0\DictionaryLinkQuery.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\obj\Debug\net8.0\DictionaryLinkQuery.dll
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\obj\Debug\net8.0\refint\DictionaryLinkQuery.dll
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\obj\Debug\net8.0\DictionaryLinkQuery.pdb
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\obj\Debug\net8.0\DictionaryLinkQuery.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinkQuery\obj\Debug\net8.0\ref\DictionaryLinkQuery.dll

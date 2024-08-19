@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\bin\Debug\net8.0\ObjectArray.exe
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\bin\Debug\net8.0\ObjectArray.deps.json
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\bin\Debug\net8.0\ObjectArray.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\bin\Debug\net8.0\ObjectArray.dll
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\bin\Debug\net8.0\ObjectArray.pdb
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\obj\Debug\net8.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\obj\Debug\net8.0\ObjectArray.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\obj\Debug\net8.0\ObjectArray.dll
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\obj\Debug\net8.0\refint\ObjectArray.dll
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\obj\Debug\net8.0\ObjectArray.pdb
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\obj\Debug\net8.0\ObjectArray.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\ObjectArray\obj\Debug\net8.0\ref\ObjectArray.dll

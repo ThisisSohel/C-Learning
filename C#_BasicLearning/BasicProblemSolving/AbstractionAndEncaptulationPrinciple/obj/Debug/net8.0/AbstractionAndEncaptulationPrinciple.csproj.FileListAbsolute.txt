@@ -1,0 +1,28 @@
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.exe
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.deps.json
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.runtimeconfig.json
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.dll
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.pdb
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.AssemblyInfoInputs.cache
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.AssemblyInfo.cs
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.csproj.CoreCompileInputs.cache
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.dll
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\refint\AbstractionAndEncaptulationPrinciple.dll
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.pdb
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.genruntimeconfig.cache
+I:\.Net Framework\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\ref\AbstractionAndEncaptulationPrinciple.dll
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.exe
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.deps.json
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.runtimeconfig.json
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.dll
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\bin\Debug\net8.0\AbstractionAndEncaptulationPrinciple.pdb
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.AssemblyInfo.cs
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.dll
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\refint\AbstractionAndEncaptulationPrinciple.dll
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.pdb
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\AbstractionAndEncaptulationPrinciple.genruntimeconfig.cache
+D:\C#_BasicLearning\BasicProblemSolving\AbstractionAndEncaptulationPrinciple\obj\Debug\net8.0\ref\AbstractionAndEncaptulationPrinciple.dll

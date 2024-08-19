@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\bin\Debug\net8.0\ExceptionFilter.cs.exe
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\bin\Debug\net8.0\ExceptionFilter.cs.deps.json
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\bin\Debug\net8.0\ExceptionFilter.cs.runtimeconfig.json
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\bin\Debug\net8.0\ExceptionFilter.cs.dll
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\bin\Debug\net8.0\ExceptionFilter.cs.pdb
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\obj\Debug\net8.0\ExceptionFilter.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\obj\Debug\net8.0\ExceptionFilter.cs.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\obj\Debug\net8.0\ExceptionFilter.cs.AssemblyInfo.cs
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\obj\Debug\net8.0\ExceptionFilter.cs.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\obj\Debug\net8.0\ExceptionFilter.cs.dll
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\obj\Debug\net8.0\refint\ExceptionFilter.cs.dll
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\obj\Debug\net8.0\ExceptionFilter.cs.pdb
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\obj\Debug\net8.0\ExceptionFilter.cs.genruntimeconfig.cache
+D:\C#_BasicLearning\ExceptionHandling\ExceptionFilter.cs\obj\Debug\net8.0\ref\ExceptionFilter.cs.dll

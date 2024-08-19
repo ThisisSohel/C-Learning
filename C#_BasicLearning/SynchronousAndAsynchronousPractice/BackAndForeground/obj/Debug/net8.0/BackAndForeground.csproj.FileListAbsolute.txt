@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\bin\Debug\net8.0\BackAndForeground.exe
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\bin\Debug\net8.0\BackAndForeground.deps.json
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\bin\Debug\net8.0\BackAndForeground.runtimeconfig.json
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\bin\Debug\net8.0\BackAndForeground.dll
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\bin\Debug\net8.0\BackAndForeground.pdb
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\obj\Debug\net8.0\BackAndForeground.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\obj\Debug\net8.0\BackAndForeground.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\obj\Debug\net8.0\BackAndForeground.AssemblyInfo.cs
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\obj\Debug\net8.0\BackAndForeground.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\obj\Debug\net8.0\BackAndForeground.dll
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\obj\Debug\net8.0\refint\BackAndForeground.dll
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\obj\Debug\net8.0\BackAndForeground.pdb
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\obj\Debug\net8.0\BackAndForeground.genruntimeconfig.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackAndForeground\obj\Debug\net8.0\ref\BackAndForeground.dll

@@ -1,0 +1,4 @@
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync1\obj\Debug\net8.0\SimpleAsync1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync1\obj\Debug\net8.0\SimpleAsync1.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync1\obj\Debug\net8.0\SimpleAsync1.AssemblyInfo.cs
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync1\obj\Debug\net8.0\SimpleAsync1.csproj.CoreCompileInputs.cache

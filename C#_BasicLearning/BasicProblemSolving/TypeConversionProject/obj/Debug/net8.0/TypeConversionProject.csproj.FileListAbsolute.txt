@@ -1,0 +1,28 @@
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.exe
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.deps.json
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.runtimeconfig.json
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.dll
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.pdb
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.GeneratedMSBuildEditorConfig.editorconfig
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.AssemblyInfoInputs.cache
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.AssemblyInfo.cs
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.csproj.CoreCompileInputs.cache
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.dll
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\refint\TypeConversionProject.dll
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.pdb
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.genruntimeconfig.cache
+I:\.Net Framework\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\ref\TypeConversionProject.dll
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.exe
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.deps.json
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.runtimeconfig.json
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.dll
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\bin\Debug\net8.0\TypeConversionProject.pdb
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.AssemblyInfo.cs
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.dll
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\refint\TypeConversionProject.dll
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.pdb
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\TypeConversionProject.genruntimeconfig.cache
+D:\C#_BasicLearning\BasicProblemSolving\TypeConversionProject\obj\Debug\net8.0\ref\TypeConversionProject.dll

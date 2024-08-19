@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Abstruction.cs/1.0.0": {
+        "runtime": {
+          "Abstruction.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstruction.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

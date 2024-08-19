@@ -1,0 +1,24 @@
+﻿@model MVCFrameWorkProject.Models.EmployeeViewModel
+@{
+    ViewBag.Title = "CreateEmployeeAsync";
+}
+
+<h2>Create New Employee</h2>
+
+@using (@Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.EmployeeName, new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.EmployeeName, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.EmployeeAge, new { @class = "control-label col-md-2" })
+        @Html.TextBoxFor(model => model.EmployeeAge,null, new { @class = "form-control" })
+    </div>
+
+
+
+    <input type="submit", value="Submit", class="btn btn-success"/>
+}
+

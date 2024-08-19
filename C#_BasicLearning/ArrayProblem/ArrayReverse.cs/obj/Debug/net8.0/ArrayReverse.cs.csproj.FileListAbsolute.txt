@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\bin\Debug\net8.0\ArrayReverse.cs.exe
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\bin\Debug\net8.0\ArrayReverse.cs.deps.json
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\bin\Debug\net8.0\ArrayReverse.cs.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\bin\Debug\net8.0\ArrayReverse.cs.dll
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\bin\Debug\net8.0\ArrayReverse.cs.pdb
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\obj\Debug\net8.0\ArrayReverse.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\obj\Debug\net8.0\ArrayReverse.cs.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\obj\Debug\net8.0\ArrayReverse.cs.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\obj\Debug\net8.0\ArrayReverse.cs.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\obj\Debug\net8.0\ArrayReverse.cs.dll
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\obj\Debug\net8.0\refint\ArrayReverse.cs.dll
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\obj\Debug\net8.0\ArrayReverse.cs.pdb
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\obj\Debug\net8.0\ArrayReverse.cs.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\ArrayReverse.cs\obj\Debug\net8.0\ref\ArrayReverse.cs.dll

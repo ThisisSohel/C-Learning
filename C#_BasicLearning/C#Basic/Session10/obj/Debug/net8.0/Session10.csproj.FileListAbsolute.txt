@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\C#Basic\Session10\bin\Debug\net8.0\Session10.exe
+D:\C#_BasicLearning\C#Basic\Session10\bin\Debug\net8.0\Session10.deps.json
+D:\C#_BasicLearning\C#Basic\Session10\bin\Debug\net8.0\Session10.runtimeconfig.json
+D:\C#_BasicLearning\C#Basic\Session10\bin\Debug\net8.0\Session10.dll
+D:\C#_BasicLearning\C#Basic\Session10\bin\Debug\net8.0\Session10.pdb
+D:\C#_BasicLearning\C#Basic\Session10\obj\Debug\net8.0\Session10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\C#Basic\Session10\obj\Debug\net8.0\Session10.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\C#Basic\Session10\obj\Debug\net8.0\Session10.AssemblyInfo.cs
+D:\C#_BasicLearning\C#Basic\Session10\obj\Debug\net8.0\Session10.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\C#Basic\Session10\obj\Debug\net8.0\Session10.dll
+D:\C#_BasicLearning\C#Basic\Session10\obj\Debug\net8.0\refint\Session10.dll
+D:\C#_BasicLearning\C#Basic\Session10\obj\Debug\net8.0\Session10.pdb
+D:\C#_BasicLearning\C#Basic\Session10\obj\Debug\net8.0\Session10.genruntimeconfig.cache
+D:\C#_BasicLearning\C#Basic\Session10\obj\Debug\net8.0\ref\Session10.dll

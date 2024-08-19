@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringMethod.exe
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringMethod.deps.json
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringMethod.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringMethod.dll
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringMethod.pdb
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringMethod.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringMethod.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringMethod.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringMethod.dll
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\refint\StringMethod.dll
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringMethod.pdb
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringMethod.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\ref\StringMethod.dll

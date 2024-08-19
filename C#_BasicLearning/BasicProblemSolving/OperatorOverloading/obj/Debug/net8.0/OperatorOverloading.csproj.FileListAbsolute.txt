@@ -1,0 +1,14 @@
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.exe
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.deps.json
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.runtimeconfig.json
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.dll
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.pdb
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfoInputs.cache
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfo.cs
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.dll
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\obj\Debug\net8.0\refint\OperatorOverloading.dll
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.pdb
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.genruntimeconfig.cache
+I:\.Net Framework\BasicProblemSolving\OperatorOverloading\obj\Debug\net8.0\ref\OperatorOverloading.dll

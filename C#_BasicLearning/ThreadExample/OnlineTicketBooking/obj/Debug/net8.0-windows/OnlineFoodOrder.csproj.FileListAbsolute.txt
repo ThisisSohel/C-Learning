@@ -1,0 +1,16 @@
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineFoodOrder.exe
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineFoodOrder.deps.json
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineFoodOrder.runtimeconfig.json
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineFoodOrder.dll
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineFoodOrder.pdb
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.Form1.resources
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineFoodOrder.csproj.GenerateResource.cache
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineFoodOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineFoodOrder.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineFoodOrder.AssemblyInfo.cs
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineFoodOrder.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineFoodOrder.dll
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\refint\OnlineFoodOrder.dll
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineFoodOrder.pdb
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineFoodOrder.genruntimeconfig.cache
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\ref\OnlineFoodOrder.dll

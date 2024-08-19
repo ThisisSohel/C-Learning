@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.exe
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.deps.json
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.dll
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.pdb
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.dll
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\obj\Debug\net8.0\refint\BoxingUnboxing.dll
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.pdb
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\BoxingUnboxing\obj\Debug\net8.0\ref\BoxingUnboxing.dll

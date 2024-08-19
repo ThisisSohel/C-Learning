@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\liskovsubstitutionprinciple\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\liskovsubstitutionprinciple\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\liskovsubstitutionprinciple\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\liskovsubstitutionprinciple\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\liskovsubstitutionprinciple\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\liskovsubstitutionprinciple\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2862D674-8B40-4D3F-A6F9-776177204059}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347D4D2C-76C1-4C00-BD49-B9C959220142}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\dependencyinversionprinciple\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347D4D2C-76C1-4C00-BD49-B9C959220142}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|solutionrelative:dependencyinversionprinciple\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347D4D2C-76C1-4C00-BD49-B9C959220142}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\dependencyinversionprinciple\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347D4D2C-76C1-4C00-BD49-B9C959220142}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|solutionrelative:dependencyinversionprinciple\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\interfacesegregationprinciple\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347D4D2C-76C1-4C00-BD49-B9C959220142}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\dependencyinversionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347D4D2C-76C1-4C00-BD49-B9C959220142}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|solutionrelative:dependencyinversionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\interfacesegregationprinciple\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\interfacesegregationprinciple\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\interfacesegregationprinciple\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\interfacesegregationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCB0B6A-06FE-4C9B-AAED-361972F2936F}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\opencloseprinciple\\onlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|solutionrelative:opencloseprinciple\\onlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\opencloseprinciple\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|solutionrelative:opencloseprinciple\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\opencloseprinciple\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|solutionrelative:opencloseprinciple\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\opencloseprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|solutionrelative:opencloseprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\opencloseprinciple\\offlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|solutionrelative:opencloseprinciple\\offlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\opencloseprinciple\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|solutionrelative:opencloseprinciple\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|d:\\c#_basiclearning\\oopsolidprinciple\\opencloseprinciple\\newlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BEC13-75EA-4020-A9D1-AF6113B17459}|OpenClosePrinciple\\OpenClosePrinciple.csproj|solutionrelative:opencloseprinciple\\newlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Orange.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Orange.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Orange.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Orange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:34:39.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Apple.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Apple.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Apple.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Apple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:33:55.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Fruit.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Fruit.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Fruit.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:33:02.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:16:46.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Square.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Square.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Square.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:19:33.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Rectangle.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Rectangle.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Rectangle.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:18:22.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Shape.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Shape.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\LiskovSubstitutionPrinciple\\Shape.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:17:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\DependencyInversionPrinciple\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\StudentRepository.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\DependencyInversionPrinciple\\StudentRepository.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:01:24.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\DependencyInversionPrinciple\\Student.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\Student.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\DependencyInversionPrinciple\\Student.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:58:50.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\DependencyInversionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\DependencyInversionPrinciple\\Program.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:56:22.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\Course.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Course.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\Course.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Course.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:35:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\ICourseRepository.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\ICourseRepository.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:34:51.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\Student.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Student.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\Student.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Student.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:32:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\IStudentRepository.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\IStudentRepository.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:31:14.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\InterfaceSegregationPrinciple\\Program.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:30:22.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OfflineCourse.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\OfflineCourse.cs",
+              "RelativeDocumentMoniker": "OpenClosePrinciple\\OfflineCourse.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\OfflineCourse.cs",
+              "RelativeToolTip": "OpenClosePrinciple\\OfflineCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:19:30.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OnlineCourse.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\OnlineCourse.cs",
+              "RelativeDocumentMoniker": "OpenClosePrinciple\\OnlineCourse.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\OnlineCourse.cs",
+              "RelativeToolTip": "OpenClosePrinciple\\OnlineCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:18:25.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\Student.cs",
+              "RelativeDocumentMoniker": "OpenClosePrinciple\\Student.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\Student.cs",
+              "RelativeToolTip": "OpenClosePrinciple\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:15:33.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\Course.cs",
+              "RelativeDocumentMoniker": "OpenClosePrinciple\\Course.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\Course.cs",
+              "RelativeToolTip": "OpenClosePrinciple\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:14:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewLogger.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\NewLogger.cs",
+              "RelativeDocumentMoniker": "OpenClosePrinciple\\NewLogger.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\NewLogger.cs",
+              "RelativeToolTip": "OpenClosePrinciple\\NewLogger.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:06:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\Logger.cs",
+              "RelativeDocumentMoniker": "OpenClosePrinciple\\Logger.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\Logger.cs",
+              "RelativeToolTip": "OpenClosePrinciple\\Logger.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:02:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "OpenClosePrinciple\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\OOPSolidPrinciple\\OpenClosePrinciple\\Program.cs",
+              "RelativeToolTip": "OpenClosePrinciple\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:02:43.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

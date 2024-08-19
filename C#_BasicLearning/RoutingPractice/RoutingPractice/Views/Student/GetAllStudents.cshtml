@@ -1,0 +1,32 @@
+﻿@model IEnumerable<RoutingPractice.Models.Student>
+@{
+    ViewBag.Title = "GetAllStudents";
+}
+
+<h2>GetAllStudents</h2>
+
+<table>
+
+     <tr>
+         <th>
+             @Html.DisplayNameFor(Model => Model.Id)
+         </th>
+         <th>
+             @Html.DisplayNameFor(Model => Model.Name)
+         </th>
+     </tr>
+
+    @foreach(var studentInfo in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelStuInfo => studentInfo.Id)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelStuInfo => studentInfo.Name)
+                    </td>
+                </tr>
+            }
+</table>
+

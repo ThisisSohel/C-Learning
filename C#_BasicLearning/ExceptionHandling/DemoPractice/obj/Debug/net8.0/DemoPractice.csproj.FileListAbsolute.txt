@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\bin\Debug\net8.0\DemoPractice.exe
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\bin\Debug\net8.0\DemoPractice.deps.json
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\bin\Debug\net8.0\DemoPractice.runtimeconfig.json
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\bin\Debug\net8.0\DemoPractice.dll
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\bin\Debug\net8.0\DemoPractice.pdb
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\obj\Debug\net8.0\DemoPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\obj\Debug\net8.0\DemoPractice.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\obj\Debug\net8.0\DemoPractice.AssemblyInfo.cs
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\obj\Debug\net8.0\DemoPractice.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\obj\Debug\net8.0\DemoPractice.dll
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\obj\Debug\net8.0\refint\DemoPractice.dll
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\obj\Debug\net8.0\DemoPractice.pdb
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\obj\Debug\net8.0\DemoPractice.genruntimeconfig.cache
+D:\C#_BasicLearning\ExceptionHandling\DemoPractice\obj\Debug\net8.0\ref\DemoPractice.dll

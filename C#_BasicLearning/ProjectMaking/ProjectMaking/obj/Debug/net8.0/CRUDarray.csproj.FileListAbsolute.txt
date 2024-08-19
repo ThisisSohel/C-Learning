@@ -1,0 +1,14 @@
+I:\.Net Framework\ProjectMaking\ProjectMaking\bin\Debug\net8.0\CRUDarray.exe
+I:\.Net Framework\ProjectMaking\ProjectMaking\bin\Debug\net8.0\CRUDarray.deps.json
+I:\.Net Framework\ProjectMaking\ProjectMaking\bin\Debug\net8.0\CRUDarray.runtimeconfig.json
+I:\.Net Framework\ProjectMaking\ProjectMaking\bin\Debug\net8.0\CRUDarray.dll
+I:\.Net Framework\ProjectMaking\ProjectMaking\bin\Debug\net8.0\CRUDarray.pdb
+I:\.Net Framework\ProjectMaking\ProjectMaking\obj\Debug\net8.0\CRUDarray.GeneratedMSBuildEditorConfig.editorconfig
+I:\.Net Framework\ProjectMaking\ProjectMaking\obj\Debug\net8.0\CRUDarray.AssemblyInfoInputs.cache
+I:\.Net Framework\ProjectMaking\ProjectMaking\obj\Debug\net8.0\CRUDarray.AssemblyInfo.cs
+I:\.Net Framework\ProjectMaking\ProjectMaking\obj\Debug\net8.0\CRUDarray.csproj.CoreCompileInputs.cache
+I:\.Net Framework\ProjectMaking\ProjectMaking\obj\Debug\net8.0\CRUDarray.dll
+I:\.Net Framework\ProjectMaking\ProjectMaking\obj\Debug\net8.0\refint\CRUDarray.dll
+I:\.Net Framework\ProjectMaking\ProjectMaking\obj\Debug\net8.0\CRUDarray.pdb
+I:\.Net Framework\ProjectMaking\ProjectMaking\obj\Debug\net8.0\CRUDarray.genruntimeconfig.cache
+I:\.Net Framework\ProjectMaking\ProjectMaking\obj\Debug\net8.0\ref\CRUDarray.dll

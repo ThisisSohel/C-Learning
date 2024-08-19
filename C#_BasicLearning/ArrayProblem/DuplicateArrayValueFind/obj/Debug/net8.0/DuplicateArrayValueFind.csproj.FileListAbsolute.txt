@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\bin\Debug\net8.0\DuplicateArrayValueFind.exe
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\bin\Debug\net8.0\DuplicateArrayValueFind.deps.json
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\bin\Debug\net8.0\DuplicateArrayValueFind.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\bin\Debug\net8.0\DuplicateArrayValueFind.dll
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\bin\Debug\net8.0\DuplicateArrayValueFind.pdb
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\obj\Debug\net8.0\DuplicateArrayValueFind.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\obj\Debug\net8.0\DuplicateArrayValueFind.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\obj\Debug\net8.0\DuplicateArrayValueFind.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\obj\Debug\net8.0\DuplicateArrayValueFind.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\obj\Debug\net8.0\DuplicateArrayValueFind.dll
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\obj\Debug\net8.0\refint\DuplicateArrayValueFind.dll
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\obj\Debug\net8.0\DuplicateArrayValueFind.pdb
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\obj\Debug\net8.0\DuplicateArrayValueFind.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\DuplicateArrayValueFind\obj\Debug\net8.0\ref\DuplicateArrayValueFind.dll

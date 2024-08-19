@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\bin\Debug\net8.0\InterfaceOOP.exe
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\bin\Debug\net8.0\InterfaceOOP.deps.json
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\bin\Debug\net8.0\InterfaceOOP.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\bin\Debug\net8.0\InterfaceOOP.dll
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\bin\Debug\net8.0\InterfaceOOP.pdb
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\obj\Debug\net8.0\InterfaceOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\obj\Debug\net8.0\InterfaceOOP.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\obj\Debug\net8.0\InterfaceOOP.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\obj\Debug\net8.0\InterfaceOOP.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\obj\Debug\net8.0\InterfaceOOP.dll
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\obj\Debug\net8.0\refint\InterfaceOOP.dll
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\obj\Debug\net8.0\InterfaceOOP.pdb
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\obj\Debug\net8.0\InterfaceOOP.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\InterfaceOOP\obj\Debug\net8.0\ref\InterfaceOOP.dll

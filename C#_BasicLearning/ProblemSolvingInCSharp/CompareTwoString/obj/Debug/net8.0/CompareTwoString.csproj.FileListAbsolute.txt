@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\bin\Debug\net8.0\CompareTwoString.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\bin\Debug\net8.0\CompareTwoString.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\bin\Debug\net8.0\CompareTwoString.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\bin\Debug\net8.0\CompareTwoString.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\bin\Debug\net8.0\CompareTwoString.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\obj\Debug\net8.0\CompareTwoString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\obj\Debug\net8.0\CompareTwoString.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\obj\Debug\net8.0\CompareTwoString.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\obj\Debug\net8.0\CompareTwoString.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\obj\Debug\net8.0\CompareTwoString.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\obj\Debug\net8.0\refint\CompareTwoString.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\obj\Debug\net8.0\CompareTwoString.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\obj\Debug\net8.0\CompareTwoString.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CompareTwoString\obj\Debug\net8.0\ref\CompareTwoString.dll

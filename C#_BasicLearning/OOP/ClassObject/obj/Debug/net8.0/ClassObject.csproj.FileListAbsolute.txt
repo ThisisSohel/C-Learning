@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\OOP\ClassObject\bin\Debug\net8.0\ClassObject.exe
+D:\C#_BasicLearning\OOP\ClassObject\bin\Debug\net8.0\ClassObject.deps.json
+D:\C#_BasicLearning\OOP\ClassObject\bin\Debug\net8.0\ClassObject.runtimeconfig.json
+D:\C#_BasicLearning\OOP\ClassObject\bin\Debug\net8.0\ClassObject.dll
+D:\C#_BasicLearning\OOP\ClassObject\bin\Debug\net8.0\ClassObject.pdb
+D:\C#_BasicLearning\OOP\ClassObject\obj\Debug\net8.0\ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\OOP\ClassObject\obj\Debug\net8.0\ClassObject.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\OOP\ClassObject\obj\Debug\net8.0\ClassObject.AssemblyInfo.cs
+D:\C#_BasicLearning\OOP\ClassObject\obj\Debug\net8.0\ClassObject.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\OOP\ClassObject\obj\Debug\net8.0\ClassObject.dll
+D:\C#_BasicLearning\OOP\ClassObject\obj\Debug\net8.0\refint\ClassObject.dll
+D:\C#_BasicLearning\OOP\ClassObject\obj\Debug\net8.0\ClassObject.pdb
+D:\C#_BasicLearning\OOP\ClassObject\obj\Debug\net8.0\ClassObject.genruntimeconfig.cache
+D:\C#_BasicLearning\OOP\ClassObject\obj\Debug\net8.0\ref\ClassObject.dll

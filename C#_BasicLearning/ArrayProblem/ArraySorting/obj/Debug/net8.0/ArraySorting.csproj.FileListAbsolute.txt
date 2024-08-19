@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\bin\Debug\net8.0\ArraySorting.exe
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\bin\Debug\net8.0\ArraySorting.deps.json
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\bin\Debug\net8.0\ArraySorting.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\bin\Debug\net8.0\ArraySorting.dll
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\bin\Debug\net8.0\ArraySorting.pdb
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\obj\Debug\net8.0\ArraySorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\obj\Debug\net8.0\ArraySorting.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\obj\Debug\net8.0\ArraySorting.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\obj\Debug\net8.0\ArraySorting.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\obj\Debug\net8.0\ArraySorting.dll
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\obj\Debug\net8.0\refint\ArraySorting.dll
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\obj\Debug\net8.0\ArraySorting.pdb
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\obj\Debug\net8.0\ArraySorting.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\ArraySorting\obj\Debug\net8.0\ref\ArraySorting.dll

@@ -1,0 +1,4 @@
+D:\C#_BasicLearning\C#Basic\Session11\obj\Debug\net8.0\Session11.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\C#Basic\Session11\obj\Debug\net8.0\Session11.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\C#Basic\Session11\obj\Debug\net8.0\Session11.AssemblyInfo.cs
+D:\C#_BasicLearning\C#Basic\Session11\obj\Debug\net8.0\Session11.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\bin\Debug\net8.0\ForLoop.exe
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\bin\Debug\net8.0\ForLoop.deps.json
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\bin\Debug\net8.0\ForLoop.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\bin\Debug\net8.0\ForLoop.dll
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\bin\Debug\net8.0\ForLoop.pdb
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\obj\Debug\net8.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\obj\Debug\net8.0\ForLoop.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\obj\Debug\net8.0\ForLoop.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\obj\Debug\net8.0\ForLoop.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\obj\Debug\net8.0\ForLoop.dll
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\obj\Debug\net8.0\refint\ForLoop.dll
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\obj\Debug\net8.0\ForLoop.pdb
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\obj\Debug\net8.0\ForLoop.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\ForLoop\obj\Debug\net8.0\ref\ForLoop.dll

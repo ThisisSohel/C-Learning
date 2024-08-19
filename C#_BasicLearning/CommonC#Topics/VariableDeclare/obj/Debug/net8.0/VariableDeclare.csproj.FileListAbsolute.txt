@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\bin\Debug\net8.0\VariableDeclare.exe
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\bin\Debug\net8.0\VariableDeclare.deps.json
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\bin\Debug\net8.0\VariableDeclare.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\bin\Debug\net8.0\VariableDeclare.dll
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\bin\Debug\net8.0\VariableDeclare.pdb
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\obj\Debug\net8.0\VariableDeclare.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\obj\Debug\net8.0\VariableDeclare.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\obj\Debug\net8.0\VariableDeclare.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\obj\Debug\net8.0\VariableDeclare.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\obj\Debug\net8.0\VariableDeclare.dll
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\obj\Debug\net8.0\refint\VariableDeclare.dll
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\obj\Debug\net8.0\VariableDeclare.pdb
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\obj\Debug\net8.0\VariableDeclare.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\VariableDeclare\obj\Debug\net8.0\ref\VariableDeclare.dll

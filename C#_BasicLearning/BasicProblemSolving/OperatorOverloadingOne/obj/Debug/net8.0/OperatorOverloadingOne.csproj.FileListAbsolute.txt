@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\bin\Debug\net8.0\OperatorOverloadingOne.exe
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\bin\Debug\net8.0\OperatorOverloadingOne.deps.json
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\bin\Debug\net8.0\OperatorOverloadingOne.runtimeconfig.json
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\bin\Debug\net8.0\OperatorOverloadingOne.dll
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\bin\Debug\net8.0\OperatorOverloadingOne.pdb
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\obj\Debug\net8.0\OperatorOverloadingOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\obj\Debug\net8.0\OperatorOverloadingOne.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\obj\Debug\net8.0\OperatorOverloadingOne.AssemblyInfo.cs
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\obj\Debug\net8.0\OperatorOverloadingOne.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\obj\Debug\net8.0\OperatorOverloadingOne.dll
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\obj\Debug\net8.0\refint\OperatorOverloadingOne.dll
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\obj\Debug\net8.0\OperatorOverloadingOne.pdb
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\obj\Debug\net8.0\OperatorOverloadingOne.genruntimeconfig.cache
+D:\C#_BasicLearning\BasicProblemSolving\OperatorOverloadingOne\obj\Debug\net8.0\ref\OperatorOverloadingOne.dll

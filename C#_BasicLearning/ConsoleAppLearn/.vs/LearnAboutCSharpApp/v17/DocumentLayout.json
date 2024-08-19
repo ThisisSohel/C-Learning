@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\ConsoleAppLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|d:\\c#_basiclearning\\consoleapplearn\\consoleapplearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|solutionrelative:consoleapplearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|d:\\c#_basiclearning\\consoleapplearn\\consoleapplearn\\data\\myconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|solutionrelative:consoleapplearn\\data\\myconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|d:\\c#_basiclearning\\consoleapplearn\\consoleapplearn\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|solutionrelative:consoleapplearn\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|d:\\c#_basiclearning\\consoleapplearn\\consoleapplearn\\data\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|solutionrelative:consoleapplearn\\data\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|d:\\c#_basiclearning\\consoleapplearn\\consoleapplearn\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|solutionrelative:consoleapplearn\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|d:\\c#_basiclearning\\consoleapplearn\\consoleapplearn\\data\\nesteddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC620D-C193-431D-9AFE-C6AE3F2F0210}|ConsoleAppLearn\\ConsoleAppLearn.csproj|solutionrelative:consoleapplearn\\data\\nesteddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NestedData.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Data\\NestedData.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLearn\\Data\\NestedData.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Data\\NestedData.cs",
+              "RelativeToolTip": "ConsoleAppLearn\\Data\\NestedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:28:53.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLearn\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Program.cs",
+              "RelativeToolTip": "ConsoleAppLearn\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:48:41.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyConsole.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Data\\MyConsole.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLearn\\Data\\MyConsole.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Data\\MyConsole.cs",
+              "RelativeToolTip": "ConsoleAppLearn\\Data\\MyConsole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:10:03.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Data\\PersonModel.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLearn\\Data\\PersonModel.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Data\\PersonModel.cs",
+              "RelativeToolTip": "ConsoleAppLearn\\Data\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:00:57.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLearn\\Models\\PersonModel.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Models\\PersonModel.cs",
+              "RelativeToolTip": "ConsoleAppLearn\\Models\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:59:36.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLearn\\Data\\DataAccess.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ConsoleAppLearn\\ConsoleAppLearn\\Data\\DataAccess.cs",
+              "RelativeToolTip": "ConsoleAppLearn\\Data\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:29:53.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

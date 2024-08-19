@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\OOP\Stack\bin\Debug\net8.0\Stack.exe
+D:\C#_BasicLearning\OOP\Stack\bin\Debug\net8.0\Stack.deps.json
+D:\C#_BasicLearning\OOP\Stack\bin\Debug\net8.0\Stack.runtimeconfig.json
+D:\C#_BasicLearning\OOP\Stack\bin\Debug\net8.0\Stack.dll
+D:\C#_BasicLearning\OOP\Stack\bin\Debug\net8.0\Stack.pdb
+D:\C#_BasicLearning\OOP\Stack\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\OOP\Stack\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\OOP\Stack\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+D:\C#_BasicLearning\OOP\Stack\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\OOP\Stack\obj\Debug\net8.0\Stack.dll
+D:\C#_BasicLearning\OOP\Stack\obj\Debug\net8.0\refint\Stack.dll
+D:\C#_BasicLearning\OOP\Stack\obj\Debug\net8.0\Stack.pdb
+D:\C#_BasicLearning\OOP\Stack\obj\Debug\net8.0\Stack.genruntimeconfig.cache
+D:\C#_BasicLearning\OOP\Stack\obj\Debug\net8.0\ref\Stack.dll

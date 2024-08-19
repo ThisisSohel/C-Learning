@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\bin\Debug\net8.0\ClassObjet.exe
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\bin\Debug\net8.0\ClassObjet.deps.json
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\bin\Debug\net8.0\ClassObjet.runtimeconfig.json
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\bin\Debug\net8.0\ClassObjet.dll
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\bin\Debug\net8.0\ClassObjet.pdb
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\obj\Debug\net8.0\ClassObjet.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\obj\Debug\net8.0\ClassObjet.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\obj\Debug\net8.0\ClassObjet.AssemblyInfo.cs
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\obj\Debug\net8.0\ClassObjet.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\obj\Debug\net8.0\ClassObjet.dll
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\obj\Debug\net8.0\refint\ClassObjet.dll
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\obj\Debug\net8.0\ClassObjet.pdb
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\obj\Debug\net8.0\ClassObjet.genruntimeconfig.cache
+D:\C#_BasicLearning\PracticeBasedOnTopic\PracticeBasedOnTopic\obj\Debug\net8.0\ref\ClassObjet.dll

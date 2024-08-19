@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\bin\Debug\net8.0\CopyString.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\bin\Debug\net8.0\CopyString.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\bin\Debug\net8.0\CopyString.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\bin\Debug\net8.0\CopyString.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\bin\Debug\net8.0\CopyString.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\obj\Debug\net8.0\CopyString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\obj\Debug\net8.0\CopyString.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\obj\Debug\net8.0\CopyString.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\obj\Debug\net8.0\CopyString.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\obj\Debug\net8.0\CopyString.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\obj\Debug\net8.0\refint\CopyString.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\obj\Debug\net8.0\CopyString.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\obj\Debug\net8.0\CopyString.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\CopyString\obj\Debug\net8.0\ref\CopyString.dll

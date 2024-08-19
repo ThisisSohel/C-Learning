@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\bin\Debug\net8.0\GenericsPractice.exe
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\bin\Debug\net8.0\GenericsPractice.deps.json
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\bin\Debug\net8.0\GenericsPractice.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\bin\Debug\net8.0\GenericsPractice.dll
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\bin\Debug\net8.0\GenericsPractice.pdb
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\obj\Debug\net8.0\GenericsPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\obj\Debug\net8.0\GenericsPractice.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\obj\Debug\net8.0\GenericsPractice.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\obj\Debug\net8.0\GenericsPractice.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\obj\Debug\net8.0\GenericsPractice.dll
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\obj\Debug\net8.0\refint\GenericsPractice.dll
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\obj\Debug\net8.0\GenericsPractice.pdb
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\obj\Debug\net8.0\GenericsPractice.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\GenericsPractice\obj\Debug\net8.0\ref\GenericsPractice.dll

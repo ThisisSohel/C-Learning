@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringType.exe
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringType.deps.json
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringType.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringType.dll
+D:\C#_BasicLearning\CommonC#Topics\StringType\bin\Debug\net8.0\StringType.pdb
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringType.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringType.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringType.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringType.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringType.dll
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\refint\StringType.dll
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringType.pdb
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\StringType.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\StringType\obj\Debug\net8.0\ref\StringType.dll

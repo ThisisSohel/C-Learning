@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\ArrayProblem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC81365-1D62-4A74-B396-0996846CEA26}|DummyArray\\DummyArray.csproj|d:\\c#_basiclearning\\arrayproblem\\dummyarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC81365-1D62-4A74-B396-0996846CEA26}|DummyArray\\DummyArray.csproj|solutionrelative:dummyarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CF5ADF-AE38-4766-B0BB-BCA3BEB6CA90}|SortingArray\\SortingArray.csproj|d:\\c#_basiclearning\\arrayproblem\\sortingarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CF5ADF-AE38-4766-B0BB-BCA3BEB6CA90}|SortingArray\\SortingArray.csproj|solutionrelative:sortingarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3271F6D9-A89D-46A1-BDA9-BEDB5E4D7E03}|RemoveElementFromSpecificPosition\\RemoveElementFromSpecificPosition.csproj|d:\\c#_basiclearning\\arrayproblem\\removeelementfromspecificposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3271F6D9-A89D-46A1-BDA9-BEDB5E4D7E03}|RemoveElementFromSpecificPosition\\RemoveElementFromSpecificPosition.csproj|solutionrelative:removeelementfromspecificposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166FA398-662A-47D8-8BC4-2A53A4DE9555}|FindUniqueValueUsingHashSet\\FindUniqueValueUsingHashSet.csproj|d:\\c#_basiclearning\\arrayproblem\\finduniquevalueusinghashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166FA398-662A-47D8-8BC4-2A53A4DE9555}|FindUniqueValueUsingHashSet\\FindUniqueValueUsingHashSet.csproj|solutionrelative:finduniquevalueusinghashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F29468A-F4C7-4EFF-A12B-33397854BF60}|DuplicateArrayValueFind\\DuplicateArrayValueFind.csproj|d:\\c#_basiclearning\\arrayproblem\\duplicatearrayvaluefind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F29468A-F4C7-4EFF-A12B-33397854BF60}|DuplicateArrayValueFind\\DuplicateArrayValueFind.csproj|solutionrelative:duplicatearrayvaluefind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFD56BD-23B0-433E-B546-B6E96B1ABB10}|DeleteDuplicateElementOfArray\\DeleteDuplicateElementOfArray.csproj|D:\\C#_BasicLearning\\ArrayProblem\\deleteduplicateelementofarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFD56BD-23B0-433E-B546-B6E96B1ABB10}|DeleteDuplicateElementOfArray\\DeleteDuplicateElementOfArray.csproj|solutionrelative:deleteduplicateelementofarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4B8239-F71D-4848-9F65-68E781807D9E}|PositiveNumberLinq\\PositiveNumberLinq.csproj|D:\\C#_BasicLearning\\ArrayProblem\\positivenumberlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4B8239-F71D-4848-9F65-68E781807D9E}|PositiveNumberLinq\\PositiveNumberLinq.csproj|solutionrelative:positivenumberlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BF1FDF-B743-471A-8CD8-3AB50C79FCD7}|UniqueElementOfArray\\UniqueElementOfArray.csproj|D:\\C#_BasicLearning\\ArrayProblem\\uniqueelementofarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BF1FDF-B743-471A-8CD8-3AB50C79FCD7}|UniqueElementOfArray\\UniqueElementOfArray.csproj|solutionrelative:uniqueelementofarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CD416E-622C-45E9-8959-0FC42582C885}|RandomNumberGeberator\\RandomNumberGeberator.csproj|D:\\C#_BasicLearning\\ArrayProblem\\randomnumbergeberator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CD416E-622C-45E9-8959-0FC42582C885}|RandomNumberGeberator\\RandomNumberGeberator.csproj|solutionrelative:randomnumbergeberator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5CD90B-6CFA-4083-9BA3-8AA07A0B2269}|OccurrenceArray\\OccurrenceArray.csproj|D:\\C#_BasicLearning\\ArrayProblem\\occurrencearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5CD90B-6CFA-4083-9BA3-8AA07A0B2269}|OccurrenceArray\\OccurrenceArray.csproj|solutionrelative:occurrencearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4CEFA-597A-4FF7-9077-2532F4A751BF}|CRUDOperationUsingArray\\CRUDOperationUsingArray.csproj|D:\\C#_BasicLearning\\ArrayProblem\\crudoperationusingarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C4CEFA-597A-4FF7-9077-2532F4A751BF}|CRUDOperationUsingArray\\CRUDOperationUsingArray.csproj|solutionrelative:crudoperationusingarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4CEFA-597A-4FF7-9077-2532F4A751BF}|CRUDOperationUsingArray\\CRUDOperationUsingArray.csproj|D:\\C#_BasicLearning\\ArrayProblem\\crudoperationusingarray\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C4CEFA-597A-4FF7-9077-2532F4A751BF}|CRUDOperationUsingArray\\CRUDOperationUsingArray.csproj|solutionrelative:crudoperationusingarray\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C903BDCA-B29B-4E63-A6AE-275353B16C63}|ObjectMethodPass\\ObjectMethodPass.csproj|D:\\C#_BasicLearning\\ArrayProblem\\objectmethodpass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C903BDCA-B29B-4E63-A6AE-275353B16C63}|ObjectMethodPass\\ObjectMethodPass.csproj|solutionrelative:objectmethodpass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7BCB7D-887B-4F5E-912F-26CCA2902D6B}|DictionaryLinkQuery\\DictionaryLinkQuery.csproj|D:\\C#_BasicLearning\\ArrayProblem\\dictionarylinkquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7BCB7D-887B-4F5E-912F-26CCA2902D6B}|DictionaryLinkQuery\\DictionaryLinkQuery.csproj|solutionrelative:dictionarylinkquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F568977D-CFA4-441F-AC97-D38DDE09C415}|DictionaryLinqQuery\\DictionaryLinqQuery.csproj|D:\\C#_BasicLearning\\ArrayProblem\\dictionarylinqquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F568977D-CFA4-441F-AC97-D38DDE09C415}|DictionaryLinqQuery\\DictionaryLinqQuery.csproj|solutionrelative:dictionarylinqquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E391224B-C23E-4D1B-8EE9-53B62C2D0196}|ListLinqQuery\\ListLinqQuery.csproj|D:\\C#_BasicLearning\\ArrayProblem\\listlinqquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E391224B-C23E-4D1B-8EE9-53B62C2D0196}|ListLinqQuery\\ListLinqQuery.csproj|solutionrelative:listlinqquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E391224B-C23E-4D1B-8EE9-53B62C2D0196}|ListLinqQuery\\ListLinqQuery.csproj|D:\\C#_BasicLearning\\ArrayProblem\\listlinqquery\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E391224B-C23E-4D1B-8EE9-53B62C2D0196}|ListLinqQuery\\ListLinqQuery.csproj|solutionrelative:listlinqquery\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E28E4E-101C-4713-A1A6-E6858B45654B}|ListPractice\\ListPractice.csproj|D:\\C#_BasicLearning\\ArrayProblem\\listpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E28E4E-101C-4713-A1A6-E6858B45654B}|ListPractice\\ListPractice.csproj|solutionrelative:listpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B37FC4E-7BA7-42A5-85B2-67F9E2F3FA68}|ArrayLinqQuery\\ArrayLinqQuery.csproj|D:\\C#_BasicLearning\\ArrayProblem\\arraylinqquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B37FC4E-7BA7-42A5-85B2-67F9E2F3FA68}|ArrayLinqQuery\\ArrayLinqQuery.csproj|solutionrelative:arraylinqquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7BCB7D-887B-4F5E-912F-26CCA2902D6B}|DictionaryLinkQuery\\DictionaryLinkQuery.csproj|D:\\C#_BasicLearning\\ArrayProblem\\dictionarylinkquery\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7BCB7D-887B-4F5E-912F-26CCA2902D6B}|DictionaryLinkQuery\\DictionaryLinkQuery.csproj|solutionrelative:dictionarylinkquery\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B37FC4E-7BA7-42A5-85B2-67F9E2F3FA68}|ArrayLinqQuery\\ArrayLinqQuery.csproj|D:\\C#_BasicLearning\\ArrayProblem\\arraylinqquery\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B37FC4E-7BA7-42A5-85B2-67F9E2F3FA68}|ArrayLinqQuery\\ArrayLinqQuery.csproj|solutionrelative:arraylinqquery\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017EA6F1-240C-4CF9-BD00-313662208C35}|ObjectArray\\ObjectArray.csproj|D:\\C#_BasicLearning\\ArrayProblem\\objectarray\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017EA6F1-240C-4CF9-BD00-313662208C35}|ObjectArray\\ObjectArray.csproj|solutionrelative:objectarray\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A2897-F89B-4E29-836B-00787430DD36}|ArraySorting\\ArraySorting.csproj|D:\\C#_BasicLearning\\ArrayProblem\\arraysorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A2897-F89B-4E29-836B-00787430DD36}|ArraySorting\\ArraySorting.csproj|solutionrelative:arraysorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017EA6F1-240C-4CF9-BD00-313662208C35}|ObjectArray\\ObjectArray.csproj|D:\\C#_BasicLearning\\ArrayProblem\\objectarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017EA6F1-240C-4CF9-BD00-313662208C35}|ObjectArray\\ObjectArray.csproj|solutionrelative:objectarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\DummyArray\\Program.cs",
+              "RelativeDocumentMoniker": "DummyArray\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\DummyArray\\Program.cs",
+              "RelativeToolTip": "DummyArray\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:16:53.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\RemoveElementFromSpecificPosition\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveElementFromSpecificPosition\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\RemoveElementFromSpecificPosition\\Program.cs",
+              "RelativeToolTip": "RemoveElementFromSpecificPosition\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:06:49.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\SortingArray\\Program.cs",
+              "RelativeDocumentMoniker": "SortingArray\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\SortingArray\\Program.cs",
+              "RelativeToolTip": "SortingArray\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:20:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\FindUniqueValueUsingHashSet\\Program.cs",
+              "RelativeDocumentMoniker": "FindUniqueValueUsingHashSet\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\FindUniqueValueUsingHashSet\\Program.cs",
+              "RelativeToolTip": "FindUniqueValueUsingHashSet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:04:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\RandomNumberGeberator\\Program.cs",
+              "RelativeDocumentMoniker": "RandomNumberGeberator\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\RandomNumberGeberator\\Program.cs",
+              "RelativeToolTip": "RandomNumberGeberator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:22:08.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\OccurrenceArray\\Program.cs",
+              "RelativeDocumentMoniker": "OccurrenceArray\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\OccurrenceArray\\Program.cs",
+              "RelativeToolTip": "OccurrenceArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:26:47.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\UniqueElementOfArray\\Program.cs",
+              "RelativeDocumentMoniker": "UniqueElementOfArray\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\UniqueElementOfArray\\Program.cs",
+              "RelativeToolTip": "UniqueElementOfArray\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:12:19.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\PositiveNumberLinq\\Program.cs",
+              "RelativeDocumentMoniker": "PositiveNumberLinq\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\PositiveNumberLinq\\Program.cs",
+              "RelativeToolTip": "PositiveNumberLinq\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:01:06.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\DeleteDuplicateElementOfArray\\Program.cs",
+              "RelativeDocumentMoniker": "DeleteDuplicateElementOfArray\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\DeleteDuplicateElementOfArray\\Program.cs",
+              "RelativeToolTip": "DeleteDuplicateElementOfArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:19:10.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\DuplicateArrayValueFind\\Program.cs",
+              "RelativeDocumentMoniker": "DuplicateArrayValueFind\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\DuplicateArrayValueFind\\Program.cs",
+              "RelativeToolTip": "DuplicateArrayValueFind\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:01:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\CRUDOperationUsingArray\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDOperationUsingArray\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\CRUDOperationUsingArray\\Program.cs",
+              "RelativeToolTip": "CRUDOperationUsingArray\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:46:09.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\CRUDOperationUsingArray\\Person.cs",
+              "RelativeDocumentMoniker": "CRUDOperationUsingArray\\Person.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\CRUDOperationUsingArray\\Person.cs",
+              "RelativeToolTip": "CRUDOperationUsingArray\\Person.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:45:56.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\DictionaryLinqQuery\\Program.cs",
+              "RelativeDocumentMoniker": "DictionaryLinqQuery\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\DictionaryLinqQuery\\Program.cs",
+              "RelativeToolTip": "DictionaryLinqQuery\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwBEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:11:00.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\ObjectMethodPass\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectMethodPass\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\ObjectMethodPass\\Program.cs",
+              "RelativeToolTip": "ObjectMethodPass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:48:57.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\DictionaryLinkQuery\\Customer.cs",
+              "RelativeDocumentMoniker": "DictionaryLinkQuery\\Customer.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\DictionaryLinkQuery\\Customer.cs",
+              "RelativeToolTip": "DictionaryLinkQuery\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:52:06.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\DictionaryLinkQuery\\Program.cs",
+              "RelativeDocumentMoniker": "DictionaryLinkQuery\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\DictionaryLinkQuery\\Program.cs",
+              "RelativeToolTip": "DictionaryLinkQuery\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:51:44.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\ArrayLinqQuery\\Customer.cs",
+              "RelativeDocumentMoniker": "ArrayLinqQuery\\Customer.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\ArrayLinqQuery\\Customer.cs",
+              "RelativeToolTip": "ArrayLinqQuery\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:02:44.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\ArrayLinqQuery\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayLinqQuery\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\ArrayLinqQuery\\Program.cs",
+              "RelativeToolTip": "ArrayLinqQuery\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:02:26.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\ListLinqQuery\\Customer.cs",
+              "RelativeDocumentMoniker": "ListLinqQuery\\Customer.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\ListLinqQuery\\Customer.cs",
+              "RelativeToolTip": "ListLinqQuery\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:25:18.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\ListLinqQuery\\Program.cs",
+              "RelativeDocumentMoniker": "ListLinqQuery\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\ListLinqQuery\\Program.cs",
+              "RelativeToolTip": "ListLinqQuery\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwGAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:24:29.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\ListPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ListPractice\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\ListPractice\\Program.cs",
+              "RelativeToolTip": "ListPractice\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:05:05.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\ArraySorting\\Program.cs",
+              "RelativeDocumentMoniker": "ArraySorting\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\ArraySorting\\Program.cs",
+              "RelativeToolTip": "ArraySorting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:01:50.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\ObjectArray\\Person.cs",
+              "RelativeDocumentMoniker": "ObjectArray\\Person.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\ObjectArray\\Person.cs",
+              "RelativeToolTip": "ObjectArray\\Person.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwEgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:54:36.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\ArrayProblem\\ObjectArray\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectArray\\Program.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\ArrayProblem\\ObjectArray\\Program.cs",
+              "RelativeToolTip": "ObjectArray\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwCEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:54:33.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

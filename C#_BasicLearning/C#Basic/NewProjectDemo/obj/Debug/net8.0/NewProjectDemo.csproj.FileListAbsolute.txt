@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\bin\Debug\net8.0\NewProjectDemo.exe
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\bin\Debug\net8.0\NewProjectDemo.deps.json
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\bin\Debug\net8.0\NewProjectDemo.runtimeconfig.json
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\bin\Debug\net8.0\NewProjectDemo.dll
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\bin\Debug\net8.0\NewProjectDemo.pdb
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\obj\Debug\net8.0\NewProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\obj\Debug\net8.0\NewProjectDemo.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\obj\Debug\net8.0\NewProjectDemo.AssemblyInfo.cs
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\obj\Debug\net8.0\NewProjectDemo.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\obj\Debug\net8.0\NewProjectDemo.dll
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\obj\Debug\net8.0\refint\NewProjectDemo.dll
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\obj\Debug\net8.0\NewProjectDemo.pdb
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\obj\Debug\net8.0\NewProjectDemo.genruntimeconfig.cache
+D:\C#_BasicLearning\C#Basic\NewProjectDemo\obj\Debug\net8.0\ref\NewProjectDemo.dll

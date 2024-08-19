@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\bin\Debug\net8.0\ThreadPool1.exe
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\bin\Debug\net8.0\ThreadPool1.deps.json
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\bin\Debug\net8.0\ThreadPool1.runtimeconfig.json
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\bin\Debug\net8.0\ThreadPool1.dll
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\bin\Debug\net8.0\ThreadPool1.pdb
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\obj\Debug\net8.0\ThreadPool1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\obj\Debug\net8.0\ThreadPool1.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\obj\Debug\net8.0\ThreadPool1.AssemblyInfo.cs
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\obj\Debug\net8.0\ThreadPool1.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\obj\Debug\net8.0\ThreadPool1.dll
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\obj\Debug\net8.0\refint\ThreadPool1.dll
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\obj\Debug\net8.0\ThreadPool1.pdb
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\obj\Debug\net8.0\ThreadPool1.genruntimeconfig.cache
+D:\C#_BasicLearning\ThreadExample\ThreadPool1\obj\Debug\net8.0\ref\ThreadPool1.dll

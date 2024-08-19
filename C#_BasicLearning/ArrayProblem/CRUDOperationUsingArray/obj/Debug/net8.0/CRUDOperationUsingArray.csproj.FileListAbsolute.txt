@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\bin\Debug\net8.0\CRUDOperationUsingArray.exe
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\bin\Debug\net8.0\CRUDOperationUsingArray.deps.json
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\bin\Debug\net8.0\CRUDOperationUsingArray.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\bin\Debug\net8.0\CRUDOperationUsingArray.dll
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\bin\Debug\net8.0\CRUDOperationUsingArray.pdb
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\obj\Debug\net8.0\CRUDOperationUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\obj\Debug\net8.0\CRUDOperationUsingArray.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\obj\Debug\net8.0\CRUDOperationUsingArray.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\obj\Debug\net8.0\CRUDOperationUsingArray.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\obj\Debug\net8.0\CRUDOperationUsingArray.dll
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\obj\Debug\net8.0\refint\CRUDOperationUsingArray.dll
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\obj\Debug\net8.0\CRUDOperationUsingArray.pdb
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\obj\Debug\net8.0\CRUDOperationUsingArray.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\CRUDOperationUsingArray\obj\Debug\net8.0\ref\CRUDOperationUsingArray.dll

@@ -1,0 +1,146 @@
+﻿@model IEnumerable<MVCFrameWorkProject.Models.EmployeeViewModel>
+@{
+    ViewBag.Title = "LoadEmployeeAsync";
+}
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+
+<h2>Employee List</h2>
+@Html.ActionLink("Add New", "CreateEmployeeAsync", new { @class = "btn btn-success mb-2" })
+
+<table class="table-bordered text-center">
+    <thead>
+        <tr>
+            <th>EmployeeName</th>
+            <th>EmployeeAge</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.EmployeeName</td>
+                <td>@employee.EmployeeAge</td>
+                <td>
+
+                    @Html.ActionLink("Update", "UpdateEmployeeAsync", new { id = employee.EmployeeId })
+                    <input type="button" value="Delete" onclick="deleteEmployee(@employee.EmployeeId, '@employee.EmployeeName')"/>
+                    <input type="button" value="Details" onclick="detailsEmployee(@employee.EmployeeId)"/>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="modal" tabindex="-1" id="deleteEmployeeModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Employee Delete</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>Confirm to delete the employee  - <span id="deleteEmployeeName"></span>??</p>
+                <input type="hidden" value="" id="employeeId" />
+            </div>
+            <div class="modal-footer">
+                <a href="#" id="deleteEmployee" class="btn btn-outline-danger">Delete</a>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" id="detailsEmployeeModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Employee details</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <table class="table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Employee Id</th>
+                            <th>Employee Name</th>
+                            <th>Employee Age</th>
+                        </tr>
+                    </thead>
+                    <tbody id="employeeDetailsContent">
+                        <tr>
+                            <td id="empId"></td>
+                            <td id="empName"></td>
+                            <td id="empAge"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+
+    $(document).ready(function () {
+
+        $("#deleteEmployee").click(function () {
+            const id = $("#employeeId").val()
+            console.log(id)
+            $.ajax({
+                type: "GET",
+                url: "/Employee/DeleteEmployeeAsync",
+                data: { id },
+                success: function (response) {
+                    if (response) {
+                        window.location.href = "/Employee/LoadEmployeeAsync";
+                        $("#deleteEmployeeModal").modal('hide');
+                    }
+                    else {
+                        alert("Internal Server Error")
+                    }
+                },
+                error: function (error) {
+                    alert("500 Error!")
+                }
+            });
+        })
+    })
+
+    function deleteEmployee(id, name) {
+        $("#employeeId").val(id)
+        $("#deleteEmployeeName").text(name)
+        $("#deleteEmployeeModal").modal('show');
+    }
+
+    function detailsEmployee(id) {
+        $.ajax({
+            type: 'GET',
+            url: "/Employee/GetStudentDetails",
+            data: { id },
+            datatype: 'json',
+            success: function (response) {
+                console.log(response)
+                if (response.IsValid == true) {
+                    $("#empId").text(response.Result.EmployeeId)
+                    $("#empName").text(response.Result.EmployeeName)
+                    $("#empAge").text(response.Result.EmployeeAge)
+                    $("#detailsEmployeeModal").modal('show');
+                } else {
+                    console.log(response.Message)
+                }
+            },
+            error: function (response) {
+                console.log(response.Message)
+            }
+        })
+
+    }
+</script>

@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\SortingArray\bin\Debug\net8.0\SortingArray.exe
+D:\C#_BasicLearning\ArrayProblem\SortingArray\bin\Debug\net8.0\SortingArray.deps.json
+D:\C#_BasicLearning\ArrayProblem\SortingArray\bin\Debug\net8.0\SortingArray.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\SortingArray\bin\Debug\net8.0\SortingArray.dll
+D:\C#_BasicLearning\ArrayProblem\SortingArray\bin\Debug\net8.0\SortingArray.pdb
+D:\C#_BasicLearning\ArrayProblem\SortingArray\obj\Debug\net8.0\SortingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\SortingArray\obj\Debug\net8.0\SortingArray.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\SortingArray\obj\Debug\net8.0\SortingArray.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\SortingArray\obj\Debug\net8.0\SortingArray.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\SortingArray\obj\Debug\net8.0\SortingArray.dll
+D:\C#_BasicLearning\ArrayProblem\SortingArray\obj\Debug\net8.0\refint\SortingArray.dll
+D:\C#_BasicLearning\ArrayProblem\SortingArray\obj\Debug\net8.0\SortingArray.pdb
+D:\C#_BasicLearning\ArrayProblem\SortingArray\obj\Debug\net8.0\SortingArray.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\SortingArray\obj\Debug\net8.0\ref\SortingArray.dll

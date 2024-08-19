@@ -1,0 +1,5 @@
+﻿
+
+
+
+SealedClass sealedClass = new SealedClass();

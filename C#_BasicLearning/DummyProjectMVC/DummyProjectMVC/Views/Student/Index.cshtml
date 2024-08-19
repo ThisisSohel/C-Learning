@@ -1,0 +1,167 @@
+﻿@model IEnumerable<DummyProjectMVC.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align: center">Student List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(Model => Model.StudentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model.Age)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.StudentId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.StudentId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.StudentId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<script>
+
+    var x = 10;
+    console.log(x);
+
+    if (true) {
+        const letVariable = "This is true";
+        console.log(letVariable);
+    }
+    //console.log(letVariable);
+
+    if (true) {
+        var varVariable = "This is true";
+    }
+    console.log(varVariable)
+
+    let reAssignLet = "Hi";
+    var reAssignVar = "HiVar";
+
+    console.log(reAssignLet);
+    console.log(reAssignVar);
+
+    //let reAssignLet = "helloLet";
+    var reAssignVra = "HelloVar";
+
+    console.log(reAssignLet);
+    console.log(reAssignVar);
+
+    const constVar = { Name: "Sohel" };
+    console.log(constVar);
+    constVar.Name = "Rabin";
+    console.log(constVar)
+
+    let num1 = 234;
+    let num2 = 2344;
+    console.log("The first number is: " + num1);
+    console.log("The second number is: " + num2);
+
+    const person = {
+        name : "Sohel",
+        age : 10
+    }
+
+    console.log(person)
+    console.log(typeof person)
+
+    var nCheck1 = 10;
+    var nCheck2 = 20;
+
+    var result = nCheck1 > nCheck2 ? "n1 greater" : "n2 greater";
+    console.log(result);
+
+    var count = 0;
+
+    while (count <= 10) {
+        console.log(count)
+        count++
+    }
+
+    const posts = {
+        id: 1,
+        title: "pTitle",
+        body: "pBody"
+    }
+
+    for (let v in posts) {
+        console.log(posts[v])
+    }
+
+    const numbers = [1, 2, 3, 4, 5]
+
+    for (let n in numbers) {
+        console.log(numbers[n])
+    }
+    for (let n of numbers) {
+        console.log(n)
+    }
+
+    function twoSum(a, b) {
+        return a + b;
+    }
+    var result = twoSum(1, 10);
+    console.log(result);
+
+    const add = (x, y) => x + y;
+    console.log("The summation of two numbers is " + add);
+
+    var addResult = add(1, 2);
+
+
+</script>
+
+<html>
+<head>
+    <script type="text/javascript">
+        function sayHello(name, age) {
+            document.write(`Name : ${name} and Age: ${age}`);
+            alert("Hi");
+        }
+
+        function concatenate(fName, lName) {
+            var fullName = fName + lName;
+            return fullName;
+        }
+
+        function funCall() {
+            var result = concatenate('Hi ', 'Hello');
+            alert(result);
+        }
+
+        $document.ready(function () {
+            $("h1").css("color", "red");
+        });
+    </script>
+</head>
+<body>
+    <h1>Click the following button to call the function</h1>
+    <form>
+        <input type="button" onclick="sayHello('Sohel', 24)" value="Say Hello">
+        @*<input type="button" onclick="sayHello()" value="Say Hello"/>*@
+        <input type="button" onclick="funCall()" value="CallTheFunction"/>
+    </form>
+    <p> Use different text in the write method and then try... </p>
+</body>
+</html>

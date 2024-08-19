@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\bin\Debug\net8.0\ValueTypeRefType.exe
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\bin\Debug\net8.0\ValueTypeRefType.deps.json
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\bin\Debug\net8.0\ValueTypeRefType.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\bin\Debug\net8.0\ValueTypeRefType.dll
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\bin\Debug\net8.0\ValueTypeRefType.pdb
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\obj\Debug\net8.0\ValueTypeRefType.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\obj\Debug\net8.0\ValueTypeRefType.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\obj\Debug\net8.0\ValueTypeRefType.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\obj\Debug\net8.0\ValueTypeRefType.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\obj\Debug\net8.0\ValueTypeRefType.dll
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\obj\Debug\net8.0\refint\ValueTypeRefType.dll
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\obj\Debug\net8.0\ValueTypeRefType.pdb
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\obj\Debug\net8.0\ValueTypeRefType.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\ValueTypeRefType\obj\Debug\net8.0\ref\ValueTypeRefType.dll

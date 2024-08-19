@@ -1,0 +1,102 @@
+﻿@model StudentDetailsForm.Models.Student
+
+@{
+    ViewBag.Title = "Edit Student";
+}
+
+<h2>Edit Student</h2>
+
+@using (Html.BeginForm("Edit", "Student", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.Id)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.StudentName, htmlAttributes: new { @class = "control-label" })
+        @Html.TextBoxFor(model => model.StudentName, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.StudentFatherName, htmlAttributes: new { @class = "control-label" })
+        @Html.TextBoxFor(model => model.StudentFatherName, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.StudentMotherName, htmlAttributes: new { @class = "control-label" })
+        @Html.TextBoxFor(model => model.StudentMotherName, new { @class = "form-control" })
+    </div>
+
+    <h3>Educational Details</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Education Level</th>
+                <th>Institution Name</th>
+                <th>Year of Passing</th>
+                <th>Grade</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="educational-details">
+            @for (int i = 0; i < Model.EducationalDetails.Count; i++)
+            {
+                <tr id="educational-detail-@i">
+                    <td>
+                        @Html.TextBoxFor(model => model.EducationalDetails[i].EducationLevel, new { @class = "form-control" })
+                        @Html.HiddenFor(model => model.EducationalDetails[i].StudentEducationalDetailsId)
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(model => model.EducationalDetails[i].InstitutionName, new { @class = "form-control" })
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(model => model.EducationalDetails[i].YearOfPassing, new { @class = "form-control" })
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(model => model.EducationalDetails[i].Grade, new { @class = "form-control" })
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-danger" onclick="removeEducationalDetail(@i)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button type="button" class="btn btn-primary" onclick="addEducationalDetail()">Add More</button>
+    <br />
+    <br />
+    <input type="submit" value="Save" class="btn btn-primary" />
+}
+
+<script>
+    let detailCount = @Model.EducationalDetails.Count;
+
+    function addEducationalDetail() {
+        const container = document.getElementById('educational-details');
+        const newDetail = document.createElement('tr');
+        newDetail.id = `educational-detail-${detailCount}`;
+        newDetail.innerHTML = `
+            <td>
+                <input type="text" name="EducationalDetails[${detailCount}].EducationLevel" class="form-control" />
+                <input type="hidden" name="EducationalDetails[${detailCount}].StudentEducationalDetailsId" value="0" />
+            </td>
+            <td>
+                <input type="text" name="EducationalDetails[${detailCount}].InstitutionName" class="form-control" />
+            </td>
+            <td>
+                <input type="text" name="EducationalDetails[${detailCount}].YearOfPassing" class="form-control" />
+            </td>
+            <td>
+                <input type="text" name="EducationalDetails[${detailCount}].Grade" class="form-control" />
+            </td>
+            <td>
+                <button type="button" class="btn btn-danger" onclick="removeEducationalDetail(${detailCount})">Delete</button>
+            </td>
+        `;
+        container.appendChild(newDetail);
+        detailCount++;
+    }
+
+    function removeEducationalDetail(index) {
+        const detailRow = document.getElementById(`educational-detail-${index}`);
+        if (detailRow) {
+            detailRow.remove();
+        }
+    }
+</script>

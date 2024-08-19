@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\bin\Debug\net8.0\OddNumberOccure.exe
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\bin\Debug\net8.0\OddNumberOccure.deps.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\bin\Debug\net8.0\OddNumberOccure.runtimeconfig.json
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\bin\Debug\net8.0\OddNumberOccure.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\bin\Debug\net8.0\OddNumberOccure.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\obj\Debug\net8.0\OddNumberOccure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\obj\Debug\net8.0\OddNumberOccure.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\obj\Debug\net8.0\OddNumberOccure.AssemblyInfo.cs
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\obj\Debug\net8.0\OddNumberOccure.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\obj\Debug\net8.0\OddNumberOccure.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\obj\Debug\net8.0\refint\OddNumberOccure.dll
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\obj\Debug\net8.0\OddNumberOccure.pdb
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\obj\Debug\net8.0\OddNumberOccure.genruntimeconfig.cache
+D:\C#_BasicLearning\ProblemSolvingInCSharp\OddNumberOccure\obj\Debug\net8.0\ref\OddNumberOccure.dll

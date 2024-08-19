@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\bin\Debug\net8.0\ExceptionThrow.exe
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\bin\Debug\net8.0\ExceptionThrow.deps.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\bin\Debug\net8.0\ExceptionThrow.runtimeconfig.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\bin\Debug\net8.0\ExceptionThrow.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\bin\Debug\net8.0\ExceptionThrow.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\obj\Debug\net8.0\ExceptionThrow.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\obj\Debug\net8.0\ExceptionThrow.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\obj\Debug\net8.0\ExceptionThrow.AssemblyInfo.cs
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\obj\Debug\net8.0\ExceptionThrow.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\obj\Debug\net8.0\ExceptionThrow.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\obj\Debug\net8.0\refint\ExceptionThrow.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\obj\Debug\net8.0\ExceptionThrow.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\obj\Debug\net8.0\ExceptionThrow.genruntimeconfig.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\ExceptionThrow\obj\Debug\net8.0\ref\ExceptionThrow.dll

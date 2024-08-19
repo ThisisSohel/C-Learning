@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\OOP\OperatorPractice\bin\Debug\net8.0\OperatorPractice.exe
+D:\C#_BasicLearning\OOP\OperatorPractice\bin\Debug\net8.0\OperatorPractice.deps.json
+D:\C#_BasicLearning\OOP\OperatorPractice\bin\Debug\net8.0\OperatorPractice.runtimeconfig.json
+D:\C#_BasicLearning\OOP\OperatorPractice\bin\Debug\net8.0\OperatorPractice.dll
+D:\C#_BasicLearning\OOP\OperatorPractice\bin\Debug\net8.0\OperatorPractice.pdb
+D:\C#_BasicLearning\OOP\OperatorPractice\obj\Debug\net8.0\OperatorPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\OOP\OperatorPractice\obj\Debug\net8.0\OperatorPractice.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\OOP\OperatorPractice\obj\Debug\net8.0\OperatorPractice.AssemblyInfo.cs
+D:\C#_BasicLearning\OOP\OperatorPractice\obj\Debug\net8.0\OperatorPractice.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\OOP\OperatorPractice\obj\Debug\net8.0\OperatorPractice.dll
+D:\C#_BasicLearning\OOP\OperatorPractice\obj\Debug\net8.0\refint\OperatorPractice.dll
+D:\C#_BasicLearning\OOP\OperatorPractice\obj\Debug\net8.0\OperatorPractice.pdb
+D:\C#_BasicLearning\OOP\OperatorPractice\obj\Debug\net8.0\OperatorPractice.genruntimeconfig.cache
+D:\C#_BasicLearning\OOP\OperatorPractice\obj\Debug\net8.0\ref\OperatorPractice.dll

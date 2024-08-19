@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\bin\Debug\net8.0\URIExceptionHandling.exe
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\bin\Debug\net8.0\URIExceptionHandling.deps.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\bin\Debug\net8.0\URIExceptionHandling.runtimeconfig.json
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\bin\Debug\net8.0\URIExceptionHandling.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\bin\Debug\net8.0\URIExceptionHandling.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\obj\Debug\net8.0\URIExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\obj\Debug\net8.0\URIExceptionHandling.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\obj\Debug\net8.0\URIExceptionHandling.AssemblyInfo.cs
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\obj\Debug\net8.0\URIExceptionHandling.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\obj\Debug\net8.0\URIExceptionHandling.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\obj\Debug\net8.0\refint\URIExceptionHandling.dll
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\obj\Debug\net8.0\URIExceptionHandling.pdb
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\obj\Debug\net8.0\URIExceptionHandling.genruntimeconfig.cache
+D:\C#_BasicLearning\ProjectOnExceptionHandling\URIExceptionHandling\obj\Debug\net8.0\ref\URIExceptionHandling.dll

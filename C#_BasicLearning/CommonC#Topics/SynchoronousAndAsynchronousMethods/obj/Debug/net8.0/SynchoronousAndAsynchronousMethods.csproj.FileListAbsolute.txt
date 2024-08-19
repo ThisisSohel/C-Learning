@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\bin\Debug\net8.0\SynchoronousAndAsynchronousMethods.exe
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\bin\Debug\net8.0\SynchoronousAndAsynchronousMethods.deps.json
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\bin\Debug\net8.0\SynchoronousAndAsynchronousMethods.runtimeconfig.json
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\bin\Debug\net8.0\SynchoronousAndAsynchronousMethods.dll
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\bin\Debug\net8.0\SynchoronousAndAsynchronousMethods.pdb
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\obj\Debug\net8.0\SynchoronousAndAsynchronousMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\obj\Debug\net8.0\SynchoronousAndAsynchronousMethods.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\obj\Debug\net8.0\SynchoronousAndAsynchronousMethods.AssemblyInfo.cs
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\obj\Debug\net8.0\SynchoronousAndAsynchronousMethods.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\obj\Debug\net8.0\SynchoronousAndAsynchronousMethods.dll
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\obj\Debug\net8.0\refint\SynchoronousAndAsynchronousMethods.dll
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\obj\Debug\net8.0\SynchoronousAndAsynchronousMethods.pdb
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\obj\Debug\net8.0\SynchoronousAndAsynchronousMethods.genruntimeconfig.cache
+D:\C#_BasicLearning\CommonC#Topics\SynchoronousAndAsynchronousMethods\obj\Debug\net8.0\ref\SynchoronousAndAsynchronousMethods.dll

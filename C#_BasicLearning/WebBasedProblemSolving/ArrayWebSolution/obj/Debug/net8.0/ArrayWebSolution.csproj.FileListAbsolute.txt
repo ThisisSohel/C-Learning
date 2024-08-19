@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\bin\Debug\net8.0\ArrayWebSolution.exe
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\bin\Debug\net8.0\ArrayWebSolution.deps.json
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\bin\Debug\net8.0\ArrayWebSolution.runtimeconfig.json
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\bin\Debug\net8.0\ArrayWebSolution.dll
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\bin\Debug\net8.0\ArrayWebSolution.pdb
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\obj\Debug\net8.0\ArrayWebSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\obj\Debug\net8.0\ArrayWebSolution.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\obj\Debug\net8.0\ArrayWebSolution.AssemblyInfo.cs
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\obj\Debug\net8.0\ArrayWebSolution.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\obj\Debug\net8.0\ArrayWebSolution.dll
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\obj\Debug\net8.0\refint\ArrayWebSolution.dll
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\obj\Debug\net8.0\ArrayWebSolution.pdb
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\obj\Debug\net8.0\ArrayWebSolution.genruntimeconfig.cache
+D:\C#_BasicLearning\WebBasedProblemSolving\ArrayWebSolution\obj\Debug\net8.0\ref\ArrayWebSolution.dll

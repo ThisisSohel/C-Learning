@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_BasicLearning\\RoutingPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|d:\\c#_basiclearning\\routingpractice\\routingpractice\\views\\student\\getteacher1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\views\\student\\getteacher1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|D:\\C#_BasicLearning\\RoutingPractice\\routingpractice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|D:\\C#_BasicLearning\\RoutingPractice\\routingpractice\\views\\student\\getteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\views\\student\\getteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|D:\\C#_BasicLearning\\RoutingPractice\\routingpractice\\views\\student\\studentgetbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\views\\student\\studentgetbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|D:\\C#_BasicLearning\\RoutingPractice\\routingpractice\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|D:\\C#_BasicLearning\\RoutingPractice\\routingpractice\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|D:\\C#_BasicLearning\\RoutingPractice\\routingpractice\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|D:\\C#_BasicLearning\\RoutingPractice\\routingpractice\\views\\student\\attributeoptionalparam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631C07B2-025F-4E43-B07F-C95B0B26A962}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\views\\student\\attributeoptionalparam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetTeacher1.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Views\\Student\\GetTeacher1.cshtml",
+              "RelativeDocumentMoniker": "RoutingPractice\\Views\\Student\\GetTeacher1.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Views\\Student\\GetTeacher1.cshtml",
+              "RelativeToolTip": "RoutingPractice\\Views\\Student\\GetTeacher1.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAGAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T09:46:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentGetById.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Views\\Student\\StudentGetById.cshtml",
+              "RelativeDocumentMoniker": "RoutingPractice\\Views\\Student\\StudentGetById.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Views\\Student\\StudentGetById.cshtml",
+              "RelativeToolTip": "RoutingPractice\\Views\\Student\\StudentGetById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T09:45:42.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTeacher.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Views\\Student\\GetTeacher.cshtml",
+              "RelativeDocumentMoniker": "RoutingPractice\\Views\\Student\\GetTeacher.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Views\\Student\\GetTeacher.cshtml",
+              "RelativeToolTip": "RoutingPractice\\Views\\Student\\GetTeacher.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T06:17:59.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "RoutingPractice\\Models\\Teacher.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Models\\Teacher.cs",
+              "RelativeToolTip": "RoutingPractice\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:15:03.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Global.asax.cs",
+              "RelativeDocumentMoniker": "RoutingPractice\\Global.asax.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Global.asax.cs",
+              "RelativeToolTip": "RoutingPractice\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:44:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttributeOptionalParam.cshtml",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Views\\Student\\AttributeOptionalParam.cshtml",
+              "RelativeDocumentMoniker": "RoutingPractice\\Views\\Student\\AttributeOptionalParam.cshtml",
+              "ToolTip": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Views\\Student\\AttributeOptionalParam.cshtml",
+              "RelativeToolTip": "RoutingPractice\\Views\\Student\\AttributeOptionalParam.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T05:33:52.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "RoutingPractice\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "RoutingPractice\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:09:55.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RoutingPractice\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\C#_BasicLearning\\RoutingPractice\\RoutingPractice\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RoutingPractice\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwEcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:25:24.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

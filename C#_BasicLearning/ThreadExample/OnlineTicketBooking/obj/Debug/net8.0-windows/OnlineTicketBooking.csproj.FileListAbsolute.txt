@@ -1,0 +1,16 @@
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineTicketBooking.exe
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineTicketBooking.deps.json
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineTicketBooking.runtimeconfig.json
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineTicketBooking.dll
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\bin\Debug\net8.0-windows\OnlineTicketBooking.pdb
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.Form1.resources
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.csproj.GenerateResource.cache
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.AssemblyInfo.cs
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.dll
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\refint\OnlineTicketBooking.dll
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.pdb
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\OnlineTicketBooking.genruntimeconfig.cache
+D:\C#_BasicLearning\ThreadExample\OnlineTicketBooking\obj\Debug\net8.0-windows\ref\OnlineTicketBooking.dll

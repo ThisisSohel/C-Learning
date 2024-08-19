@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\bin\Debug\net8.0\DictionaryLinqQuery.exe
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\bin\Debug\net8.0\DictionaryLinqQuery.deps.json
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\bin\Debug\net8.0\DictionaryLinqQuery.runtimeconfig.json
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\bin\Debug\net8.0\DictionaryLinqQuery.dll
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\bin\Debug\net8.0\DictionaryLinqQuery.pdb
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\obj\Debug\net8.0\DictionaryLinqQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\obj\Debug\net8.0\DictionaryLinqQuery.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\obj\Debug\net8.0\DictionaryLinqQuery.AssemblyInfo.cs
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\obj\Debug\net8.0\DictionaryLinqQuery.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\obj\Debug\net8.0\DictionaryLinqQuery.dll
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\obj\Debug\net8.0\refint\DictionaryLinqQuery.dll
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\obj\Debug\net8.0\DictionaryLinqQuery.pdb
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\obj\Debug\net8.0\DictionaryLinqQuery.genruntimeconfig.cache
+D:\C#_BasicLearning\ArrayProblem\DictionaryLinqQuery\obj\Debug\net8.0\ref\DictionaryLinqQuery.dll

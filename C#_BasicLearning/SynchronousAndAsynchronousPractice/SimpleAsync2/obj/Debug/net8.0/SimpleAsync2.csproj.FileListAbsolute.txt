@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\bin\Debug\net8.0\SimpleAsync2.exe
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\bin\Debug\net8.0\SimpleAsync2.deps.json
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\bin\Debug\net8.0\SimpleAsync2.runtimeconfig.json
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\bin\Debug\net8.0\SimpleAsync2.dll
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\bin\Debug\net8.0\SimpleAsync2.pdb
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\obj\Debug\net8.0\SimpleAsync2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\obj\Debug\net8.0\SimpleAsync2.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\obj\Debug\net8.0\SimpleAsync2.AssemblyInfo.cs
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\obj\Debug\net8.0\SimpleAsync2.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\obj\Debug\net8.0\SimpleAsync2.dll
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\obj\Debug\net8.0\refint\SimpleAsync2.dll
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\obj\Debug\net8.0\SimpleAsync2.pdb
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\obj\Debug\net8.0\SimpleAsync2.genruntimeconfig.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\SimpleAsync2\obj\Debug\net8.0\ref\SimpleAsync2.dll

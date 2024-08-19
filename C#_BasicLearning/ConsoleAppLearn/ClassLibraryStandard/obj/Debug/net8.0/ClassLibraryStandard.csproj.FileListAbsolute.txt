@@ -1,0 +1,11 @@
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\bin\Debug\net8.0\ClassLibraryStandard.deps.json
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\bin\Debug\net8.0\ClassLibraryStandard.dll
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\bin\Debug\net8.0\ClassLibraryStandard.pdb
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\obj\Debug\net8.0\ClassLibraryStandard.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\obj\Debug\net8.0\ClassLibraryStandard.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\obj\Debug\net8.0\ClassLibraryStandard.AssemblyInfo.cs
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\obj\Debug\net8.0\ClassLibraryStandard.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\obj\Debug\net8.0\ClassLibraryStandard.dll
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\obj\Debug\net8.0\refint\ClassLibraryStandard.dll
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\obj\Debug\net8.0\ClassLibraryStandard.pdb
+D:\C#_BasicLearning\ConsoleAppLearn\ClassLibraryStandard\obj\Debug\net8.0\ref\ClassLibraryStandard.dll

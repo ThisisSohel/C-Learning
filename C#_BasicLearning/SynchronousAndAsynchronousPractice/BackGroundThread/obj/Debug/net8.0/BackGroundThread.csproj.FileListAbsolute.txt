@@ -1,0 +1,14 @@
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\bin\Debug\net8.0\BackGroundThread.exe
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\bin\Debug\net8.0\BackGroundThread.deps.json
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\bin\Debug\net8.0\BackGroundThread.runtimeconfig.json
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\bin\Debug\net8.0\BackGroundThread.dll
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\bin\Debug\net8.0\BackGroundThread.pdb
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\obj\Debug\net8.0\BackGroundThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\obj\Debug\net8.0\BackGroundThread.AssemblyInfoInputs.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\obj\Debug\net8.0\BackGroundThread.AssemblyInfo.cs
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\obj\Debug\net8.0\BackGroundThread.csproj.CoreCompileInputs.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\obj\Debug\net8.0\BackGroundThread.dll
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\obj\Debug\net8.0\refint\BackGroundThread.dll
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\obj\Debug\net8.0\BackGroundThread.pdb
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\obj\Debug\net8.0\BackGroundThread.genruntimeconfig.cache
+D:\C#_BasicLearning\SynchronousAndAsynchronousPractice\BackGroundThread\obj\Debug\net8.0\ref\BackGroundThread.dll
